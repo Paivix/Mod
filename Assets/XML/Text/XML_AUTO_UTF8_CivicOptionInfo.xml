@@ -3,6 +3,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIVICOPTION_ELECTION</Tag>
 		<English>Stance on Elections</English>
+		
+		<PortugueseBR>
+			<Text>Posição sobre as eleições</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Position au sujet des élections</Text>
 			<Gender>Female</Gender>
@@ -20,10 +26,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Позиция по выборам</Russian>
+		<PortuguesePT>
+			<Text>Posicionamento em relação a eleições</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVICOPTION_NATIVES</Tag>
 		<English>Stance on Natives</English>
+		
+		<PortugueseBR>
+			<Text>Posição sobre os nativos</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Position au sujet des indigènes</Text>
 			<Gender>Female</Gender>
@@ -41,10 +58,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Позиция в отношении индейцев</Russian>
+		<PortuguesePT>
+			<Text>Posicionamento em relação aos indígenas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVICOPTION_RELIGION</Tag>
 		<English>Stance on Religion</English>
+		
+		<PortugueseBR>
+			<Text>Posição sobre a religião</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Position au sujet de la religion</Text>
 			<Gender>Female</Gender>
@@ -62,10 +90,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Позиция в отношении религии</Russian>
+		<PortuguesePT>
+			<Text>Posicionamento em relação à religião</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVICOPTION_SECURITY</Tag>
 		<English>Stance on Land Security</English>
+		
+		<PortugueseBR>
+			<Text>Posição sobre segurança fundiária</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Position au sujet de la sécurité du territoire</Text>
 			<Gender>Female</Gender>
@@ -83,10 +122,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Позиция по безопасности</Russian>
+		<PortuguesePT>
+			<Text>Posicionamento em relação à segurança do território</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVICOPTION_SLAVERY</Tag>
 		<English>Stance on Slavery</English>
+		
+		<PortugueseBR>
+			<Text>Posição sobre a escravidão</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Position au sujet de l'esclavage</Text>
 			<Gender>Female</Gender>
@@ -104,5 +154,10 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Позиция в отношении рабства</Russian>
+		<PortuguesePT>
+			<Text>Posicionamento em relação à escravatura</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

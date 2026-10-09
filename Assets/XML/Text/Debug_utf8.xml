@@ -5,25 +5,30 @@
 		<Tag>TXT_KEY_DEBUG_DESYNC_LOG_BUTTON</Tag>
 		<English>Generate OOS debug log</English>
 		<Russian>Создать журнал отладки Рассинхронизации</Russian>
+		<PortuguesePT>Gerar registo de depuração OOS</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DEBUG_DESYNC_LOG_COMPLETE</Tag>
 		<English>Done generating files. Please submit the following:[NEWLINE][ICON_BULLET]Desync save for player %d1.ColonizationSave[NEWLINE][ICON_BULLET]Everything in In documents\my games\colonization\logs[NEWLINE][NEWLINE]Please submit one set for each player/computer involved.[NEWLINE][ICON_BULLET]If possible, also add a savegame/autosave where the OOS can be reproduced.</English>
 		<Russian>Создание файлов завершено.[NEWLINE]Пожалуйста, пришите нам сохранение рассинхронизации для игрока %d1.ColonizationSave[NEWLINE]Файл расположен в папке documents\my games\colonization\logs[NEWLINE][ICON_BULLET]Соберите эти файлы у всех игроков, поместите их в один zip-файл и отправьте в виде отчета об ошибке Рассинхронизации. Если возможно, добавьте автосохранение из предыдущего хода.</Russian>
+		<PortuguesePT>Gerar ficheiros: terminado. Envia os seguintes:[NEWLINE][ICON_BULLET]Gravação de jogo de dessincronização do jogador %d1.ColonizationSave[NEWLINE][ICON_BULLET]Tudo o que estiver em In documents\my games\colonization\logs[NEWLINE][NEWLINE]Envia um conjunto para cada jogador/computador envolvido.[NEWLINE][ICON_BULLET]Se possível, adiciona também uma gravação de jogo/gravação automática onde seja possível reproduzir a OOS.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DEBUG_OOS_MENU</Tag>
 		<English>OOS testing menu[NEWLINE][NEWLINE]Here data can be send to all computers on the network to detect if all computers will react the same way.</English>
 		<Russian>Меню тестирования Рассинхронизации[NEWLINE][NEWLINE]Здесь можно отправить данные на все компьютеры в сети, чтобы определить, будут ли все компьютеры реагировать одинаково.</Russian>
+		<PortuguesePT>Menu de testes OOS[NEWLINE][NEWLINE]Aqui podem ser enviados dados para todos os computadores da rede, para detetar se todos os computadores reagem da mesma forma.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ERROR_NEGATIVE_YIELD_STORAGE_TITLE</Tag>
 		<English>Negative cargo stored error</English>
+		<PortuguesePT>Erro de armazenamento de carga negativa</PortuguesePT>
 		<!--<Russian>Ошибка хранения отрицательного груза</Russian>-->
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ERROR_NEGATIVE_YIELD_STORAGE_DESC</Tag>
 		<English>Colony is storing negative amount of cargo.[NEWLINE]Please make a bug report and provide a savegame from just before this happened.[NEWLINE]Be aware that the autosave from this turn might be from after this happened if it happened just as the turn started.</English>
+		<PortuguesePT>A colónia está a armazenar uma quantidade negativa de carga.[NEWLINE]Cria um relatório de erro e fornece uma gravação de jogo de imediatamente antes de isto acontecer.[NEWLINE]Tem em atenção que a gravação automática deste turno pode ser posterior ao momento em que isto aconteceu, se o problema ocorreu no início do turno.</PortuguesePT>
 		<!--<Russian>В колонии хранится отрицательное количество груза.[NEWLINE]Сообщите об ошибке и предоставьте сохраненную игру, сделанную незадолго до того, как это произошло.[NEWLINE]Имейте в виду, что автосохранение этого хода может произойти после того, как это случилось, если ошибка возникла в момент начала хода.</Russian>-->
 	</TEXT>
 	<TEXT>
@@ -32,5 +37,9 @@
 Tag: %s2
 Read: %d3
 Excepted non-negative number</English>
+<PortuguesePT>%s1
+Tag: %s2
+Lido: %d3
+Esperado um número não negativo</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

@@ -8,6 +8,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARAWAK_DESC</Tag>
 		<English>Arawak</English>
+		<PortugueseBR>
+			<Text>Arawak</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Arawaks</Text>
 			<Gender>Male</Gender>
@@ -25,11 +30,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Араваки</Russian>
-        <PortuguesePT>Aruaques</PortuguesePT>
+		<Hungarian>Aravakok</Hungarian>
+		<PortuguesePT>
+			<Text>Aruaques</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TUPI_DESC</Tag>
-		<English>Tupi</English>
+		<English>Tupi</English>	
+		<PortugueseBR>
+			<Text>Tupi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tupis</Text>
 			<Gender>Male</Gender>
@@ -47,11 +62,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Тупи</Russian>
-        <PortuguesePT>Tupis</PortuguesePT>
+		<Hungarian>Tupik</Hungarian>
+		<PortuguesePT>
+			<Text>Tupi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHEROKEE_DESC</Tag>
-		<English>Cherokee</English>
+		<English>Cherokee</English>	
+		<PortugueseBR>
+			<Text>Cherokee</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Cherokees</Text>
 			<Gender>Male</Gender>
@@ -69,11 +94,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Чироки</Russian>
-        <PortuguesePT>Cheroquis</PortuguesePT>
+		<Hungarian>Cserokik</Hungarian>
+		<PortuguesePT>
+			<Text>Cheroquis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_IROQUOIS_DESC</Tag>
 		<English>Iroquois</English>
+		<PortugueseBR>
+			<Text>Iroqueses</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Iroquois</Text>
 			<Gender>Male</Gender>
@@ -91,11 +126,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Ирокезы</Russian>
-        <PortuguesePT>Iroqueses</PortuguesePT>
+		<Hungarian>Irokézek</Hungarian>
+		<PortuguesePT>
+			<Text>Iroqueses</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SIOUX_DESC</Tag>
 		<English>Sioux</English>
+		<PortugueseBR>
+			<Text>Sioux</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sioux</Text>
 			<Gender>Male</Gender>
@@ -113,11 +158,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Сиу</Russian>
-        <PortuguesePT>Sioux</PortuguesePT>
+		<Hungarian>Sziúk</Hungarian>
+		<PortuguesePT>
+			<Text>Sioux</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NEZ_PERCE_DESC</Tag>
 		<English>Nez Perce</English>
+		<PortugueseBR>
+			<Text>Nez Percé</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nez Perce</Text>
 			<Gender>Male</Gender>
@@ -135,11 +190,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Не-Персе</Russian>
-        <PortuguesePT>Nez Perce</PortuguesePT>
+		<Hungarian>Nez Percék</Hungarian>
+		<PortuguesePT>
+			<Text>Nez Perce</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_APACHE_DESC</Tag>
 		<English>Apache</English>
+		<PortugueseBR>
+			<Text>Apaches</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Apaches</Text>
 			<Gender>Male</Gender>
@@ -157,11 +222,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Апачи</Russian>
-        <PortuguesePT>Apaches</PortuguesePT>
+		<Hungarian>Apacsok</Hungarian>
+		<PortuguesePT>
+			<Text>Apache</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INUIT_DESC</Tag>
 		<English>Inuit</English>
+		<PortugueseBR>
+			<Text>Inuítes</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Inuits</Text>
 			<Gender>Male</Gender>
@@ -179,11 +254,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Инуиты</Russian>
-        <PortuguesePT>Inuítes</PortuguesePT>
+		<Hungarian>Inuitok</Hungarian>
+		<PortuguesePT>
+			<Text>Inuítes</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HURON_DESC</Tag>
 		<English>Huron</English>
+		<PortugueseBR>
+			<Text>Huron</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Hurons</Text>
 			<Gender>Male</Gender>
@@ -201,11 +286,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Гуроны</Russian>
-        <PortuguesePT>Huron</PortuguesePT>
+		<Hungarian>Huronok</Hungarian>
+		<PortuguesePT>
+			<Text>Huron</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ZAPOTEC_DESC</Tag>
 		<English>Zapotec</English>
+		<PortugueseBR>
+			<Text>Zapoteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Zapotèques</Text>
 			<Gender>Male</Gender>
@@ -223,11 +318,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Сапотеки</Russian>
-        <PortuguesePT>Zapotecas</PortuguesePT>
+		<Hungarian>Zapotékok</Hungarian>
+		<PortuguesePT>
+			<Text>Zapotecas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GUARANI_DESC</Tag>
 		<English>Guarani</English>
+		
+		<PortugueseBR>
+			<Text>Guarani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Guaranis</Text>
 			<Gender>Male</Gender>
@@ -245,11 +351,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Гуарани</Russian>
-        <PortuguesePT>Guarani</PortuguesePT>
+		<Hungarian>Guaranik</Hungarian>
+		<PortuguesePT>
+			<Text>Guarani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARIBS_DESC</Tag>
 		<English>Carib</English>
+		
+		<PortugueseBR>
+			<Text>Carib</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Caraïbes</Text>
 			<Gender>Male</Gender>
@@ -267,11 +384,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Карибы</Russian>
-        <PortuguesePT>Caribe</PortuguesePT>
+		<Hungarian>Karibok</Hungarian>
+		<PortuguesePT>
+			<Text>Caribe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NAVAJO_DESC</Tag>
 		<English>Navajo</English>
+		
+		<PortugueseBR>
+			<Text>Navajo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Navajos</Text>
 			<Gender>Male</Gender>
@@ -289,11 +417,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Навахо</Russian>
-        <PortuguesePT>Navajos</PortuguesePT>
+		<Hungarian>Navahók</Hungarian>
+		<PortuguesePT>
+			<Text>Navajos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ALGONQUIAN_DESC</Tag>
 		<English>Algonquian</English>
+		
+		<PortugueseBR>
+			<Text>Algonquino</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Algonquins</Text>
 			<Gender>Male</Gender>
@@ -311,11 +450,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Алгонкины</Russian>
-        <PortuguesePT>Algonquinos</PortuguesePT>
+		<Hungarian>Algonkinok</Hungarian>
+		<PortuguesePT>
+			<Text>Algonquinos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MACHIPARO_DESC</Tag>
 		<English>Machiparo</English>
+		
+		<PortugueseBR>
+			<Text>Machiparo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Machiparos</Text>
 			<Gender>Male</Gender>
@@ -333,11 +483,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Мачипаро</Russian>
-        <PortuguesePT>Machiparo</PortuguesePT>
+		<Hungarian>Macsipárók</Hungarian>
+		<PortuguesePT>
+			<Text>Machiparo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MIXTEC_DESC</Tag>
 		<English>Mixtec</English>
+		
+		<PortugueseBR>
+			<Text>Mixteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Mixtèques</Text>
 			<Gender>Male</Gender>
@@ -355,11 +516,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Миштеки</Russian>
-        <PortuguesePT>Mixtecos</PortuguesePT>
+		<Hungarian>Misték</Hungarian>
+		<PortuguesePT>
+			<Text>Mixtecos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUISCA_DESC</Tag>
 		<English>Muisca</English>
+		
+		<PortugueseBR>
+			<Text>Muisca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Muiscas</Text>
 			<Gender>Male</Gender>
@@ -377,11 +549,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Муиски</Russian>
-        <PortuguesePT>Muísca</PortuguesePT>
+		<Hungarian>Muiszkák</Hungarian>
+		<PortuguesePT>
+			<Text>Muísca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COMANCHE_DESC</Tag>
 		<English>Comanche</English>
+		
+		<PortugueseBR>
+			<Text>Comanche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Comanches</Text>
 			<Gender>Male</Gender>
@@ -399,11 +582,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Команчи</Russian>
-        <PortuguesePT>Comanche</PortuguesePT>
+		<Hungarian>Komancsok</Hungarian>
+		<PortuguesePT>
+			<Text>Comanche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SHOSHONE_DESC</Tag>
 		<English>Shoshone</English>
+		
+		<PortugueseBR>
+			<Text>Shoshone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Shoshones</Text>
 			<Gender>Male</Gender>
@@ -421,11 +615,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Шошоны</Russian>
-        <PortuguesePT>Shoshone</PortuguesePT>
+		<Hungarian>Sosonok</Hungarian>
+		<PortuguesePT>
+			<Text>Shoshone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TOROMONA_DESC</Tag>
 		<English>Toromona</English>
+		
+		<PortugueseBR>
+			<Text>Toromona</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Toromonas</Text>
 			<Gender>Male</Gender>
@@ -443,11 +648,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Торомона</Russian>
-        <PortuguesePT>Toromonas</PortuguesePT>
+		<Hungarian>Toromonák</Hungarian>
+		<PortuguesePT>
+			<Text>Toromonas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CROW_DESC</Tag>
 		<English>Crow</English>
+		
+		<PortugueseBR>
+			<Text>Crow</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Crows</Text>
 			<Gender>Male</Gender>
@@ -465,11 +681,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Кроу</Russian>
-        <PortuguesePT>Corvos</PortuguesePT>
+		<Hungarian>Vicsiták</Hungarian>
+		<PortuguesePT>
+			<Text>Corvos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BLACKFOOT_DESC</Tag>
 		<English>Blackfoot</English>
+		
+		<PortugueseBR>
+			<Text>Blackfoot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Niitsítapi</Text>
 			<Gender>Male</Gender>
@@ -487,11 +714,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Черноногие</Russian>
-        <PortuguesePT>Blackfoot</PortuguesePT>
+		<Hungarian>Feketelábak</Hungarian>
+		<PortuguesePT>
+			<Text>Blackfoot</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GUAYMI_DESC</Tag>
 		<English>Ngabe</English>
+		
+		<PortugueseBR>
+			<Text>Ngabe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Guaymí</Text>
 			<Gender>Male</Gender>
@@ -509,11 +747,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Нгабе</Russian>
-        <PortuguesePT>Ngabe</PortuguesePT>
+		<Hungarian>Guajmik</Hungarian>
+		<PortuguesePT>
+			<Text>Ngabe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TARASCANS_DESC</Tag>
 		<English>Tarascans</English>
+		
+		<PortugueseBR>
+			<Text>Tarascos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tarasques</Text>
 			<Gender>Male</Gender>
@@ -531,11 +780,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Тараски</Russian>
-        <PortuguesePT>Tarascos</PortuguesePT>
+		<Hungarian>Taraszkánok</Hungarian>
+		<PortuguesePT>
+			<Text>Tarascos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_OMAGUA_DESC</Tag>
 		<English>Omagua</English>
+		
+		<PortugueseBR>
+			<Text>Omágua</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Omaguas</Text>
 			<Gender>Male</Gender>
@@ -553,11 +813,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Омагуа</Russian>
-        <PortuguesePT>Omagua</PortuguesePT>
+		<Hungarian>Omaguák</Hungarian>
+		<PortuguesePT>
+			<Text>Omagua</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAPUCHE_DESC</Tag>
 		<English>Mapuche</English>
+		
+		<PortugueseBR>
+			<Text>Mapuche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Mapuches</Text>
 			<Gender>Male</Gender>
@@ -575,6 +846,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Мапуче</Russian>
-        <PortuguesePT>Mapuches</PortuguesePT>
+		<Hungarian>Mapucsék</Hungarian>
+		<PortuguesePT>
+			<Text>Mapuche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

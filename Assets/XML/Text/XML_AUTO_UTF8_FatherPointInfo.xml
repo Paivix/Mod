@@ -3,6 +3,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_POINT_EXPLORATION</Tag>
 		<English>Exploration Points</English>
+		<PortugueseBR>
+			<Text>Pontos de Exploração</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>points d'exploration</French>
 		<German>Erkundungspunkte</German>
 		<Italian>
@@ -16,10 +21,20 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Очки разведки</Russian>
+		<PortuguesePT>
+			<Text>Pontos de Exploração</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_POINT_MILITARY</Tag>
 		<English>Military Points</English>
+		<PortugueseBR>
+			<Text>Pontos Militares</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>points militaires</French>
 		<German>Militärpunkte</German>
 		<Italian>
@@ -33,10 +48,20 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Военные очки</Russian>
+		<PortuguesePT>
+			<Text>Pontos Militares</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_POINT_POLITICAL</Tag>
 		<English>Political Points</English>
+		<PortugueseBR>
+			<Text>Pontos Políticos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>points politiques</French>
 		<German>Politikpunkte</German>
 		<Italian>
@@ -50,10 +75,20 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Политические очки</Russian>
+		<PortuguesePT>
+			<Text>Pontos Políticos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_POINT_RELIGION</Tag>
 		<English>Religion Points</English>
+		<PortugueseBR>
+			<Text>Pontos de Religião</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>points de religion</French>
 		<German>Religionspunkte</German>
 		<Italian>
@@ -67,10 +102,20 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Религиозные очки</Russian>
+		<PortuguesePT>
+			<Text>Pontos Religiosos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_POINT_TRADE</Tag>
 		<English>Trade Points</English>
+		<PortugueseBR>
+			<Text>Pontos Comerciais</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>points de commerce</French>
 		<German>Handelspunkte</German>
 		<Italian>
@@ -84,5 +129,10 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Торговые очки</Russian>
+		<PortuguesePT>
+			<Text>Pontos Comerciais</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

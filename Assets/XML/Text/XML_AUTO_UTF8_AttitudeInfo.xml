@@ -3,51 +3,56 @@
 	<TEXT>
 		<Tag>TXT_KEY_ATTITUDE_ANNOYED</Tag>
 		<English>Annoyed</English>
+		<PortugueseBR>Irritado</PortugueseBR>
 		<French>Agacé:Agacée</French>
 		<German>Verärgert</German>
 		<Italian>Infastidito:Infastidita</Italian>
 		<Spanish>Molesta</Spanish>
 		<Russian>Раздражённый</Russian>
-        <PortuguesePT>Irritado</PortuguesePT>
+		<PortuguesePT>Irritado</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ATTITUDE_CAUTIOUS</Tag>
 		<English>Cautious</English>
+		<PortugueseBR>Cauteloso</PortugueseBR>
 		<French>Prudent:Prudente</French>
 		<German>Vorsichtig</German>
 		<Italian>Cauto:Cauta</Italian>
 		<Spanish>Cauta</Spanish>
 		<Russian>Настороженный</Russian>
-        <PortuguesePT>Cauteloso</PortuguesePT>
+		<PortuguesePT>Cauteloso</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ATTITUDE_FRIENDLY</Tag>
 		<English>Friendly</English>
+		<PortugueseBR>Amigável</PortugueseBR>
 		<French>Enthousiaste</French>
 		<German>Liebevoll</German>
 		<Italian>Amichevole:Amichevole</Italian>
 		<Spanish>Amistosa</Spanish>
 		<Russian>Дружелюбный</Russian>
-        <PortuguesePT>Amigável</PortuguesePT>
+		<PortuguesePT>Amigável</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ATTITUDE_FURIOUS</Tag>
 		<English>Furious</English>
+		<PortugueseBR>Furioso</PortugueseBR>
 		<French>Furieux:Furieuse</French>
 		<German>Wütend</German>
 		<Italian>Furioso:Furiosa</Italian>
 		<Spanish>Furiosa</Spanish>
 		<Russian>Взбешённый</Russian>
-        <PortuguesePT>Furioso</PortuguesePT>
+		<PortuguesePT>Furioso</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ATTITUDE_PLEASED</Tag>
 		<English>Pleased</English>
+		<PortugueseBR>Satisfeito</PortugueseBR>
 		<French>Favorable</French>
 		<German>Erfreut</German>
 		<Italian>Soddisfatto:Soddisfatta</Italian>
 		<Spanish>Amable</Spanish>
 		<Russian>Довольный</Russian>
-        <PortuguesePT>Satisfeito</PortuguesePT>
+		<PortuguesePT>Satisfeito</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

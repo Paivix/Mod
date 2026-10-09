@@ -7,6 +7,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Adam Smith</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Adam Smith</Text>
 			<Gender>Male</Gender>
@@ -32,29 +37,35 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_ADMINISTRATIVE</Tag>
 		<English>Administrative</English>
+		<PortugueseBR>Administrativo</PortugueseBR>
 		<French>Administratif</French>
 		<German>Administrativ</German>
 		<Italian>Amministrativo</Italian>
 		<Spanish>Administrativo</Spanish>
 		<Russian>Администратор</Russian>
+		<PortuguesePT>Administrativo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_ADMIRAL</Tag>
 		<English>Experienced Admiral</English>
+		<PortugueseBR>Almirante Experiente</PortugueseBR>
 		<French>Amiral expérimenté</French>
 		<German>Erfahrener Admiral</German>
 		<Italian>Experienced Admiral</Italian>
 		<Spanish>Experienced Admiral</Spanish>
 		<Russian>Опытный Адмирал (от лидера)</Russian>
+		<PortuguesePT>Almirante experiente</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_AGRICULTURAL</Tag>
 		<English>Agricultural</English>
+		<PortugueseBR>Agrícola</PortugueseBR>
 		<French>Agricultural</French>
 		<German>Landwirtschaft</German>
 		<Italian>Agricultural</Italian>
 		<Spanish>Agricultural</Spanish>
 		<Russian>Земледельцы</Russian>
+		<PortuguesePT>Agrícola</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_ALEXANDER_HAMILTON</Tag>
@@ -63,6 +74,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Alexander Hamilton</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Alexander Hamilton</Text>
 			<Gender>Male</Gender>
@@ -92,6 +108,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Alexander von Humboldt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Alexander von Humboldt</Text>
 			<Gender>Male</Gender>
@@ -121,6 +142,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Comte de Tocqueville</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Comte de Tocqueville</Text>
 			<Gender>Male</Gender>
@@ -150,6 +176,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Bartolomé de Las Casas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Bartolomé de Las Casas</Text>
 			<Gender>Male</Gender>
@@ -179,6 +210,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Benjamin Lincoln</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Benjamin Lincoln</Text>
 			<Gender>Male</Gender>
@@ -208,6 +244,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Benjamin Rush</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Benjamin Rush</Text>
 			<Gender>Male</Gender>
@@ -237,6 +278,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Benjamin Franklin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Benjamin Franklin</Text>
 			<Gender>Male</Gender>
@@ -266,6 +312,11 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Betsy Ross</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Betsy Ross</Text>
 			<Gender>Female</Gender>
@@ -295,6 +346,12 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		
+		<PortugueseBR>
+			<Text>Blackbeard</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Barbe Noire</Text>
 			<Gender>Male</Gender>
@@ -320,6 +377,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_CAPITALIST</Tag>
 		<English>Capitalist</English>
+		
+		<PortugueseBR>
+			<Text>Capitalista:Capitalista</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Capitaliste:Capitaliste</Text>
 			<Gender>Male:Female</Gender>
@@ -337,10 +400,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Капиталист</Russian>
+		<PortuguesePT>            
+			<Text>Capitalista:Capitalista</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_CHARISMATIC</Tag>
 		<English>Charismatic</English>
+		
+		<PortugueseBR>
+			<Text>Carismático:Carismática</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Charismatique</Text>
 			<Gender>Male</Gender>
@@ -362,6 +436,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Харизматичный</Russian>
+		<PortuguesePT>            
+			<Text>Carismático:Carismática</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		  </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_CHARLES_CARROLL</Tag>
@@ -370,6 +449,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Charles Carroll</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Charles Carroll</Text>
 			<Gender>Male</Gender>
@@ -399,6 +483,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Chief Powhatan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Chef Powhatan</Text>
 			<Gender>Male</Gender>
@@ -424,6 +513,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_CITYBUILDER</Tag>
 		<English>Prosperous</English>
+		
+		<PortugueseBR>
+			<Text>Próspero:Próspera</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Prospère:Prospère</Text>
 			<Gender>Male:Female</Gender>
@@ -441,10 +536,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Зажиточный</Russian>
+		<PortuguesePT>            
+			<Text>Próspero:Próspera</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_CLIMBER</Tag>
 		<English>Rock Climber</English>
+		
+		<PortugueseBR>
+			<Text>Alpinista:Alpinista</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Montagnard:Montagnarde</Text>
 			<Gender>Male:Female</Gender>
@@ -462,10 +568,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Скалолаз</Russian>
+		<PortuguesePT>            
+			<Text>Montanhista:Montanhista</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_COASTALWARRIORS</Tag>
 		<English>Coastal Warriors</English>
+		
+		<PortugueseBR>
+			<Text>Guerreiros Costeiros:Guerreiros Costeiros</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Guerrier des côtes:Guerrière des côtes</Text>
 			<Gender>Male:Female</Gender>
@@ -483,6 +600,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Прибрежные воины</Russian>
+		<PortuguesePT>            
+			<Text>Guerreiro costeiro:Guerreira costeira</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_COMTE_DE_VERGENNES</Tag>
@@ -491,6 +613,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Comte de Vergennes</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Comte de Vergennes</Text>
 			<Gender>Male</Gender>
@@ -516,6 +643,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_CONQUEROR</Tag>
 		<English>Conquistador</English>
+		
+		<PortugueseBR>
+			<Text>Conquistador:Conquistador</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Conquistador:Conquistador</Text>
 			<Gender>Male:Female</Gender>
@@ -533,10 +666,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Конкистадоры</Russian>
+		<PortuguesePT>            
+			<Text>Conquistador:Conquistadora</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_COOPERATIVE</Tag>
 		<English>Cooperative</English>
+		
+		<PortugueseBR>
+			<Text>Cooperativo:Cooperativa</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Coopératif:Coopérative</Text>
 			<Gender>Male:Female</Gender>
@@ -554,6 +698,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Общительные</Russian>
+		<PortuguesePT>            
+			<Text>Cooperativo:Cooperativa</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_CYRUS_MCCORMICK</Tag>
@@ -562,6 +711,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Cyrus McCormick</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Cyrus McCormick</Text>
 			<Gender>Male</Gender>
@@ -587,6 +741,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_DETERMINED</Tag>
 		<English>Determined</English>
+		
+		<PortugueseBR>
+			<Text>Determinado:Determinada</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Déterminé:Déterminée</Text>
 			<Gender>Male:Female</Gender>
@@ -604,6 +764,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Решительный</Russian>
+		<PortuguesePT>            
+			<Text>Determinado:Determinada</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_DE_GRASSE</Tag>
@@ -612,6 +777,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Comte de Grasse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Comte de Grasse</Text>
 			<Gender>Male</Gender>
@@ -637,6 +807,8 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_DISCIPLINED</Tag>
 		<English>Disciplined</English>
+		
+		<PortugueseBR>Disciplina</PortugueseBR>
 		<French>
 			<Text>Discipliné:Disciplinée</Text>
 			<Gender>Male:Female</Gender>
@@ -654,6 +826,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Дисциплинированный</Russian>
+		<PortuguesePT>            
+			<Text>Disciplinado:Disciplinada</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_DOM_PEDRO_I</Tag>
@@ -662,6 +839,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Dom Pedro I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Pierre Ier du Brésil</Text>
 			<Gender>Male</Gender>
@@ -691,6 +873,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Eli Whitney</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Eli Whitney</Text>
 			<Gender>Male</Gender>
@@ -716,6 +903,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_ENTERPRISING</Tag>
 		<English>Enterprising</English>
+		
+		<PortugueseBR>
+			<Text>Empreendedor:Empreendedor</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Entreprenant:Entreprenante</Text>
 			<Gender>Male:Female</Gender>
@@ -733,6 +926,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Предприимчивый</Russian>
+		<PortuguesePT>            
+			<Text>Empreendedor:Empreendedora</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_ETHAN_ALLEN</Tag>
@@ -741,6 +939,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Ethan Allen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ethan Allen</Text>
 			<Gender>Male</Gender>
@@ -766,15 +969,27 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_EXPANSIVE</Tag>
 		<English>Expansive</English>
+		<PortugueseBR>Expansivo</PortugueseBR>
 		<French>Expansionniste</French>
 		<German>Expansiv</German>
 		<Italian>Espansivo</Italian>
 		<Spanish>Expansivo</Spanish>
 		<Russian>Несдержанный</Russian>
+		<PortuguesePT>            
+			<Text>Expansionista:Expansionista</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_EXPLORERS</Tag>
 		<English>Explorers</English>
+		
+		<PortugueseBR>
+			<Text>Exploradores:Exploradores</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Explorateur:Exploratrice</Text>
 			<Gender>Male:Female</Gender>
@@ -784,10 +999,21 @@
 		<Italian>Explorers</Italian>
 		<Spanish>Explorers</Spanish>
 		<Russian>Исследователи</Russian>
+		<PortuguesePT>            
+			<Text>Explorador:Exploradora</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_FARMERS</Tag>
 		<English>Farmers</English>
+		
+		<PortugueseBR>
+			<Text>Agricultores:Agricultores</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fermier:Fermière</Text>
 			<Gender>Male:Female</Gender>
@@ -805,6 +1031,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Фермеры</Russian>
+		<PortuguesePT>            
+			<Text>Lavrador:Lavradora</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_FERDINAND_MAGELLAN</Tag>
@@ -813,6 +1044,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Fernão de Magalhães</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fernão de Magalhães</Text>
 			<Gender>Male</Gender>
@@ -838,6 +1074,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_FORESTWARRIORS</Tag>
 		<English>Forest Warriors</English>
+		
+		<PortugueseBR>
+			<Text>Guerreiros da Floresta:Guerreiros da Floresta</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Forestier:Forestière</Text>
 			<Gender>Male:Female</Gender>
@@ -855,6 +1097,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Лесные воины</Russian>
+		<PortuguesePT>            
+			<Text>Guerreiro da floresta:Guerreira da floresta</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_FRANCISCO_DE_CORONADO</Tag>
@@ -863,6 +1110,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Francisco Vázquez de Coronado</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Francisco Vázquez de Coronado</Text>
 			<Gender>Male</Gender>
@@ -892,6 +1144,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Nathaniel Hawthorne</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nathaniel Hawthorne</Text>
 			<Gender>Male</Gender>
@@ -921,6 +1178,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Francisco de Orellana</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Francisco de Orellana</Text>
 			<Gender>Male</Gender>
@@ -950,6 +1212,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Francisco Pizarro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Francisco Pizarro</Text>
 			<Gender>Male</Gender>
@@ -979,6 +1246,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Sir Francis Drake</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sir Francis Drake</Text>
 			<Gender>Male</Gender>
@@ -1008,6 +1280,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Friedrich Wilhelm von Steuben</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Friedrich Wilhelm von Steuben</Text>
 			<Gender>Male</Gender>
@@ -1037,6 +1314,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Sieur de Clieu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sieur de Clieu</Text>
 			<Gender>Male</Gender>
@@ -1066,6 +1348,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Gabriel Lalemant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Gabriel Lalemant</Text>
 			<Gender>Male</Gender>
@@ -1091,15 +1378,27 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_GATHERER</Tag>
 		<English>Gatherer</English>
+		<PortugueseBR>Coletor</PortugueseBR>
 		<French>Collecteur</French>
 		<German>Sammler</German>
 		<Italian>Gatherer</Italian>
 		<Spanish>Gatherer</Spanish>
 		<Russian>Собиратель</Russian>
+		<PortuguesePT>            
+			<Text>Coletor:Coletora</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_GENERAL</Tag>
 		<English>Experienced General</English>
+		
+		<PortugueseBR>
+			<Text>General Experiente</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Général experimenté</Text>
 			<Gender>Male</Gender>
@@ -1109,6 +1408,7 @@
 		<Italian>Esperto Generale</Italian>
 		<Spanish>Experimentado General</Spanish>
 		<Russian>Опытный Генерал (от лидера)</Russian>
+		<PortuguesePT>General experiente</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_GEORGE_FOX</Tag>
@@ -1117,6 +1417,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>George Fox</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>George Fox</Text>
 			<Gender>Male</Gender>
@@ -1146,6 +1451,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Gonzalo Jiménez de Quesada</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Gonzalo Jiménez de Quesada</Text>
 			<Gender>Male</Gender>
@@ -1175,6 +1485,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Gregório de Matos</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Gregório de Matos</Text>
 			<Gender>Male</Gender>
@@ -1204,6 +1519,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Jean Talon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Comte d'Orsainville</Text>
 			<Gender>Male</Gender>
@@ -1233,6 +1553,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Robert Carter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Robert Carter</Text>
 			<Gender>Male</Gender>
@@ -1262,6 +1587,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Louis Jolliet</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Louis Jolliet</Text>
 			<Gender>Male</Gender>
@@ -1291,6 +1621,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>James Cook</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>James Cook</Text>
 			<Gender>Male</Gender>
@@ -1320,6 +1655,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Vasco da Gama</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Vasco da Gama</Text>
 			<Gender>Male</Gender>
@@ -1349,6 +1689,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Sir William Penn</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sir William Penn</Text>
 			<Gender>Male</Gender>
@@ -1378,6 +1723,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Otto Friedrich von der Groeben</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Otto Friedrich von der Groeben</Text>
 			<Gender>Male</Gender>
@@ -1407,6 +1757,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>William Dampier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>William Dampier</Text>
 			<Gender>Male</Gender>
@@ -1436,6 +1791,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Thomas Chippendale</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Thomas Chippendale</Text>
 			<Gender>Male</Gender>
@@ -1465,6 +1825,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Sir James Lancaster</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sir James Lancaster</Text>
 			<Gender>Male</Gender>
@@ -1494,6 +1859,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Henry Shrapnel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Henry Shrapnel</Text>
 			<Gender>Male</Gender>
@@ -1523,6 +1893,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Hernando de Soto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Hernando de Soto</Text>
 			<Gender>Male</Gender>
@@ -1548,6 +1923,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_HUNTERS</Tag>
 		<English>Hunters</English>
+		
+		<PortugueseBR>
+			<Text>Caçadores</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Chasseur:Chasseuse</Text>
 			<Gender>Male:Female</Gender>
@@ -1565,19 +1946,32 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Охотники</Russian>
+		<PortuguesePT>            
+			<Text>Caçador:Caçadora</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_IMPERIALIST</Tag>
 		<English>Imperialist</English>
+		<PortugueseBR>Imperialista</PortugueseBR>
 		<French>Impérialiste</French>
 		<German>Imperialist</German>
 		<Italian>Imperialist</Italian>
 		<Spanish>Imperialist</Spanish>
 		<Russian>Империалисты</Russian>
+		<PortuguesePT>Imperialista</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_INDUSTRIOUS</Tag>
 		<English>Industrious</English>
+		
+		<PortugueseBR>
+			<Text>Trabalhador:Trabalhador</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Travailleur:Travailleuse:Travailleurs:Travailleuses</Text>
 			<Gender>Male:Female:Male:Female</Gender>
@@ -1599,6 +1993,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Трудолюбивый</Russian>
+		<PortuguesePT>Laborioso</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_JACQUES_CARTIER</Tag>
@@ -1607,6 +2002,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Jacques Cartier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Jacques Cartier</Text>
 			<Gender>Male</Gender>
@@ -1636,6 +2036,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Jacques Marquette</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Jacques Marquette</Text>
 			<Gender>Male</Gender>
@@ -1665,6 +2070,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Jakob Fugger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Jakob Fugger</Text>
 			<Gender>Male</Gender>
@@ -1694,6 +2104,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>James Madison</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>James Madison</Text>
 			<Gender>Male</Gender>
@@ -1723,6 +2138,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>James Wilson</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>James Wilson</Text>
 			<Gender>Male</Gender>
@@ -1752,6 +2172,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Johan de Witt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Johan de Witt</Text>
 			<Gender>Male</Gender>
@@ -1781,6 +2206,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Jean de Brébeuf</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Jean de Brébeuf</Text>
 			<Gender>Male</Gender>
@@ -1810,6 +2240,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>John Adams</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>John Adams</Text>
 			<Gender>Male</Gender>
@@ -1839,6 +2274,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Johann August Sutter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Johann August Sutter</Text>
 			<Gender>Male</Gender>
@@ -1868,6 +2308,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>John Harvard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>John Harvard</Text>
 			<Gender>Male</Gender>
@@ -1897,6 +2342,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Johann Jakob Astor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Johann Jakob Astor</Text>
 			<Gender>Male</Gender>
@@ -1926,6 +2376,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>John Jay</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>John Jay</Text>
 			<Gender>Male</Gender>
@@ -1955,6 +2410,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>John Rolfe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>John Rolfe</Text>
 			<Gender>Male</Gender>
@@ -1984,6 +2444,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Eusebius Franz Kühn</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Eusebius Franz Kühn</Text>
 			<Gender>Male</Gender>
@@ -2013,6 +2478,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Sir Humphrey Gilbert</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sir Humphrey Gilbert</Text>
 			<Gender>Male</Gender>
@@ -2042,6 +2512,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>John Smith</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>John Smith</Text>
 			<Gender>Male</Gender>
@@ -2071,6 +2546,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>John Winthrop</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>John Winthrop</Text>
 			<Gender>Male</Gender>
@@ -2100,6 +2580,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>José de San Martín</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>José de San Martín</Text>
 			<Gender>Male</Gender>
@@ -2129,6 +2614,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>João Bermudes</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Juan Bermúdez</Text>
 			<Gender>Male</Gender>
@@ -2158,6 +2648,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Juan Ginés de Sepúlveda</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Juan Ginés de Sepúlveda</Text>
 			<Gender>Male</Gender>
@@ -2187,6 +2682,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Junípero Serra</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Junípero Serra</Text>
 			<Gender>Male</Gender>
@@ -2216,6 +2716,11 @@
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Lewis and Clark</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Lewis et Clark</Text>
 			<Gender>Male</Gender>
@@ -2241,6 +2746,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_LIBERTARIAN</Tag>
 		<English>Rebel Mastermind</English>
+		
+		<PortugueseBR>
+			<Text>Cérebro Rebelde:Cérebro Rebelde</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Libertaire:Libertaire</Text>
 			<Gender>Male:Female</Gender>
@@ -2258,6 +2769,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Мятежный лидер</Russian>
+		<PortuguesePT>Mentor rebelde</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_LORD_BALTIMORE</Tag>
@@ -2266,6 +2778,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Lord Baltimore</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Lord Baltimore</Text>
 			<Gender>Male</Gender>
@@ -2295,6 +2812,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Marquis de La Fayette</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Marquis de La Fayette</Text>
 			<Gender>Male</Gender>
@@ -2320,6 +2842,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_MENTOR</Tag>
 		<English>Mentor</English>
+		
+		<PortugueseBR>
+			<Text>Mentor:Mentor</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Mentor:Mentor</Text>
 			<Gender>Male:Female</Gender>
@@ -2337,10 +2865,17 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Наставник</Russian>
+		<PortuguesePT>Mentor</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_MERCANTILE</Tag>
 		<English>Mercantile</English>
+		
+		<PortugueseBR>
+			<Text>Mercantil:Mercantil</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Commerçant:Commerçante</Text>
 			<Gender>Male:Female</Gender>
@@ -2358,6 +2893,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Торговцы</Russian>
+		<PortuguesePT>
+			<Text>Mercantil:Mercantil</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_MICHIEL_DE_RUYTER</Tag>
@@ -2366,6 +2906,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Michiel de Ruyter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Michiel de Ruyter</Text>
 			<Gender>Male</Gender>
@@ -2395,6 +2940,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Miguel Hidalgo e Costilla</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Miguel Hidalgo y Costilla</Text>
 			<Gender>Male</Gender>
@@ -2424,6 +2974,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Sieur de Villegaignon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sieur de Villegaignon</Text>
 			<Gender>Male</Gender>
@@ -2453,6 +3008,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Nicolás Monardes</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nicolás Monardes</Text>
 			<Gender>Male</Gender>
@@ -2478,6 +3038,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_NOMADS</Tag>
 		<English>Nomads</English>
+		
+		<PortugueseBR>
+			<Text>Nômades:Nômades</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nomade:Nomade</Text>
 			<Gender>Male:Female</Gender>
@@ -2495,15 +3061,18 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Кочевники</Russian>
+		<PortuguesePT>Nómada</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_PATRIARCH</Tag>
 		<English>Patriarch</English>
+		<PortugueseBR>Patriarca</PortugueseBR>
 		<French>Patriarche:Matriarche</French>
 		<German>Stammeshäuptling</German>
 		<Italian>Patriarch</Italian>
 		<Spanish>Patriarch</Spanish>
 		<Russian>Бесстрашный</Russian>
+		<PortuguesePT>Patriarca</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_PATRICK_HENRY</Tag>
@@ -2512,6 +3081,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Patrick Henry</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Patrick Henry</Text>
 			<Gender>Male</Gender>
@@ -2541,6 +3115,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Sieur de Maisonneuve</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sieur de Maisonneuve</Text>
 			<Gender>Male</Gender>
@@ -2570,6 +3149,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Paul Revere</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Paul Revere</Text>
 			<Gender>Male</Gender>
@@ -2599,6 +3183,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Pedro Álvares Cabral</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Pedro Álvares Cabral</Text>
 			<Gender>Male</Gender>
@@ -2628,6 +3217,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Pedro de Valdívia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Pedro de Valdivia</Text>
 			<Gender>Male</Gender>
@@ -2657,6 +3251,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Pedro Menéndez de Avilés</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Pedro Menéndez de Avilés</Text>
 			<Gender>Male</Gender>
@@ -2686,6 +3285,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Peter Minuit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Peter Minuit</Text>
 			<Gender>Male</Gender>
@@ -2711,6 +3315,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_PIONEER</Tag>
 		<English>Pioneer</English>
+		
+		<PortugueseBR>
+			<Text>Pioneiro:Pioneira</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Pionnier</Text>
 			<Gender>Male:Female</Gender>
@@ -2728,6 +3338,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Первопроходец</Russian>
+		<PortuguesePT>
+			<Text>Pioneiro:Pioneira</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_POCAHONTAS</Tag>
@@ -2736,6 +3351,11 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Pocahontas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Pocahontas</Text>
 			<Gender>Female</Gender>
@@ -2761,6 +3381,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_PUPIL</Tag>
 		<English>Pupil</English>
+		
+		<PortugueseBR>
+			<Text>Aluno:Aluna</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Elève:Elève</Text>
 			<Gender>Male:Female</Gender>
@@ -2778,10 +3404,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Любознательный</Russian>
+		<PortuguesePT>
+			<Text>Aprendiz:Aprendiz</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_RAIDERS</Tag>
 		<English>Raiders</English>
+		
+		<PortugueseBR>
+			<Text>Invasores:Invasores</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Aventurier:Aventurière</Text>
 			<Gender>Male:Female</Gender>
@@ -2799,10 +3436,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Налетчики</Russian>
+		<PortuguesePT>
+			<Text>Invasor:Invasora</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_RESOURCEFUL</Tag>
 		<English>Resourceful</English>
+		
+		<PortugueseBR>
+			<Text>Engenhoso:Engenhosa</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ingénieux:Ingénieuse</Text>
 			<Gender>Male:Female</Gender>
@@ -2820,6 +3468,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Находчивый</Russian>
+		<PortuguesePT>
+			<Text>Engenhoso:Engenhosa</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_ROBERT_LA_SALLE</Tag>
@@ -2828,6 +3481,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Sieur de La Salle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sieur de La Salle</Text>
 			<Gender>Male</Gender>
@@ -2857,6 +3515,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Robert Morris</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Robert Morris</Text>
 			<Gender>Male</Gender>
@@ -2886,6 +3549,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Roger Williams</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Roger Williams</Text>
 			<Gender>Male</Gender>
@@ -2915,6 +3583,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Samuel Adams</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Samuel Adams</Text>
 			<Gender>Male</Gender>
@@ -2944,6 +3617,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Samuel Blommaert</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Samuel Blommaert</Text>
 			<Gender>Male</Gender>
@@ -2969,15 +3647,27 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_SEAFARERS</Tag>
 		<English>Seafarers</English>
+		<PortugueseBR>Marinheiros</PortugueseBR>
 		<French>Navigateur</French>
 		<German>Seefahrer</German>
 		<Italian>Seafarers</Italian>
 		<Spanish>Seafarers</Spanish>
 		<Russian>Мореходы</Russian>
+		<PortuguesePT>
+			<Text>Navegador:Navegadora</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_SOPHISTICATED</Tag>
 		<English>Sophisticated</English>
+		
+		<PortugueseBR>
+			<Text>Sofisticado:Sofisticada</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sophistiqué</Text>
 			<Gender>Male:Female</Gender>
@@ -2995,6 +3685,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Культурный</Russian>
+		<PortuguesePT>
+			<Text>Sofisticado:Sofisticada</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_SOR_JUANA</Tag>
@@ -3003,6 +3698,12 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</English>
+		
+		<PortugueseBR>
+			<Text>Sor Juana Inés de la Cruz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sor Juana Inés de la Cruz</Text>
 			<Gender>Female</Gender>
@@ -3032,6 +3733,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Thomas Jefferson</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Thomas Jefferson</Text>
 			<Gender>Male</Gender>
@@ -3061,6 +3767,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Thomas Paine</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Thomas Paine</Text>
 			<Gender>Male</Gender>
@@ -3086,6 +3797,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_TOLERANT</Tag>
 		<English>Tolerant</English>
+		
+		<PortugueseBR>
+			<Text>Tolerante:Tolerante</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tolérant:Tolérante</Text>
 			<Gender>Male:Female</Gender>
@@ -3103,10 +3820,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Толерантные</Russian>
+		<PortuguesePT>
+			<Text>Tolerante:Tolerante</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_TRADER</Tag>
 		<English>Trader</English>
+		
+		<PortugueseBR>
+			<Text>Comerciante:Comerciante</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Commerçant:Commerçante</Text>
 			<Gender>Male:Female</Gender>
@@ -3124,15 +3852,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Торговец</Russian>
+		<PortuguesePT>
+			<Text>Comerciante:Comerciante</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_UNDEMANDING</Tag>
 		<English>Undemanding</English>
+		<PortugueseBR>Pouco exigente</PortugueseBR>
 		<French>Peu exigeant</French>
 		<German>Genügsam</German>
 		<Italian>Undemanding</Italian>
 		<Spanish>Undemanding</Spanish>
 		<Russian>Нетребовательный</Russian>
+		<PortuguesePT>Pouco exigente</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_VACO_NUNEZ_DE_BALBOA</Tag>
@@ -3141,6 +3876,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Vasco Nunes de Balboa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Vasco Núñez de Balboa</Text>
 			<Gender>Male</Gender>
@@ -3170,6 +3910,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Washington Irving</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Washington Irving</Text>
 			<Gender>Male</Gender>
@@ -3199,6 +3944,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Willem Barentsz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Willem Barentsz</Text>
 			<Gender>Male</Gender>
@@ -3228,6 +3978,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>William Brewster</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>William Brewster</Text>
 			<Gender>Male</Gender>
@@ -3257,6 +4012,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Thomas Hooker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Thomas Hooker</Text>
 			<Gender>Male</Gender>
@@ -3286,6 +4046,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Tomé de Sousa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tomé de Sousa</Text>
 			<Gender>Male</Gender>
@@ -3315,6 +4080,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Piet Hein</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Piet Hein</Text>
 			<Gender>Male</Gender>
@@ -3344,6 +4114,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Juan Ponce de León</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Juan Ponce de León</Text>
 			<Gender>Male</Gender>
@@ -3373,6 +4148,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>German Alyaskinskiy</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>German Alyaskinskiy</Text>
 			<Gender>Male</Gender>
@@ -3402,6 +4182,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Ivan Aleksandrovich Kuskov</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ivan Aleksandrovich Kuskov</Text>
 			<Gender>Male</Gender>
@@ -3431,6 +4216,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Nikolay Petrovich Rezanov</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nikolay Petrovich Rezanov</Text>
 			<Gender>Male</Gender>
@@ -3460,6 +4250,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Ivan Fyodorovich Krusenstern</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ivan Fyodorovich Krusenstern</Text>
 			<Gender>Male</Gender>
@@ -3489,6 +4284,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Sir Walter Raleigh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sir Walter Raleigh</Text>
 			<Gender>Male</Gender>
@@ -3518,6 +4318,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Diego Velázquez de Cuéllar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Diego Velázquez de Cuéllar</Text>
 			<Gender>Male</Gender>
@@ -3547,6 +4352,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Benjamin Kissam</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Benjamin Kissam</Text>
 			<Gender>Male</Gender>
@@ -3576,6 +4386,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Carl von Linné</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Carl von Linné</Text>
 			<Gender>Male</Gender>
@@ -3605,6 +4420,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Sir Thomas Gates</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sir Thomas Gates</Text>
 			<Gender>Male</Gender>
@@ -3634,6 +4454,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Robert Bakewell</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Robert Bakewell</Text>
 			<Gender>Male</Gender>
@@ -3663,6 +4488,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Baron De La Warr</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Baron De La Warr</Text>
 			<Gender>Male</Gender>
@@ -3692,6 +4522,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>James Baker</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>James Baker</Text>
 			<Gender>Male</Gender>
@@ -3721,6 +4556,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>William Strachey</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>William Strachey</Text>
 			<Gender>Male</Gender>
@@ -3750,6 +4590,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Sir John Harvey</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sir John Harvey</Text>
 			<Gender>Male</Gender>
@@ -3779,6 +4624,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Johann Moritz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Johann Moritz</Text>
 			<Gender>Male</Gender>
@@ -3808,6 +4658,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>William Tailer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>William Tailer</Text>
 			<Gender>Male</Gender>
@@ -3837,6 +4692,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Samuel Nicholas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Samuel Nicholas</Text>
 			<Gender>Male</Gender>
@@ -3866,6 +4726,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>John Winthrop</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>John Winthrop</Text>
 			<Gender>Male</Gender>
@@ -3895,6 +4760,11 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Juan de Pareja</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Juan de Pareja</Text>
 			<Gender>Male</Gender>

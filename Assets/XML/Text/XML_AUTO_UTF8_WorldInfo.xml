@@ -3,11 +3,13 @@
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_TINY</Tag>
 		<English>Tiny</English>
+		<PortugueseBR>Minúsculo</PortugueseBR>
 		<French>Minuscule</French>
 		<German>Winzig</German>
 		<Italian>Minuscolo</Italian>
 		<Spanish>Diminuto</Spanish>
 		<Russian>Крошечный</Russian>
+		<PortuguesePT>Minúsculo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_TINY_HELP</Tag>
@@ -16,11 +18,13 @@
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_SMALL</Tag>
 		<English>Small</English>
+		<PortugueseBR>Pequeno</PortugueseBR>
 		<French>Petite</French>
 		<German>Klein</German>
 		<Italian>Piccolo</Italian>
 		<Spanish>Pequeño</Spanish>
 		<Russian>Маленький</Russian>
+		<PortuguesePT>Pequeno</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_SMALL_HELP</Tag>
@@ -29,11 +33,13 @@
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_STANDARD</Tag>
 		<English>Standard</English>
+		<PortugueseBR>Padrão</PortugueseBR>
 		<French>Normale</French>
 		<German>Standard</German>
 		<Italian>Normale</Italian>
 		<Spanish>Estándar</Spanish>
 		<Russian>Стандартный</Russian>
+		<PortuguesePT>Normal</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_STANDARD_HELP</Tag>
@@ -42,11 +48,13 @@
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_LARGE</Tag>
 		<English>Large</English>
+		<PortugueseBR>Grande</PortugueseBR>
 		<French>Grande</French>
 		<German>Groß</German>
 		<Italian>Grande</Italian>
 		<Spanish>Grande</Spanish>
 		<Russian>Большой</Russian>
+		<PortuguesePT>Grande</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_LARGE_HELP</Tag>
@@ -55,11 +63,13 @@
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_HUGE</Tag>
 		<English>Huge</English>
+		<PortugueseBR>Enorme</PortugueseBR>
 		<French>Immense</French>
 		<German>Riesig</German>
 		<Italian>Enorme</Italian>
 		<Spanish>Enorme</Spanish>
 		<Russian>Огромный</Russian>
+		<PortuguesePT>Enorme</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_HUGE_HELP</Tag>
@@ -68,11 +78,13 @@
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_MASSIVE</Tag>
 		<English>Massive</English>
+		<PortugueseBR>Massivo</PortugueseBR>
 		<French>Massive</French>
 		<German>Massiv</German>
 		<Italian>Massicce</Italian>
 		<Spanish>Masivo</Spanish>
 		<Russian>Массивный</Russian>
+		<PortuguesePT>Massivo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_MASSIVE_HELP</Tag>
@@ -81,11 +93,13 @@
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_GIGANTIC</Tag>
 		<English>Gigantic</English>
+		<PortugueseBR>Gigantesco</PortugueseBR>
 		<French>Gigantesque</French>
 		<German>Gigantisch</German>
 		<Italian>Gigantesco</Italian>
 		<Spanish>Gigantesco</Spanish>
 		<Russian>Гигантский</Russian>
+		<PortuguesePT>Gigantesco</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WORLDSIZE_GIGANTIC_HELP</Tag>

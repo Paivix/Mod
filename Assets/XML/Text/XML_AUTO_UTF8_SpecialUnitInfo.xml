@@ -3,6 +3,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_SPECIALUNIT_YIELD_CARGO</Tag>
 		<English>Goods</English>
+		
+		<PortugueseBR>
+			<Text>Bens</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Biens</Text>
 			<Gender>Male</Gender>
@@ -20,5 +26,10 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Товары</Russian>
+		<PortuguesePT>
+			<Text>Bens</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

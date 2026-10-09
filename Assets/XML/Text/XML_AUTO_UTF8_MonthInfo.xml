@@ -3,6 +3,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_JANUARY</Tag>
 		<English>January</English>
+		<PortugueseBR>
+			<Text>Janeiro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Janvier</Text>
 			<Gender>Male</Gender>
@@ -24,10 +29,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Январь</Russian>
+		<PortuguesePT>
+			<Text>Janeiro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_FEBRUARY</Tag>
 		<English>February</English>
+		<PortugueseBR>
+			<Text>Fevereiro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Février</Text>
 			<Gender>Male</Gender>
@@ -49,10 +64,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Февраль</Russian>
+		<PortuguesePT>
+			<Text>Fevereiro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_MARCH</Tag>
 		<English>March</English>
+		<PortugueseBR>
+			<Text>Março</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Mars</Text>
 			<Gender>Male</Gender>
@@ -74,10 +99,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Март</Russian>
+		<PortuguesePT>
+			<Text>Março</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_APRIL</Tag>
 		<English>April</English>
+		<PortugueseBR>
+			<Text>Abril</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Avril</Text>
 			<Gender>Male</Gender>
@@ -99,10 +134,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Апрель</Russian>
+		<PortuguesePT>
+			<Text>Abril</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_MAY</Tag>
 		<English>May</English>
+		<PortugueseBR>
+			<Text>Maio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Mai</Text>
 			<Gender>Male</Gender>
@@ -124,10 +169,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Май</Russian>
+		<PortuguesePT>
+			<Text>Maio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_JUNE</Tag>
 		<English>June</English>
+		<PortugueseBR>
+			<Text>Junho</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Juin</Text>
 			<Gender>Male</Gender>
@@ -149,10 +204,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Июнь</Russian>
+		<PortuguesePT>
+			<Text>Junho</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_JULY</Tag>
 		<English>July</English>
+		<PortugueseBR>
+			<Text>Julho</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Juillet</Text>
 			<Gender>Male</Gender>
@@ -174,10 +239,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Июль</Russian>
+		<PortuguesePT>
+			<Text>Julho</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_AUGUST</Tag>
 		<English>August</English>
+		<PortugueseBR>
+			<Text>Agosto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Août</Text>
 			<Gender>Male</Gender>
@@ -199,10 +274,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Август</Russian>
+		<PortuguesePT>
+			<Text>Agosto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_SEPTEMBER</Tag>
 		<English>September</English>
+		<PortugueseBR>
+			<Text>Setembro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Septembre</Text>
 			<Gender>Male</Gender>
@@ -224,10 +309,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Сентябрь</Russian>
+		<PortuguesePT>
+			<Text>Setembro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_OCTOBER</Tag>
 		<English>October</English>
+		<PortugueseBR>
+			<Text>Outubro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Octobre</Text>
 			<Gender>Male</Gender>
@@ -249,10 +344,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Октябрь</Russian>
+		<PortuguesePT>
+			<Text>Outubro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_NOVEMBER</Tag>
 		<English>November</English>
+		<PortugueseBR>
+			<Text>Novembro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Novembre</Text>
 			<Gender>Male</Gender>
@@ -274,10 +379,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Ноябрь</Russian>
+		<PortuguesePT>
+			<Text>Novembro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONTH_DECEMBER</Tag>
 		<English>December</English>
+		<PortugueseBR>
+			<Text>Dezembro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Décembre</Text>
 			<Gender>Male</Gender>
@@ -299,5 +414,10 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Декабрь</Russian>
+		<PortuguesePT>
+			<Text>Dezembro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

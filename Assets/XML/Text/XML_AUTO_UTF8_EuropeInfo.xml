@@ -3,6 +3,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_EUROPE_EAST</Tag>
 		<English>East</English>
+		<PortugueseBR>
+			<Text>Leste</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Est</Text>
 			<Gender>Male</Gender>
@@ -24,10 +29,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Восток</Russian>
+		<PortuguesePT>
+			<Text>Este</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EUROPE_NORTH</Tag>
 		<English>North</English>
+		<PortugueseBR>
+			<Text>Norte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nord</Text>
 			<Gender>Male</Gender>
@@ -49,10 +64,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Север</Russian>
+		<PortuguesePT>
+			<Text>Norte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EUROPE_SOUTH</Tag>
 		<English>South</English>
+		<PortugueseBR>
+			<Text>Sul</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sud</Text>
 			<Gender>Male</Gender>
@@ -74,10 +99,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Юг</Russian>
+		<PortuguesePT>
+			<Text>Sul</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EUROPE_WEST</Tag>
 		<English>West</English>
+		<PortugueseBR>
+			<Text>Oeste</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ouest</Text>
 			<Gender>Male</Gender>
@@ -99,5 +134,10 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Запад</Russian>
+		<PortuguesePT>
+			<Text>Oeste</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

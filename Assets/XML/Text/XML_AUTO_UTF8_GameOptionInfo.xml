@@ -3,453 +3,563 @@
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_ADVANCED_START</Tag>
 		<English>Advanced Start</English>
+		<PortugueseBR>Início Avançado</PortugueseBR>
 		<French>Démarrage avancé</French>
 		<German>Fortgeschrittener Start</German>
 		<Italian>Avvio avanzato</Italian>
 		<Spanish>Inicio avanzado</Spanish>
 		<Russian>Настраиваемый старт игры</Russian>
+		<PortuguesePT>Início Avançado</PortuguesePT>
+
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_ADVANCED_START_HELP</Tag>
 		<English>Allows players to 'purchase' their choice of starting settlements, units and improvements when the game begins.</English>
+		<PortugueseBR>Permite que os jogadores 'comprem' sua escolha de colônias iniciais, unidades e melhorias quando o jogo começa.</PortugueseBR>
 		<French>Permet aux joueurs "d'acheter " des colonies, unités, terrains, améliorations, etc. au début du jeu.</French>
 		<German>Ermöglicht den Spielern, bei Spielbeginn ihre Auswahl an Siedlungen, Einheiten, Gelände-Modernisierungen etc. zu erwerben.</German>
 		<Italian>Permette ai giocatori di "acquistare" insediamenti, unità, miglioramenti del terreno, ecc. all'avvio del gioco.</Italian>
 		<Spanish>Permite a los jugadores "adquirir" los asentamientos, unidades, mejoras del terreno, etc. que quieran al empezar la partida.</Spanish>
 		<Russian>Позволяет игрокам "покупать" стартовые поселения, юниты и улучшения по своему выбору в начале игры.</Russian>
+		<PortuguesePT>Permite que os jogadores no início do jogo "comprem" colónias, unidades e melhorias.</PortuguesePT>
+
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_TWO_PLOT_CITY_RADIUS</Tag>
 		<English>Two plot colony catchment radius</English>
+		<PortugueseBR>Raio de captação da colônia de dois lotes</PortugueseBR>
 		<Russian>Радиус колонии равен двум клеткам</Russian>
+		<PortuguesePT>Raio de alcance de dois blocos das colónias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_TWO_PLOT_CITY_RADIUS_HELP</Tag>
 		<English>Enables colonies to use plots within a range of 2 plots instead of the 1 plot used in vanilla.</English>
+		<PortugueseBR>Permite que as colônias usem lotes num raio de 2 lotes em vez do 1 lote usado no jogo original.</PortugueseBR>
 		<Russian>Позволяет колониям использовать участки в диапазоне 2 клеток вокруг центра поселения вместо 1, как в оригинальной версии</Russian>
+		<PortuguesePT>Permite às colónias utilizar blocos num raio de dois blocos, em vez do bloco utilizado na versão original.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NEW_MOVEMENT_COST</Tag>
 		<English>New movement cost system</English>
+		<PortugueseBR>Novo sistema de custo de movimento</PortugueseBR>
 		<Russian>Новая система перемещения</Russian>
+		<PortuguesePT>Novo sistema de custos de movimento</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NEW_MOVEMENT_COST_HELP</Tag>
 		<English>Units using more moves than they have will carry over the loss to the next turn. Like a unit with 2 moves using 3 will only have one move the following turn. 1 move units can spend multiple turns getting through rough terrain.</English>
+		<PortugueseBR>Unidades que gastam mais movimentos do que têm carregam a perda para o próximo turno. Por exemplo, uma unidade com 2 movimentos que gasta 3 terá apenas um movimento no turno seguinte. Unidades com 1 movimento podem gastar vários turnos para atravessar terreno difícil.</PortugueseBR>
 		<Russian>Юниты, использовавшие больше очков перемещения (ОП), чем у них есть, на следующий ход получат штраф. Например, подразделение с 2 ОП, переместившись на клетку со стоимостью перемещения 3, будет иметь только 1 ОП на следующем ходу. Подразделения с 1 ОП могут потратить несколько ходов, пробираясь по пересеченной местности.</Russian>
+		<PortuguesePT>As unidades que utilizarem mais movimentos do que os que têm irão transferir o custo excedente para o turno seguinte. Por exemplo, uma unidade com 2 movimentos que utilize 3 terá apenas 1 movimento no turno seguinte. As unidades com 1 movimento podem passar vários turnos a atravessar terrenos acidentados.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_AGGRESSIVE_AI</Tag>
 		<English>Aggressive AI</English>
+		<PortugueseBR>IA agressiva</PortugueseBR>
 		<French>IA agressive</French>
 		<German>Aggressive KI</German>
 		<Italian>IA aggressiva</Italian>
 		<Spanish>IA agresiva</Spanish>
 		<Russian>Агрессивный ИИ</Russian>
+		<PortuguesePT>IA agressiva</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_AGGRESSIVE_AI_HELP</Tag>
 		<English>AI leaders favour war over diplomacy.</English>
+		<PortugueseBR>Os líderes da IA preferem a guerra à diplomacia.</PortugueseBR>
 		<French>Les dirigeants gérés par l'IA préfèrent la guerre à la diplomatie.</French>
 		<German>Computergegner bevorzugen den Krieg gegenüber der Diplomatie.</German>
 		<Italian>L'IA dei leader preferisce la guerra alla diplomazia.</Italian>
 		<Spanish>Los líderes de la IA prefieren la guerra a la diplomacia.</Spanish>
 		<Russian>Лидеры ИИ предпочитают войну дипломатии.</Russian>
+		<PortuguesePT>Todos os líderes preferem guerra à diplomacia.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_ALWAYS_PEACE</Tag>
 		<English>Always Peace</English>
+		<PortugueseBR>Sempre Paz</PortugueseBR>
 		<French>Paix constante</French>
 		<German>Immer Frieden</German>
 		<Italian>Sempre in pace</Italian>
 		<Spanish>Siempre en paz</Spanish>
 		<Russian>Всегда мир</Russian>
+		<PortuguesePT>Paz permanente</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_ALWAYS_PEACE_HELP</Tag>
 		<English>Players cannot declare war on each other.</English>
+		<PortugueseBR>Os jogadores não podem declarar guerra uns aos outros.</PortugueseBR>
 		<French>Les joueurs ne peuvent pas se déclarer la guerre.</French>
 		<German>Spieler können sich nicht gegenseitig den Krieg erklären.</German>
 		<Italian>I giocatori non possono dichiararsi guerra tra loro.</Italian>
 		<Spanish>Los jugadores no se pueden declarar la guerra.</Spanish>
 		<Russian>Игроки не могут объявлять войну друг другу.</Russian>
+		<PortuguesePT>Os jogadores não conseguem declarar guerra uns aos outros</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_ALWAYS_WAR</Tag>
 		<English>Always War</English>
+		<PortugueseBR>Sempre Guerra</PortugueseBR>
 		<French>Guerre constante</French>
 		<German>Immer Krieg</German>
 		<Italian>Sempre in guerra</Italian>
 		<Spanish>Siempre en guerra</Spanish>
 		<Russian>Всегда война</Russian>
+		<PortuguesePT>Guerra permanente</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_ALWAYS_WAR_HELP</Tag>
 		<English>All AI players are at war with the human player for the length of the game.</English>
+		<PortugueseBR>Todos os jogadores de IA estão em guerra com o jogador humano durante o jogo.</PortugueseBR>
 		<French>Toutes les factions gérées par l'IA sont en guerre avec le joueur pendant toute la durée du jeu.</French>
 		<German>Alle KI-Spieler befinden sich für die gesamte Spieldauer mit den menschlichen Spielern im Krieg.</German>
 		<Italian>Tutti i giocatori gestiti dall'IA sono in guerra con le colonie dei giocatori per tutta la partita.</Italian>
 		<Spanish>Todos los jugadores de la IA están en guerra con los humanos hasta que acabe la partida.</Spanish>
 		<Russian>Все игроки ИИ находятся в состоянии войны с игроком-человеком на протяжении всей игры.</Russian>
+		<PortuguesePT>Todos os jogadores de IA estão em guerra com o(s) jogador(es) humano(s) durante todo o jogo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_LEAD_ANY_CIV</Tag>
 		<English>Unrestricted Leaders</English>
+		<PortugueseBR>Líderes irrestritos</PortugueseBR>
 		<French>Pas de restriction de dirigeants</French>
 		<German>Freie Wahl des Anführers</German>
 		<Italian>Leader senza limitazioni</Italian>
 		<Spanish>Líderes sin restricciones</Spanish>
 		<Russian>Неограниченные лидеры</Russian>
+		<PortuguesePT>Líderes sem limitações</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_LEAD_ANY_CIV_HELP</Tag>
 		<English>Players may lead any nation with any leader.</English>
+		<PortugueseBR>Os jogadores podem liderar qualquer nação com qualquer líder.</PortugueseBR>
 		<French>Les joueurs peuvent mener n'importe quelle nation avec n'importe quel chef.</French>
 		<German>Die Spieler können eine jede Nation mit jedem Anführer anführen.</German>
 		<Italian>I giocatori possono condurre una nazione qualsiasi con un qualsiasi leader.</Italian>
 		<Spanish>Los jugadores pueden dirigir cualquier nación con cualquier líder.</Spanish>
 		<Russian>Игроки могут возглавить любую нацию с любым лидером.</Russian>
+		<PortuguesePT>Os jogadores podem liderar qualquer nação com qualquer líder.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_LOCK_MODS</Tag>
 		<English>Lock Modified Assets</English>
+		<PortugueseBR>Bloquear ativos modificados</PortugueseBR>
 		<French>Bloquer Biens modifiés</French>
 		<German>Modifizierte Daten sperren</German>
 		<Italian>Blocca la modifica dei beni</Italian>
 		<Spanish>Bloquear parámetros modificados</Spanish>
 		<Russian>Блокировка изменений</Russian>
+		<PortuguesePT>Bloquear parametros modificados</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_LOCK_MODS_HELP</Tag>
 		<English>Sets a random admin password so that debug tools cannot be used, and game assets cannot be modified. (Only for single-player games).</English>
+		<PortugueseBR>Define uma senha de administrador aleatória para que as ferramentas de depuração não possam ser usadas e os ativos do jogo não possam ser modificados. (Apenas para jogos single-player).</PortugueseBR>
 		<French>Les outils de debug ne peuvent pas être utilisés et les données de la partie ne peuvent pas être modifiées. Utile pour les parties en solo.</French>
 		<German>Debug-Tools können nicht verwendet und die Spieldaten können nicht modifiziert werden. Hilfreich für herausfordernde Einzelspieler-Partien.</German>
 		<Italian>Impedisce l'utilizzo degli strumenti di debug, impedendo la modifica dei beni di gioco. Utile per delle competitive partite a giocatore singolo.</Italian>
 		<Spanish>No se pueden usar herramientas de depuración, ni se pueden modificar los parámetros del juego. Útil para partidas competitivas de un jugador.</Spanish>
 		<Russian>Устанавливает случайный пароль администратора, чтобы нельзя было использовать инструменты отладки и нельзя было изменять игровые ресурсы. (Только для одиночных игр).</Russian>
+		<PortuguesePT>Atribui uma palavra-passe aleatória, para que as ferramentas de depuração não possam ser utilizadas, e os parametros de jogo não possam ser alterados.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NEW_RANDOM_SEED</Tag>
 		<English>New Random Seed on Reload</English>
+		<PortugueseBR>Nova semente aleatória ao recarregar</PortugueseBR>
 		<French>Nouveau classement aléatoire au rechargement</French>
 		<German>Neuer Random Seed bei erneutem Laden</German>
 		<Italian>Nuova estrazione casuale per ricarica</Italian>
 		<Spanish>Nueva "seed" aleatoria al volver a cargar</Spanish>
 		<Russian>Новый случайный результат после загрузки</Russian>
+		<PortuguesePT>Nova localização aleatória ao recarregar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NEW_RANDOM_SEED_HELP</Tag>
 		<English>A new random seed is generated every time the game is reloaded - which, for example, will lead to different combat results.</English>
+		<PortugueseBR>Uma nova semente aleatória é gerada toda vez que o jogo é recarregado – o que, por exemplo, levará a diferentes resultados de combate.</PortugueseBR>
 		<French>Un nouveau classement aléatoire est généré chaque fois que le jeu est rechargé, ce qui peut entraîner différents résultats de combat, par exemple.</French>
 		<German>Jedes Mal, wenn das Spiel neu geladen wird, wird ein neuer Zufallswert generiert, was zum Beispiel zu unterschiedlichen Kampfausgängen führen kann.</German>
 		<Italian>Ogni volta che ricaricherai il gioco verrà generata una nuova estrazione casuale, portando, per esempio, a diversi risultati di combattimento.</Italian>
 		<Spanish>En cada partida se genera una nueva "seed" al azar que, por ejemplo, arrojará resultados diferentes en el combate.</Spanish>
 		<Russian>Каждый раз при загрузке сохраненной игры генерируются новые данные для событий. Например, это может привести к совершенно другим результатам при обыске руин.</Russian>
+		<PortuguesePT>Uma nova localização aleatória é gerada sempre que o jogo é recarregado - o que poderá levar, por exemplo, a resultados diferentes nos combates.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_CHANGING_WAR_PEACE</Tag>
 		<English>Permanent War or Peace</English>
+		<PortugueseBR>Guerra ou Paz Permanente</PortugueseBR>
 		<French>Aucun changement guerre - paix</French>
 		<German>Kein Wechsel Krieg oder Frieden</German>
 		<Italian>Guerra o pace permanente</Italian>
 		<Spanish>Sin cambio de guerra o paz</Spanish>
 		<Russian>Перманентная война или мир</Russian>
+		<PortuguesePT>Guerra ou Paz permanente</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_CHANGING_WAR_PEACE_HELP</Tag>
 		<English>All players are locked into either war or peace for the length of the game.</English>
+		<PortugueseBR>Todos os jogadores estão presos à guerra ou à paz durante o jogo.</PortugueseBR>
 		<French>Tous les joueurs sont bloqués en état de guerre ou de paix pendant toute la durée du jeu.</French>
 		<German>Alle Spieler befinden sich für die gesamte Spieldauer entweder im Krieg oder im Frieden.</German>
 		<Italian>Tutti i giocatori sono bloccati in guerra o in pace per tutta la partita.</Italian>
 		<Spanish>Todos los jugadores quedarán bloqueados en guerra o en paz hasta que acabe la partida.</Spanish>
 		<Russian>Все игроки привязаны либо к войне, либо к миру на протяжении всей игры.</Russian>
+		<PortuguesePT>Todos os jogadores ficam bloqueados ou em guerra ou em paz, durante todo o jogo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_CITY_RAZING</Tag>
 		<English>No Settlement Razing</English>
+		<PortugueseBR>Sem destruição de colônias</PortugueseBR>
 		<French>Impossible de raser les colonies</French>
 		<German>Keine Siedlungsvernichtung</German>
 		<Italian>Nessuna possibilità di razziare gli insediamenti</Italian>
 		<Spanish>Sin arrasar asentamientos</Spanish>
 		<Russian>Без уничтожения городов</Russian>
+		<PortuguesePT>Impossiblidade de destruir colónias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_CITY_RAZING_HELP</Tag>
 		<English>European settlements cannot be razed by other Europeans after capture.</English>
+		<PortugueseBR>As colônias europeias não podem ser arrasadas por outros europeus após a captura.</PortugueseBR>
 		<French>Impossible pour les Européens de raser les autres colonies européennes après leur capture.</French>
 		<German>Europäische Siedlungen können nach der Einnahme durch andere Europäer nicht mehr zerstört werden.</German>
 		<Italian>Gli insediamenti europei non possono essere razziati da altri europei dopo la conquista.</Italian>
 		<Spanish>Los asentamientos europeos no pueden ser arrasados después de que otros europeos los capturen.</Spanish>
 		<Russian>Европейские поселения не могут быть разрушены другими европейцами после захвата.</Russian>
+		<PortuguesePT>As colónias europeias não podem ser destruídas por outras forças europeias após serem capturadas.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_EVENTS</Tag>
 		<English>No Random Events</English>
+		<PortugueseBR>Sem eventos aleatórios</PortugueseBR>
 		<French>Pas d'événements aléatoires</French>
 		<German>Keine Zufallsereignisse</German>
 		<Italian>Nessun evento casuale</Italian>
 		<Spanish>Sin sucesos al azar</Spanish>
 		<Russian>Без случайных событий</Russian>
+		<PortuguesePT>Sem eventos aleatórios</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_EVENTS_HELP</Tag>
 		<English>Random events do not occur.</English>
+		<PortugueseBR>Eventos aleatórios não ocorrem.</PortugueseBR>
 		<French>Les événements aléatoires ne se produisent pas.</French>
 		<German>Es finden keine Zufallsereignisse ausgelöst.</German>
 		<Italian>Non si verificano eventi casuali</Italian>
 		<Spanish>No ocurren sucesos al azar.</Spanish>
 		<Russian>Не происходят случайные события. Например, никто не сможет найти "Фонтан молодости".</Russian>
+		<PortuguesePT>Não há eventos aleatórios.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_GOODY_HUTS</Tag>
 		<English>No Ancient Ruins</English>
+		<PortugueseBR>Sem ruínas antigas</PortugueseBR>
 		<French>Aucune ruine</French>
 		<German>Keine antiken Ruinen</German>
 		<Italian>Nessuna antica rovina</Italian>
 		<Spanish>Sin Ruinas antiguas</Spanish>
 		<Russian>Без Древних руин</Russian>
+		<PortuguesePT>Sem ruínas antigas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_GOODY_HUTS_HELP</Tag>
 		<English>Random map generator does not place any ancient ruins ("goody huts") on the map.</English>
+		<PortugueseBR>O gerador de mapas aleatórios não coloca ruínas antigas no mapa.</PortugueseBR>
 		<French>Le générateur de carte aléatoire ne place pas de villages tribaux ("huttes à cadeaux") sur la carte.</French>
 		<German>Der Zufallskartengenerator platziert keine Ruinen und Grabstätten auf der Karte.</German>
 		<Italian>Il generatore di mappe casuali non collocherà alcun villaggio tribale (le capanne "utili") sulla mappa.</Italian>
 		<Spanish>El generador aleatorio de mapas no pone en ellos aldeas tribales (con sus típicas "golosinas").</Spanish>
 		<Russian>Генератор карт не размещает на местности какие-либо древние руины.</Russian>
+		<PortuguesePT>O gerador de mapas aleatórios não coloca quaisquer ruínas antigas («Goody-huts») no mapa.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_MORE_VARIABLES_HIDDEN</Tag>
 		<English>No variables hidden</English>
+		<PortugueseBR>Nenhuma variável oculta</PortugueseBR>
 		<French>Aucune variable cachée</French>
 		<German>Keine versteckten Variablen mehr</German>
 		<Italian>Niente più variabili nascoste</Italian>
 		<Spanish>No hay más variables ocultas</Spanish>
 		<Russian>Нет скрытых данных</Russian>
+		<PortuguesePT>Sem variáveis ocultas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_MORE_VARIABLES_HIDDEN_HELP</Tag>
 		<English>The game displays extra information on attitudes, taxes, Natives etc...</English>
+		<PortugueseBR>O jogo exibe informações extras sobre atitudes, impostos, nativos etc...</PortugueseBR>
 		<French>Des informations supplémentaires sur les attitudes, les taxes, et les indiens apparaissent a l'écran</French>
 		<German>Im Spiel werden zusätzliche Informationen angzeigt. Zur Attitude, zu den Steuern, zu den Ureinwohnern, etc...</German>
 		<Italian>Ulteriori informazioni vengono visualizzate nel gioco. Sull'atteggiamento, sulle tasse, sugli aborigeni, ecc...</Italian>
 		<Spanish>En el juego se muestra información adicional. Sobre la actitud, sobre los impuestos, sobre los aborígenes, etc...</Spanish>
 		<Russian>В игре отображается дополнительную информация об отношениях, налогах, туземцах и т.д.</Russian>
+		<PortuguesePT>O jogo apresenta toda a informação extra em relação a atitudes, taxas, indígenas, etc...</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_WILD_LAND_ANIMALS</Tag>
 		<English>No Wild Land Animals</English>
+		<PortugueseBR>Sem animais terrestres selvagens</PortugueseBR>
 		<French>Pas d'animaux sauvages terrestres</French>
 		<German>Keine Wilden Tiere an Land</German>
 		<Italian>Nessun animale selvatico della terra</Italian>
 		<Spanish>No hay animales terrestres salvajes</Spanish>
 		<Russian>Без Диких животных на земле</Russian>
+		<PortuguesePT>Sem animais selvagens terrestres</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_WILD_LAND_ANIMALS_HELP</Tag>
 		<English>Wild land animals will not be spawned.</English>
+		<PortugueseBR>Animais terrestres selvagens não serão gerados.</PortugueseBR>
 		<French>Aucun animal sauvage n'apparaît sur les terres.</French>
 		<German>Es werden keine Wilden Tiere an Land erzeugt.</German>
 		<Italian>Non si producono animali selvatici sulla terraferma.</Italian>
 		<Spanish>No se producen animales salvajes en tierra.</Spanish>
 		<Russian>Дикие наземные животные не будут появляться.</Russian>
+		<PortuguesePT>Os animais selvagens terrestres não serão gerados.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_WILD_SEA_ANIMALS</Tag>
 		<English>No Wild Sea Animals</English>
+		<PortugueseBR>Sem animais marinhos selvagens</PortugueseBR>
 		<French>Pas d'animaux sauvages marins</French>
 		<German>Keine Wilden Tiere im Wasser</German>
 		<Italian>Nessun animale marino selvaggio</Italian>
 		<Spanish>No hay animales marinos salvajes</Spanish>
 		<Russian>Без Диких морских животных</Russian>
+		<PortuguesePT>Sem animais selvagens marinhos.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_WILD_SEA_ANIMALS_HELP</Tag>
 		<English>Wild sea animals will not be spawned.</English>
+		<PortugueseBR>Animais marinhos selvagens não serão gerados.</PortugueseBR>
 		<French>Aucun animal sauvage n'apparaît dans les mers.</French>
 		<German>Es werden keine Wilden Tiere im Wasser erzeugt.</German>
 		<Italian>Non si creano animali selvatici nell'acqua.</Italian>
 		<Spanish>No se crean animales salvajes en el agua.</Spanish>
 		<Russian>Дикие морские животные не будут появляться.</Russian>
+		<PortuguesePT>Os animais selvagens marinhos não serão gerados.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_ONE_CITY_CHALLENGE</Tag>
 		<English>One-Settlement Challenge</English>
+		<PortugueseBR>Desafio de uma colônia</PortugueseBR>
 		<French>Défi Colonie unique</French>
 		<German>Einzelsiedlungswettkampf</German>
 		<Italian>Sfida con un singolo insediamento</Italian>
 		<Spanish>Reto de un solo asentamiento</Spanish>
 		<Russian>Испытание одним городом</Russian>
+		<PortuguesePT>Desafio de uma única colónia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_ONE_CITY_CHALLENGE_HELP</Tag>
 		<English>The human player can never control more than one settlement.</English>
+		<PortugueseBR>O jogador humano nunca pode controlar mais de uma colônia.</PortugueseBR>
 		<French>Le joueur humain ne peut jamais contrôler plus d'une colonie.</French>
 		<German>Der menschliche Spieler kann maximal eine Siedlung kontrollieren.</German>
 		<Italian>Il giocatore non può mai controllare più di un insediamento.</Italian>
 		<Spanish>El jugador humano nunca podrá controlar más de un asentamiento.</Spanish>
 		<Russian>Игрок-человек никогда не может контролировать более одного поселения.</Russian>
+		<PortuguesePT>O jogador humano nunca pode controlar mais do que uma colónia.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_PERMANENT_ALLIANCES</Tag>
 		<English>Permanent Alliances</English>
+		<PortugueseBR>Alianças Permanentes</PortugueseBR>
 		<French>Alliances permanentes</French>
 		<German>Allianzen</German>
 		<Italian>Alleanze permanenti</Italian>
 		<Spanish>Alianzas permanentes</Spanish>
 		<Russian>Постоянные союзы</Russian>
+		<PortuguesePT>Alianças permanentes</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_PERMANENT_ALLIANCES_HELP</Tag>
 		<English>Two colonies can form a permanent alliance which lasts the rest of the game.</English>
+		<PortugueseBR>Duas colônias podem formar uma aliança permanente que dura o resto do jogo.</PortugueseBR>
 		<French>Deux colonies peuvent former une Alliance permanente qui durera jusqu'à la fin du jeu.</French>
 		<German>Zwei Kolonien können eine Allianz schließen, die die restliche Spielzeit überdauert.</German>
 		<Italian>Due colonie possono formare una alleanza permanente che duri fino alla fine della partita.</Italian>
 		<Spanish>Dos colonias pueden formar una alianza permanente que dure hasta que acabe la partida.</Spanish>
 		<Russian>Две колониальные державы могут сформировать постоянный союз, который продлится до конца игры.</Russian>
+		<PortuguesePT>Duas civilizações podem formar uma aliança permanente até ao final do jogo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_RANDOM_SETTLEMENT_AREAS</Tag>
 		<English>Random settlement areas of Natives</English>
+		<PortugueseBR>Áreas de aldeia aleatórias dos nativos</PortugueseBR>
 		<French>Positionnement aléatoires des indigènes</French>
 		<German>Beliebige Siedlungsgebiete der Ureinwohner</German>
 		<Italian>Aree di insediamento casuali di nativi</Italian>
 		<Spanish>Zonas de asentamiento aleatorio de nativos</Spanish>
 		<Russian>Случайные районы расселения коренных жителей</Russian>
+		<PortuguesePT>Áreas de povoamento aleatórias dos indígenas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_RANDOM_SETTLEMENT_AREAS_HELP</Tag>
 		<English>Random settlement areas for Natives instead of using geographically correct placement</English>
+		<PortugueseBR>Áreas de colônia aleatórias para nativos em vez de usar posicionamento geograficamente correto</PortugueseBR>
 		<French>Les indigènes sont placés de manière aléatoire, sans tenir compte de la lattitude.</French>
 		<German>Siedlungen der Ureinwohner werden auf der Nord-Süd-Achse zufällig und nicht historisch korrekt platziert.</German>
 		<Italian>Gli insediamenti nativi sono collocati sull'asse nord-sud in modo casuale e non storicamente accurato.</Italian>
 		<Spanish>Los asentamientos nativos se sitúan en el eje norte-sur de forma aleatoria y no son históricamente precisos.</Spanish>
 		<Russian>Случайные районы расселения коренных жителей вместо использования географически правильного размещения</Russian>
+		<PortuguesePT>Áreas de povoamento aleatórias para os indígenas, em vez de utilizar uma distribuição geograficamente correta</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_REDUCED_CITY_DISTANCE</Tag>
 		<English>Reduced Colony Distance</English>
+		<PortugueseBR>Distância reduzida da colônia</PortugueseBR>
 		<French>Réduction de la distance entre les colonies</French>
 		<German>Reduzierte Distanz zwischen Kolonien</German>
 		<Italian>Distanza ridotta tra le colonie</Italian>
 		<Spanish>Reducción de la distancia entre colonias</Spanish>
 		<Russian>Уменьшить растояние между колониями</Russian>
+		<PortuguesePT>Distância reduzida entre colónias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_REDUCED_CITY_DISTANCE_HELP</Tag>
-		<English>Reduce the minimum distance to other colonies by 1 if the player already owns the founding plot and all plots next to it (3x3 grid).</English>
-		<French>Réduire la distance minimale aux autres colonies de 1 si le joueur possède déjà la parcelle fondatrice et toutes les parcelles voisines (grille 3x3).</French>
-		<German>Verringert den Mindestabstand zu anderen Kolonien um 1, wenn der Spieler bereits die Gründungsparzelle und alle angrenzenden Parzellen besitzt (3x3-Raster).</German>
-		<Italian>Ridurre la distanza minima dalle altre colonie di 1 se il giocatore possiede già il lotto fondatore e tutti i lotti vicini (griglia 3x3).</Italian>
-		<Spanish>Reducir la distancia mínima a otras colonias en 1 si el jugador ya posee la parcela fundadora y todas las parcelas contiguas (cuadrícula 3x3).</Spanish>
-		<Russian>Уменьшает минимальное расстояние до других колоний на 1 клетку, если игрок уже владеет участком основания и всеми участками рядом с ним (сетка 3x3).</Russian>
+		<English>Reduce the minimum distance to other colonies by 1.</English>
+		<PortugueseBR>Reduza a distância mínima para outras colônias em 1.</PortugueseBR>
+		<French>Réduire la distance minimale aux autres colonies de 1.</French>
+		<German>Verringert den Mindestabstand zu anderen Kolonien um 1.</German>
+		<Italian>Ridurre la distanza minima dalle altre colonie di 1.</Italian>
+		<Spanish>Reducir la distancia mínima a otras colonias en 1.</Spanish>
+		<Russian>Уменьшает минимальное расстояние до других колоний на 1 клетку.</Russian>
+		<PortuguesePT>Reduz em 1 a distância mínima para outras colónias.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_REMOVE_WORLD_BUILDER</Tag>
 		<English>Remove World Builder</English>
+		<PortugueseBR>Remover Construtor de Mundo</PortugueseBR>
 		<French>Supprimer World Builder</French>
 		<German>Ohne World Builder spielen</German>
 		<Italian>Rimuovere il World Builder</Italian>
 		<Spanish>Eliminar el World Builder</Spanish>
 		<Russian>Отключить Строитель мира</Russian>
+		<PortuguesePT>Remover o World Builder</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_REMOVE_WORLD_BUILDER_HELP</Tag>
 		<English>Removes the ability to enter World Builder.[NEWLINE]World Builder is a known way to cheat and people might not want this option, be it for some sort of competitive gaming or just removal of the temptation.</English>
+		<PortugueseBR>Remove a capacidade de entrar no World Builder.[NEWLINE]O World Builder é uma forma conhecida de trapacear e as pessoas podem não querer essa opção, seja para algum tipo de jogo competitivo ou apenas para eliminar a tentação.</PortugueseBR>
 		<French>Suppression de la possibilité d'entrer dans World Builder.[NEWLINE]World Builder est un moyen connu de tricher et les gens pourraient ne pas vouloir de cette option, que ce soit pour une sorte de jeu compétitif ou simplement pour supprimer la tentation.</French>
 		<German>Entfernt die Möglichkeit, den World Builder zu benutzen.[NEWLINE]Der World Builder ist ein bekannter Weg, um zu betrügen, und einige Spieler wollen diese Option vielleicht nicht, sei es für eine Art von kompetitivem Spiel oder einfach nur, um der Versuchung zu entgehen.</German>
 		<Italian>Rimuove la possibilità di entrare nel World Builder.[NEWLINE]Il World Builder è un modo noto per barare e la gente potrebbe non volere questa opzione, sia per una sorta di gioco competitivo o semplicemente per rimuovere la tentazione.</Italian>
 		<Spanish>Elimina la posibilidad de entrar en el World Builder.[NEWLINE]El World Builder es una forma conocida de hacer trampas y la gente podría no querer esta opción, ya sea para algún tipo de juego competitivo o simplemente para eliminar la tentación.</Spanish>
 		<Russian>Убирает возможность запуска Строителя мира.[NEWLINE]Строитель мира – серьёзный способ обмана в игре и иногда требуется, чтобы он был недоступен. Например, в качестве меры избавления от искушения или в многопользовательской игре.</Russian>
+		<PortuguesePT>Remove a possibilidade de aceder ao World Builder.[NEWLINE]O World Builder é uma forma conhecida de fazer batota e algumas pessoas podem não querer esta opção, seja para algum tipo de jogo competitivo ou simplesmente para eliminar a tentação.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_DEACTIVATE_HEMISPHERE_RESTRICTIONS</Tag>
 		<English>No Hemisphere Restrictions for Resources</English>
+		<PortugueseBR>Sem restrições hemisféricas para recursos</PortugueseBR>
 		<German>Keine Einschränkung der Hemispheren für Ressourcen</German>
 		<Russian>Нет ограничений полушария для ресурсов</Russian>
+		<PortuguesePT>Sem restrições de recursos devido ao hemisfério</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_DEACTIVATE_HEMISPHERE_RESTRICTIONS_HELP</Tag>
 		<English>Normally some bonus resources (like the walrus, penguin, capybara, ...) are restricted for immersion either to the northern or southern hemisphere. If you activate this setting that restriction is removed.</English>
+		<PortugueseBR>Normalmente alguns recursos bônus (como morsa, pinguim, capivara, ...) são restritos para imersão tanto no hemisfério norte quanto no hemisfério sul. Se você ativar esta configuração, essa restrição será removida.</PortugueseBR>
 		<German>Standardmäßig sind viele Bonus-Ressourcen (wie z.B. Walross, Pinguin, Cabyara, ...) aus Gründen der Realitätstreue entweder auf die nördliche oder südliche Hemisphere beschränkt. Mit Aktivierung dieser Option wird diese Einschränkung aufgehoben.</German>
 		<Russian>Обычно расположение некоторых дополнительных ресурсов (такие как моржи, пингвины, капибара и т.д.) для реалистичности ограничено определенным полушарием. Если вы активируете этот параметр, ограничение будет отменено.</Russian>
+		<PortuguesePT>Normalmente, os recursos de bónus(como a morsa, o pinguim, a capivara...) estão restritos à localizarem-se tanto no hemisfério norte, como no hemisfério sul. Se ativares esta configuração, essa restrição será removida.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_GOODIES_ALWAYS_DISPLAY_COLOURED_CIRCLE</Tag>
 		<English>Revealed goodies always display coloured circles</English>
+		<PortugueseBR>Achados revelados sempre exibem círculos coloridos</PortugueseBR>
 		<German>Entdeckte Goodies zeigen immer Farbkreis als Hinweis</German>
 		<Russian>Обнаруженные Goodies всегда подсвечиваются цветными кругами.</Russian>
+		<PortuguesePT>As recompensas (goodies) descobertas apresentam sempre círculos coloridos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_GOODIES_ALWAYS_DISPLAY_COLOURED_CIRCLE_HELP</Tag>
 		<English>This helps to easily identify goodies on the map once revealed</English>
+		<PortugueseBR>Isso ajuda a identificar facilmente os achados no mapa, uma vez revelados</PortugueseBR>
 		<German>Hilft bereits entdeckte Goodies auf der Karte einfach zu finden</German>
 		<Russian>Это помогает легко идентифицировать Goodies на карте после их обнаружения.</Russian>
+		<PortuguesePT>Isto facilita a identificação das recompensas no mapa depois de descobertas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_UNREST_TURNS_DEPEND_ON_CITY_SIZE</Tag>
 		<English>Occupation turns after conquering a city depend more heavily on size of city</English>
+		<PortugueseBR>Os turnos de ocupação após a conquista de uma cidade dependem mais do tamanho da cidade</PortugueseBR>
 		<German>Dauer der Aufstände in einer Stadt nach Eroberung hängt deutlich stärker von Stadtgröße ab</German>
 		<Russian>Время восстановления порядка после завоевания города зависит от его размера</Russian>
+		<PortuguesePT>Os turnos de ocupação após conquistar uma cidade dependem mais do tamanho da cidade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_UNREST_TURNS_DEPEND_ON_CITY_SIZE_HELP</Tag>
 		<English>A conquered city will stay longer in unrest if it is bigger</English>
+		<PortugueseBR>Uma cidade conquistada permanecerá em agitação por mais tempo se for maior</PortugueseBR>
 		<German>Eine erobertert Stadt leidet läger unter Aufständen, wenn sie größer ist</German>
 		<Russian>Чем больше жителей в завоеванном городе, тем дольше будут продолжаться в нем беспорядки</Russian>
+		<PortuguesePT>Uma cidade conquistada permanecerá mais tempo em revolta se for maior</PortuguesePT>
 	</TEXT>	
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_ONLY_ONE_COLONIST_PER_VILLAGE</Tag>
 		<English>Only One Colonist Learning per Native Settlement</English>
+		<PortugueseBR>Apenas um colono aprendendo por aldeia nativa</PortugueseBR>
 		<French>Un seul élève à la fois par établissement autochtone</French>
 		<German>Nur 1 Schüler gleichzeitig je Siedlung der Ureinwohner</German>
 		<Italian>Solo 1 studente alla volta per insediamento nativo</Italian>
 		<Spanish>Sólo 1 estudiante a la vez por asentamiento nativo</Spanish>
 		<Russian>Только один колонист может обучаться в деревне индейцев</Russian>
+		<PortuguesePT>Apenas um colono a aprender por povoação indígena</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_ONLY_ONE_COLONIST_PER_VILLAGE_HELP</Tag>
 		<English>Only one colonist is allowed to live and learn in a Native settlement at any given time. After he's qualified, the next colonist can be trained.</English>
+		<PortugueseBR>Apenas um colono pode viver e aprender em uma aldeia nativa a qualquer momento. Depois de qualificado, o próximo colono pode ser treinado.</PortugueseBR>
 		<French>Un seul colon peut vivre dans une colonie indigène à la fois et apprendre d'eux. Le prochain doit attendre que celui-ci ait terminé ses études.</French>
 		<German>Nur 1 Kolonist darf zur selben Zeit in einer Siedlung der Ureinwohner leben und von ihnen lernen. Der nächste muss warten, bis dieser seine Ausbildung beendet hat.</German>
 		<Italian>Solo 1 colono può vivere in un insediamento nativo alla volta e imparare da loro. Il prossimo deve aspettare che questo abbia finito la sua educazione.</Italian>
 		<Spanish>Sólo un colono puede vivir en un asentamiento nativo a la vez y aprender de ellos. El siguiente tiene que esperar hasta que éste haya terminado su educación.</Spanish>
 		<Russian>Только один колонист может жить и учиться в деревне индейцев в любой момент времени. После того, как он получил профессию, можно начать обучение следующего колониста.</Russian>
+		<PortuguesePT>Apenas um colono pode viver e aprender numa povoação indígena de cada vez. Depois de concluir a sua formação, o próximo colono pode ser treinado.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_REDUCED_REF</Tag>
 		<English>Reduced Royal Expeditionary Force</English>
+		<PortugueseBR>Força Expedicionária Real Reduzida</PortugueseBR>
 		<French>Corps Expéditionnaire Royal réduite</French>
 		<German>Kleineres Königliches Expeditionskorps</German>
 		<Italian>Piccola forza di spedizione reale</Italian>
 		<Spanish>Reducción de la Real Fuerza Expedicionaria</Spanish>
 		<Russian>Уменьшить Королевские Экспедиционные Войска</Russian>
+		<PortuguesePT>Força Expedicionária Real reduzida</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_REDUCED_REF_HELP</Tag>
 		<English>The Royal Expeditionary Corps is halved for the player.</English>
+		<PortugueseBR>O Royal Expeditionary Corps é dividido pela metade para o jogador.</PortugueseBR>
 		<French>Le Corps Expéditionnaire Royal est réduit de moitié pour le joueur.</French>
 		<German>Das Königliche Expeditionskorps wird für den Spieler halbiert.</German>
 		<Italian>La forza di spedizione reale è dimezzato per il giocatore.</Italian>
 		<Spanish>El Real Fuerza Expedicionario se reduce a la mitad para el jugador.</Spanish>
 		<Russian>Размер Королевских Экспедиционных Войск уменьшен вдвое</Russian>
+		<PortuguesePT>O Corpo Expedicionário Real é reduzido para metade para o jogador.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_USE_OLD_FOUNDING_FATHER_SYSTEM</Tag>
 		<English>Use Old System for Founding Fathers</English>
+		<PortugueseBR>Usar o sistema antigo para Pais Fundadores</PortugueseBR>
 		<French>Utiliser l'ancien système pour les Pères fondateurs</French>
 		<German>Altes Gründervätersystem benutzen</German>
 		<Italian>Utilizzare vecchio sistema per Padre fondatore</Italian>
 		<Spanish>Utilice antiguo sistema de Padre de la Patria</Spanish>
 		<Russian>Использовать старую систему Отцов Основателей</Russian>
+		<PortuguesePT>Utilizar o sistema antigo para os Pais Fundadores</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_USE_OLD_FOUNDING_FATHER_SYSTEM_HELP</Tag>
 		<English>With the new system, FFs become available again whenever the civ that recruited them is destroyed.</English>
+		<PortugueseBR>Com o novo sistema, os Pais Fundadores ficam disponíveis novamente sempre que a civilização que os recrutou é destruída.</PortugueseBR>
 		<French>Avec le nouveau système, les PF sont à nouveau disponibles si posséder Civ est détruit.</French>
 		<German>Beim neuen System werden Gründerväter wieder verfügbar, wenn die bisher besitzende Civ vernichtet wird.</German>
 		<Italian>Con il nuovo sistema, FFs saranno disponibili nuovamente se in possesso di Civ è distrutto.</Italian>
 		<Spanish>Con el nuevo sistema, FFs vuelven a estar disponibles si se destruye la posesión de Civilization.</Spanish>
 		<Russian>С новой системой Отцы Основатели снова становятся доступными всякий раз, когда нанявшая их цивилизация уничтожается.</Russian>
+		<PortuguesePT>Com o novo sistema, os Pais Fundadores voltam a ficar disponíveis sempre que a civilização que os recrutou for destruída.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

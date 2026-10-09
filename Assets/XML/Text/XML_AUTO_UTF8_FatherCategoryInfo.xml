@@ -3,6 +3,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHERCATEGORY_EXPLORATION</Tag>
 		<English>Exploration</English>
+		<PortugueseBR>
+			<Text>Exploração</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Exploration</Text>
 			<Gender>Female</Gender>
@@ -20,10 +25,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Разведка</Russian>
+		<PortuguesePT>
+			<Text>Exploração</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHERCATEGORY_MILITARY</Tag>
 		<English>Military</English>
+		<PortugueseBR>
+			<Text>Militares</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Guerre</Text>
 			<Gender>Female</Gender>
@@ -41,10 +56,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Военное дело</Russian>
+		<PortuguesePT>
+			<Text>Militar</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHERCATEGORY_POLITICS</Tag>
 		<English>Politics</English>
+		<PortugueseBR>
+			<Text>Política</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Politique</Text>
 			<Gender>Female</Gender>
@@ -62,10 +87,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Политика</Russian>
+		<PortuguesePT>
+			<Text>Política</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHERCATEGORY_RELIGION</Tag>
 		<English>Religion</English>
+		<PortugueseBR>
+			<Text>Religião</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Religion</Text>
 			<Gender>Female</Gender>
@@ -83,10 +118,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Религия</Russian>
+		<PortuguesePT>
+			<Text>Religião</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHERCATEGORY_TRADE</Tag>
 		<English>Trade</English>
+		<PortugueseBR>
+			<Text>Comércio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Commerce</Text>
 			<Gender>Male</Gender>
@@ -104,5 +149,10 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Торговля</Russian>
+		<PortuguesePT>
+			<Text>Comércio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

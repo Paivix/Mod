@@ -2102,7 +2102,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_2</Tag>
-		<English>Diogo Cao</English>
+		<English>Diogo Cão</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_3</Tag>
@@ -2114,7 +2114,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_5</Tag>
-		<English>Alvares Cabral</English>
+		<English>Álvares Cabral</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_6</Tag>
@@ -2130,11 +2130,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_9</Tag>
-		<English>Almirante Magalhaes</English>
+		<English>Almirante Magalhães</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_10</Tag>
-		<English>Joao Belo</English>
+		<English>João Belo</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_11</Tag>
@@ -2266,7 +2266,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_43</Tag>
-		<English>Arpao</English>
+		<English>Arpão</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_44</Tag>
@@ -2290,11 +2290,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_49</Tag>
-		<English>Barreio</English>
+		<English>Barreiro</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_50</Tag>
-		<English>Setubal</English>
+		<English>Setúbal</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_51</Tag>
@@ -2306,15 +2306,15 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_53</Tag>
-		<English>Braganza</English>
+		<English>Bragança</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_54</Tag>
-		<English>Guimaraes</English>
+		<English>Guimarães</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_55</Tag>
-		<English>Marques de Pombal</English>
+		<English>Marquês de Pombal</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_56</Tag>
@@ -2358,7 +2358,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_66</Tag>
-		<English>Santarem</English>
+		<English>Santarém</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_67</Tag>
@@ -2366,7 +2366,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_68</Tag>
-		<English>Evora</English>
+		<English>Évora</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_69</Tag>
@@ -2382,7 +2382,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_72</Tag>
-		<English>Dom Joao</English>
+		<English>Dom João</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_73</Tag>
@@ -2402,7 +2402,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_77</Tag>
-		<English>Restauracao</English>
+		<English>Restauração</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_78</Tag>
@@ -2418,7 +2418,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_81</Tag>
-		<English>Gobernador</English>
+		<English>Governador</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_PORTUGAL_SHIP_82</Tag>

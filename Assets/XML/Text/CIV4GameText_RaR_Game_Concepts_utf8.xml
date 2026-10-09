@@ -9,6 +9,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_TOTAL_PRODUCTION</Tag>
 		<English>Total Production</English>
+		
+		<PortugueseBR>
+			<Text>Produção Total</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Production totale</Text>
 			<Gender>Female</Gender>
@@ -30,11 +36,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Общий объем производства</Russian>
-        <PortuguesePT>
-            <Text>Produção total</Text>
-            <Gender>Female</Gender>
-            <Plural>0</Plural>
-        </PortuguesePT>
+		<Hungarian>Teljes Termelés</Hungarian>
+		<PortuguesePT>
+			<Text>Produção total</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
-

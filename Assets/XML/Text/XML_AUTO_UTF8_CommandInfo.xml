@@ -11,11 +11,13 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_AUTOMATE</Tag>
 		<English>Automate the unit</English>
+		<PortugueseBR>Automatizar unidade</PortugueseBR>
 		<French>Automatiser l'unité</French>
 		<German>Einheit automatisieren</German>
 		<Italian>Automatizza l'unità</Italian>
 		<Spanish>Automatizar la unidad</Spanish>
 		<Russian>Автоматизировать юнит</Russian>
+		<PortuguesePT>Automatizar a unidade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_AUTOMATE_HELP</Tag>
@@ -24,146 +26,178 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_CANCEL</Tag>
 		<English>Cancel last mission</English>
+		<PortugueseBR>Cancelar última missão</PortugueseBR>
 		<French>Annuler la dernière mission</French>
 		<German>Letzte Mission abbrechen</German>
 		<Italian>Annulla l'ultima missione</Italian>
 		<Spanish>Cancelar última misión</Spanish>
-		<Russian>Отменить распоряжение</Russian>
+		<Russian>Отменить распоряжение</Russian>     
+		<PortuguesePT>Cancelar a última missão</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_CANCEL_HELP</Tag>
 		<English>This will cancel the last order in the unit's mission queue. You will find this to be very useful if you accidentally queue the wrong order.</English>
+		<PortugueseBR>Isso cancelará a última ordem na fila de missão da unidade. Você descobrirá que isso será muito útil se acidentalmente colocar a ordem errada na fila.</PortugueseBR>
 		<French>Annuler le dernier ordre de la liste d'attente. Cette option est très utile pour corriger une erreur.</French>
 		<German>Löschen Sie den letzten Befehl in der Befehlsliste der Einheit. Haben Sie dieser versehentlich einen falschen Befehl erteilt, ist diese Funktion sehr nützlich.</German>
 		<Italian>Questo comando annulla l'ultimo ordine nella coda delle azioni dell'unità. Estremamente utile se si sbaglia a impostare la coda degli ordini.</Italian>
 		<Spanish>Esto cancelará la última orden en la cola de órdenes de la unidad. Es muy útil si ponéis sin querer una orden incorrecta en la cola.</Spanish>
 		<Russian>Отменяет последний приказ, отданный юниту</Russian>
+		<PortuguesePT>Cancela a última ordem na lista de missões da unidade. Esta é uma opção muito útil se acidentalmente ordenares a lista de forma errada.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_CANCEL_ALL</Tag>
 		<English>Cancel all missions</English>
+		<PortugueseBR>Cancelar todas missões</PortugueseBR>
 		<French>Annuler toutes les missions</French>
 		<German>Alle Einsätze abbrechen</German>
 		<Italian>Annulla tutte le missioni</Italian>
 		<Spanish>Cancelar todas las misiones</Spanish>
 		<Russian>Отменить все задачи</Russian>
+		<PortuguesePT>Cancelar todas as missões</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_CANCEL_ALL_HELP</Tag>
 		<English>This will cancel all queued orders for the currently selected unit.</English>
+		<PortugueseBR>Isto cancelará todas as ordens em fila para a unidade atualmente selecionada.</PortugueseBR>
 		<French>Annuler tous les ordres en attente de l'unité sélectionnée.</French>
 		<German>Löschen Sie alle Befehle der aktuellen Einheit.</German>
 		<Italian>Per annullare tutti gli ordini in coda dell'unità selezionata.</Italian>
 		<Spanish>Esto cancelará todas las órdenes que haya en cola para la unidad que tengáis seleccionada.</Spanish>
 		<Russian>Отменяет все стоящие в очереди приказы для выбранного юнита</Russian>
+		<PortuguesePT>Cancela todas as missões listadas para a unidade selecionada atualmente</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_CHOOSE_TRADE_ROUTES</Tag>
 		<English>Assign transport routes (automate)</English>
+		<PortugueseBR>Rotas de transporte</PortugueseBR>
 		<French>Attribuer des routes commerciales (Automatiser)</French>
 		<German>Transportrouten zuweisen</German>
 		<Italian>Assegna rotte commerciali (automaticamente)</Italian>
 		<Spanish>Asignar rutas comerciales (automatizar)</Spanish>
 		<Russian>Назначить транспортные машруты (автоматизированные)</Russian>
+		<PortuguesePT>Atribuir rotas de transporte (automatizado)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_CHOOSE_TRADE_ROUTES_HELP</Tag>
 		<English>Automate this transport by selecting the transport routes it should follow.</English>
+		<PortugueseBR>Automatizar esse transporte selecionando as rotas de transporte que ele deverá seguir.</PortugueseBR>
 		<French>Automatiser ce transport en sélectionnant les routes commerciales qu'il devrait suivre.</French>
 		<German>Routenverwaltung aufrufen, um Transportrouten einzurichten und zuzuweisen.</German>
 		<Italian>Automatizza questo trasporto scegliendo le rotte commerciali che dovrebbe seguire.</Italian>
 		<Spanish>Automatizar este transporte seleccionando las rutas comerciales que debe seguir.</Spanish>
 		<Russian>Автоматизируйте этот транспорт, выбрав транспортные маршруты, по которым он должен следовать</Russian>
+		<PortuguesePT>Automatiza este transporte ao selecionar as rotas de transporte que ele deve realizar.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_CLEAR_SPECIALTY</Tag>
 		<English>Clear specialty</English>
+		<PortugueseBR>Tirar especialidade</PortugueseBR>
 		<French>Effacer la spécialité</French>
 		<German>Expertenfähigkeit entfernen</German>
 		<Italian>Rimuovi specializzazione</Italian>
 		<Spanish>Borrar especialidad</Spanish>
 		<Russian>Очистить специальность</Russian>
+		<PortuguesePT>Apagar especialidade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_CLEAR_SPECIALTY_HELP</Tag>
 		<English>Converts this unit so that it may acquire a different specialty.</English>
+		<PortugueseBR>Converte esta unidade para que possa adquirir uma especialidade diferente.</PortugueseBR>
 		<French>Convertit cette unité afin qu?elle puisse acquérir une nouvelle spécialité.</French>
 		<German>Wandelt diesen Experten in einen Freien Kolonisten um, der dann eine andere Expertenfähigkeit erlernen könnte.</German>
 		<Italian>Cambia l'unità in modo che possa ottenere una diversa specializzazione.</Italian>
 		<Spanish>Convierte esta unidad para que pueda adquirir una especialidad distinta.</Spanish>
 		<Russian>Текущая специальность юнита сбрасывается для того, чтобы появилась возможность обучиться другой</Russian>
+		<PortuguesePT>Converte esta unidade num cidadão livre, para que possa adquirir uma nova especialidade.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_DELETE</Tag>
 		<English>Delete the unit</English>
+		<PortugueseBR>Excluir unidade</PortugueseBR>
 		<French>Supprimer l'unité</French>
 		<German>Einheit auflösen</German>
 		<Italian>Elimina l'unità</Italian>
 		<Spanish>Borrar la unidad</Spanish>
 		<Russian>Уничтожить юнит</Russian>
+		<PortuguesePT>Eliminar esta unidade.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_DELETE_HELP</Tag>
 		<English>Click on this order to remove the unit from play.</English>
+		<PortugueseBR>Clicar nesta ordem para remover a unidade do jogo.</PortugueseBR>
 		<French>Retirer l'unité de la partie.</French>
 		<German>Klicken Sie hier, um die Einheit aus dem Spiel zu entfernen.</German>
 		<Italian>Clicca su questo ordine per rimuovere l'unità dalla partita.</Italian>
 		<Spanish>Hacer clic en esta orden para eliminar a la unidad de la partida.</Spanish>
 		<Russian>Данный приказ навсегда удаляет отряд из игры</Russian>
+		<PortuguesePT>Clicar nesta ordem, apaga definitivamente esta unidade do jogo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_ESTABLISH_MISSION</Tag>
 		<English>Establish mission</English>
+		<PortugueseBR>Estabelecer missão</PortugueseBR>
 		<French>Etablir une mission</French>
 		<German>Mission errichten</German>
 		<Italian>Fonda missione</Italian>
 		<Spanish>Fundar misión</Spanish>
 		<Russian>Основать миссию</Russian>
+		<PortuguesePT>Estabelecer uma missão.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_ESTABLISH_MISSION_HELP</Tag>
 		<English>Establish a mission in the village to gradually convert Natives to your faith.</English>
+		<PortugueseBR>Estabelecer uma missão na aldeia para converter gradualmente os nativos à sua fé.</PortugueseBR>
 		<French>Etablir une mission dans le village pour convertir peu à peu les indigènes à votre foi.</French>
 		<German>Eine Mission errichten, um Konvertierte Ureinwohner zu gewinnen.</German>
 		<Italian>Fonda una missione nel villaggio per convertire gradualmente i nativi alla tua fede.</Italian>
 		<Spanish>Fundad una misión en la aldea para ir convirtiendo gradualmente a los nativos a vuestra fe.</Spanish>
 		<Russian>Создайте в деревне индейцев христианскую миссию, чтобы постепенно обращать туземцев в свою веру</Russian>
+		<PortuguesePT>Estabelece uma missão nesta vila. A seu tempo, ela irá converter indígenas para a tua confissão religiosa.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_GIFT</Tag>
 		<English>Gift the unit</English>
+		<PortugueseBR>Presentear</PortugueseBR>
 		<French>Offrir l'unité</French>
 		<German>Einheit verschenken</German>
 		<Italian>Dona l'unità</Italian>
 		<Spanish>Regalar la unidad</Spanish>
 		<Russian>Подарить юнит</Russian>
+		<PortuguesePT>Oferecer esta unidade.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_GIFT_HELP</Tag>
 		<English>This will give the currently selected unit to the player who controls the land the unit is standing on. To give the unit to a different player you must first move the unit into their territory.</English>
+		<PortugueseBR>Isso dará a unidade atualmente selecionada ao jogador que controla o terreno onde a unidade está. Para dar a unidade a um jogador diferente, você deve primeiro mover a unidade para o território dele.</PortugueseBR>
 		<French>Transférer l'unité sélectionnée au joueur contrôlant le terrain sur laquelle elle se trouve. Pour transférer une unité à un joueur, vous devez d'abord placer cette unité sur son territoire.</French>
 		<German>Übergeben Sie die aktuelle Einheit dem Spieler, der ihren Standort kontrolliert. Möchten Sie die Einheit einem anderen Spieler übergeben, müssen Sie sie zuerst in dessen Territorium verlegen.</German>
 		<Italian>Questo comando serve per consegnare l'unità attualmente selezionata al giocatore che controlla il territorio sul quale si trova l'unità. Per dare l'unità a un altro giocatore devi prima muovere l'unità nel territorio prescelto.</Italian>
 		<Spanish>Con esto le daréis la unidad seleccionada al jugador que controle la tierra en la que se encuentre dicha unidad. Para darle la unidad a otro jugador, antes tendréis que moverla a un territorio que le pertenezca.</Spanish>
 		<Russian>Позволяет передать выбранный юнит игроку, на территории которого тот находится</Russian>
+		<PortuguesePT>Dá a atual unidade ao jogador que controla o terreno em que ela se situa. Para dares uma unidade a um jogador diferente, primeiro tens de mover a unidade para o seu território.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_GOTO_MENU</Tag>
 		<English>Go to mode (city selection)</English>
+		<PortugueseBR>Ir para (seleção de colônia)</PortugueseBR>
 		<French>Aller à (Choisir une ville)</French>
 		<German>Gehe-zu-Modus (Stadtliste)</German>
 		<Italian>Vai alla modalità (selezione della città)</Italian>
 		<Spanish>Modo ir a (selección de ciudad)</Spanish>
 		<Russian>Идти к выбранному городу</Russian>
+		<PortuguesePT>Ir para (selecionar cidade)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_GOTO_MENU_HELP</Tag>
 		<English>Opens a menu that allows you to send the selected unit to a specific city.</English>
+		<PortugueseBR>Abre um menu que permite enviar a unidade selecionada para uma colônia específica.</PortugueseBR>
 		<English>Ouvre un menu qui vous permet d'envoyer l'unité sélectionnée vers une ville spécifique.</English>
 		<German>Öffnet ein Menü, mit dem man die gewählte Einheit zu einer bestimmten Stadt schicken kann.</German>
 		<English>Apre un menu che permette di inviare l'unità selezionata a una città specifica.</English>
 		<English>Abre un menú que permite enviar la unidad seleccionada a una ciudad concreta.</English>
 		<Russian>Открывает меню, позволяющее отправить выбранный юнит в нужный город</Russian>
+		<PortuguesePT>Abre um menu que permite enviar a unidade selecionada para uma cidade específica.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_HOTKEY</Tag>
@@ -172,118 +206,144 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_HOTKEY_HELP</Tag>
 		<English>Allows you to assign a hot-key to this unit.</English>
+		<PortugueseBR>Permite atribuir uma tecla de atalho a esta unidade.</PortugueseBR>
 		<French>Assigner un raccourci-clavier à cette unité.</French>
 		<German>Weisen Sie dieser Einheit eine Schnelltaste zu.</German>
 		<Italian>Ti permette di assegnare un tasto di scelta rapida a questa unità.</Italian>
 		<Spanish>Permite asignarle una tecla de acceso a esta unidad.</Spanish>
+		<PortuguesePT>Permite atribuir uma tecla de atalho para esta unidade.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_IGNORE_DANGER</Tag>
 		<English>Ignore danger</English>
+		<PortugueseBR>Ignorar perigo</PortugueseBR>
 		<French>Ignorer les ennemis en vue</French>
 		<German>Feinde in Sichtweite ignorieren</German>
 		<Italian>Ignora i nemici in vista</Italian>
 		<Spanish>Ignorar a los enemigos a la vista</Spanish>
 		<Russian>Игнорировать опасность</Russian>
+		<PortuguesePT>Ignorar o perigo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_IGNORE_DANGER_HELP</Tag>
 		<English>Unit will not stop when an enemy comes into view.</English>
+		<PortugueseBR>A unidade não irá parar quando um inimigo aparecer.</PortugueseBR>
 		<French>L'unité ne s'arrête pas, même si un ennemi est en vue.</French>
 		<German>Einheit wird nicht stoppen, wenn ein Feind in Sichtweite gerät.</German>
 		<Italian>L'unità non si ferma quando un nemico entra in vista.</Italian>
 		<Spanish>La unidad no se detendrá cuando un enemigo esté a la vista.</Spanish>
 		<Russian>Юнит не прекратит движение или действия, даже когда в поле зрения появятся вражеские отряды</Russian>
+		<PortuguesePT>A unidade não vai parar quando o inimigo se aproximar à sua vista.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_KING_TRANSPORT</Tag>
 		<English>Sell treasure</English>
+		<PortugueseBR>Vender tesouro</PortugueseBR>
 		<French>Vendre Trésor</French>
 		<German>Schatz verkaufen</German>
 		<Italian>Vendi tesoro</Italian>
 		<Spanish>Vender tesoro</Spanish>
 		<Russian>Продать сокровище Королю</Russian>
+		<PortuguesePT>Vender tesouro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_KING_TRANSPORT_HELP</Tag>
 		<English>Contact King to transport this treasure for a fee.</English>
+		<PortugueseBR>Contatar o rei para transportar este tesouro mediante o pagamento de uma taxa.</PortugueseBR>
 		<French>Contacter le roi afin qu'il vous facture un convoi pour le trésor.</French>
 		<German>König kontaktieren, um diesen Schatz gegen eine Gebühr zu transportieren.</German>
 		<Italian>Contatta il re per il trasporto del tesoro, in cambio di un onorario.</Italian>
 		<Spanish>Contactar con el rey para que transporte este Tesoro a cambio de una comisión.</Spanish>
 		<Russian>Попросить Короля переправить Сокровище в Европу. Стоимость транспортировки равна половине ценности Сокровища плюс ставка налога.</Russian>
+		<PortuguesePT>Contacta o Rei para transportar este tesouro, em troca ele recebe uma percentagem do respetivo tesouro.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_LEARN</Tag>
 		<English>Learn skill</English>
+		<PortugueseBR>Aprender ofício</PortugueseBR>
 		<French>Apprendre une technique</French>
 		<German>Fähigkeit lernen</German>
 		<Italian>Impara abilità</Italian>
 		<Spanish>Aprender habilidad</Spanish>
 		<Russian>Выучить профессию</Russian>
+		<PortuguesePT>Aprender uma especialidade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_LEARN_HELP</Tag>
 		<English>Live among the Natives and acquire an expert skill.</English>
+		<PortugueseBR>Viver entre nativos e adquira habilidades especializadas.</PortugueseBR>
 		<French>Vivre parmi les indigènes et acquérir une nouvelle technique.</French>
 		<German>Bei den Ureinwohnern leben und eine Expertenfähigkeit erlernen.</German>
 		<Italian>Vivi tra i nativi e impara un'abilità a livello esperto.</Italian>
 		<Spanish>Vivid entre los nativos y conseguid una habilidad experta.</Spanish>
 		<Russian>Живите среди туземцев и приобретайте экспертные навыки профессии, которой они могут обучить</Russian>
+		<PortuguesePT>Viver com os indígenas e aprender uma especialidade.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_LOAD</Tag>
 		<English>Load</English>
+		<PortugueseBR>Carregar</PortugueseBR>
 		<French>Charger</French>
 		<German>Laden</German>
 		<Italian>Imbarca</Italian>
 		<Spanish>Embarcar</Spanish>
 		<Russian>Погрузиться в транспорт</Russian>
+		<PortuguesePT>Embarcar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_LOAD_HELP</Tag>
 		<English>This will move the unit into a transport.</English>
+		<PortugueseBR>Isso moverá a unidade para um transporte.</PortugueseBR>
 		<French>Embarquer l'unité à bord d'un transport.</French>
 		<German>Einheit verladen.</German>
 		<Italian>Per muovere un'unità a bordo di un trasporto.</Italian>
 		<Spanish>Con esto subiréis la unidad a un transporte.</Spanish>
 		<Russian>Позволяет переместить юнит в транспорт</Russian>
+		<PortuguesePT>Esta ação irá embarcar a unidade numa transportadora.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_LOAD_CARGO</Tag>
 		<English>Load goods</English>
+		<PortugueseBR>Carregar bens</PortugueseBR>
 		<French>Charger des marchandises</French>
 		<German>Beladen</German>
 		<Italian>Carica beni</Italian>
 		<Spanish>Cargar mercancías</Spanish>
 		<Russian>Загрузить (товары)</Russian>
+		<PortuguesePT>Carregar mercadorias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_LOAD_CARGO_HELP</Tag>
 		<English>This will load stored goods into a transport.</English>
+		<PortugueseBR>Isso carregará as mercadorias armazenadas em um transporte.</PortugueseBR>
 		<French>Ordonne de charger des marchandises sur une unité de transport.</French>
 		<German>Güter auf eine Transporteinheit verladen.</German>
 		<Italian>Per caricare su un trasporto i beni immagazzinati.</Italian>
 		<Spanish>Esto cargará en el transporte las mercancías almacenadas.</Spanish>
 		<Russian>Позволяет загрузить товары из складов в транспорт</Russian>
+		<PortuguesePT>Esta ação irá carregar as mercadorias armazenadas numa transportadora.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_LOAD_UNIT</Tag>
 		<English>Load onto unit</English>
+		<PortugueseBR>Carregar na unidade</PortugueseBR>
 		<French>Charger sur unité</French>
 		<German>Einheit beladen</German>
 		<Italian>Carica sull'unità</Italian>
 		<Spanish>Embarcar la unidad</Spanish>
 		<Russian>Погрузить в транспорт</Russian>
+		<PortuguesePT>Embarcar na transportadora</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_LOAD_UNIT_HELP</Tag>
 		<English>This will move the unit into a specified transport.</English>
+		<PortugueseBR>Isto moverá a unidade para um transporte especificado.</PortugueseBR>
 		<French>L'unité embarquera à bord du transport indiqué.</French>
 		<German>Die Einheit wird in die gewählte Transporteinheit geladen.</German>
 		<Italian>Per muovere un'unità sul trasporto specificato.</Italian>
 		<Spanish>Con esto, la unidad embarcará en el transporte especificado.</Spanish>
 		<Russian>Позволяет загрузить юнит в выбранный транспорт</Russian>
+		<PortuguesePT>Vai mover a unidade selecionada para a unidade de transporte</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_LOAD_YIELD</Tag>
@@ -296,47 +356,57 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_PROFESSION</Tag>
 		<English>Change profession</English>
+		<PortugueseBR>Mudar de profissão</PortugueseBR>
 		<French>Changer de profession</French>
 		<German>Beruf wechseln</German>
 		<Italian>Cambia professione</Italian>
 		<Spanish>Cambiar de profesión</Spanish>
 		<Russian>Изменить профессию</Russian>
+		<PortuguesePT>Mudar profissão</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_PROFESSION_HELP</Tag>
 		<English>Choose from a list of available professions.</English>
+		<PortugueseBR>Escolha em uma lista de profissões disponíveis.</PortugueseBR>
 		<French>Choisir parmi les professions disponibles.</French>
 		<German>Aus einer Liste der verfügbaren Berufe wählen.</German>
 		<Italian>Scegli tra una lista delle professioni disponibili.</Italian>
 		<Spanish>Elegir de una lista de profesiones disponibles.</Spanish>
 		<Russian>Выбрать из списка доступных профессий, нужную в данный момент</Russian>
+		<PortuguesePT>Escolher a partir de uma lista de profissões disponíveis</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_PROMOTE</Tag>
 		<English>Promote unit</English>
+		<PortugueseBR>Promover unidade</PortugueseBR>
 		<French>Promouvoir l'unité</French>
 		<German>Einheit befördern</German>
 		<Italian>Promuovi unità</Italian>
 		<Spanish>Ascender unidad</Spanish>
 		<Russian>Повысить юнит</Russian>
+		<PortuguesePT>Promover a unidade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_PROMOTE_HELP</Tag>
 		<English>Choose from a list of available promotions.</English>
+		<PortugueseBR>Escolha em uma lista de promoções disponíveis.</PortugueseBR>
 		<French>Choisir parmi les promotions disponibles.</French>
 		<German>Aus einer Liste der verfügbaren Beförderungen wählen.</German>
 		<Italian>Scegli da una lista delle promozioni disponibili.</Italian>
 		<Spanish>Elegir de una lista de ascensos disponibles.</Spanish>
 		<Russian>Выбрать из списка доступных нужное повышение юнита</Russian>
+		<PortuguesePT>Escolher a partir de uma lista de promoções disponíveis</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_PROMOTION</Tag>
 		<English>Promote unit</English>
+		<PortugueseBR>Promover unidade</PortugueseBR>
 		<French>Promouvoir l'unité</French>
 		<German>Einheit befördern</German>
 		<Italian>Promuovi unità</Italian>
 		<Spanish>Ascender unidad</Spanish>
 		<Russian>Повысить юнит</Russian>
+		<PortuguesePT>Promover a unidade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_PROMOTION_HELP</Tag>
@@ -345,154 +415,188 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SAIL_TO_AFRICA</Tag>
 		<English>Sail to Africa</English>
+		<PortugueseBR>Para África</PortugueseBR>
 		<French>Naviguer vers l'Afrique</French>
 		<German>Nach Afrika segeln</German>
 		<Italian>Fai vela per l'Africa</Italian>
 		<Spanish>Navegar a Africa</Spanish>
 		<Russian>Плыть в Африку</Russian>
+		<PortuguesePT>Navegar para África</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SAIL_TO_AFRICA_HELP</Tag>
 		<English>The ship sails off the map and can be accessed through the Africa Screen.</English>
+		<PortugueseBR>O navio sai do mapa e pode ser acessado através da Tela África.</PortugueseBR>
 		<French>Le navire quitte la carte et peut être suivi via l'écran de l'Afrique.</French>
 		<German>Das Schiff segelt über die Karte hinaus und ist dann über den Afrika-Bildschirm verfügbar.</German>
 		<Italian>La nave salpa al di fuori della mappa; puoi accedervi attraverso la schermata Africa.</Italian>
 		<Spanish>El barco navega hasta salir del mapa, pero se puede acceder a él mediante la pantalla de Africa.</Spanish>
 		<Russian>Корабль в автоматическом режиме достигает клеток "Путь в Европу" и через несколько ходов появляется на экране Африки</Russian>
+		<PortuguesePT>O navio dirige-se para fora do mapa, podendo ser acedido depois no Ecrã de África</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SAIL_TO_EUROPE</Tag>
 		<English>Sail to Europe</English>
+		<PortugueseBR>Para Europa</PortugueseBR>
 		<French>Naviguer vers l'Europe</French>
 		<German>Nach Europa segeln</German>
 		<Italian>Fai vela per l'Europa</Italian>
 		<Spanish>Navegar a Europa</Spanish>
 		<Russian>Плыть в Европу</Russian>
+		<PortuguesePT>Navegar para a Europa</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SAIL_TO_EUROPE_HELP</Tag>
 		<English>The ship sails off the map and can be accessed through the Europe Screen.</English>
+		<PortugueseBR>O navio sai do mapa e pode ser acessado pela Tela Europa.</PortugueseBR>
 		<French>Le navire quitte la carte et peut être suivi via l'Ecran de l'Europe.</French>
 		<German>Das Schiff segelt über die Karte hinaus und ist dann im Europa-Bildschirm verfügbar</German>
 		<Italian>La nave salpa al di fuori della mappa; puoi accedervi attraverso la schermata Europa.</Italian>
 		<Spanish>El barco navega hasta salir del mapa, pero se puede acceder a él mediante la pantalla de Europa.</Spanish>
 		<Russian>Корабль в автоматическом режиме достигает клеток "Путь в Европу" и через несколько ходов появляется на экране Европы</Russian>
+		<PortuguesePT>O navio dirige-se para fora do mapa, podendo ser acedido depois no Ecrã da Europa</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SAIL_TO_PORT_ROYAL</Tag>
 		<English>Sail to Port Royal</English>
+		<PortugueseBR>Para Port Royal</PortugueseBR>
 		<French>Naviguer vers Port Royal</French>
 		<German>Nach Port Royal segeln</German>
 		<Italian>Fai vela per Port Royal</Italian>
 		<Spanish>Navegar a Port Royal</Spanish>
 		<Russian>Плыть в Порт Ройал</Russian>
+		<PortuguesePT>Navegar para Porto Real</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SAIL_TO_PORT_ROYAL_HELP</Tag>
 		<English>The ship sails off the map and can be accessed through the Port Royal Screen.</English>
+		<PortugueseBR>O navio sai do mapa e pode ser acessado pela tela de Port Royal.</PortugueseBR>
 		<French>Le navire quitte la carte et peut être suivi via l'écran de Port Royal.</French>
 		<German>Das Schiff segelt über die Karte hinaus und ist dann über den Port Royal-Bildschirm verfügbar.</German>
 		<Italian>La nave salpa al di fuori della mappa; puoi accedervi attraverso la schermata Port Royal.</Italian>
 		<Spanish>El barco navega hasta salir del mapa, pero se puede acceder a él mediante la pantalla de Port Royal.</Spanish>
 		<Russian>Корабль в автоматическом режиме достигает клеток "Путь в Европу" и через несколько ходов появляется на экране Порт Ройала</Russian>
+		<PortuguesePT>O navio dirige-se para fora do mapa, podendo ser acedido depois no Ecrã de Porto Real</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SPEAK_WITH_CHIEF</Tag>
 		<English>Speak with chief</English>
+		<PortugueseBR>Falar com chefe</PortugueseBR>
 		<French>Parler avec le chef</French>
 		<German>Mit dem Häuptling sprechen</German>
 		<Italian>Parla col capo</Italian>
 		<Spanish>Hablar con el jefe</Spanish>
 		<Russian>Говорить с вождем</Russian>
+		<PortuguesePT>Falar com o Chefe</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SPEAK_WITH_CHIEF_HELP</Tag>
 		<English>Meet with the chief to learn more about the Native way of life.</English>
+		<PortugueseBR>Reúna-se com o chefe para aprender mais sobre o modo de vida nativo.</PortugueseBR>
 		<French>Rencontrer le chef dans l'espoir d'en apprendre davantage sur le mode de vie des indigènes.</French>
 		<German>Mit dem Häuptling sprechen, um vielleicht Geschenke zu erlangen.</German>
 		<Italian>Incontra il capo sperando di imparare di più sullo stile di vita dei nativi.</Italian>
 		<Spanish>Reuníos con el jefe con la esperanza de aprender más sobre el modo de vida indígena.</Spanish>
 		<Russian>Встретьтесь с вождем, чтобы узнать больше об образе жизни коренных жителей, их возможностях и пожеланиях</Russian>
+		<PortuguesePT>Encontrar-se com o Chefe da Tribo para conhecer melhor o estilo de vida dos indígenas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_STIR_UP_NATIVES</Tag>
 		<English>Stir up Natives</English>
+		<PortugueseBR>Agitar nativos</PortugueseBR>
 		<French>Provoquer les indigènes</French>
 		<German>Ureinwohner aufstacheln</German>
 		<Italian>Incitare i nativi</Italian>
 		<Spanish>Revuelva hasta natives</Spanish>
 		<Russian>Раздражать индейцев</Russian>
+		<PortuguesePT>Provocar os indígenas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_STIR_UP_NATIVES_HELP</Tag>
 		<English>Stirring up Natives will cause them to go on raids.</English>
+		<PortugueseBR>Incitar os nativos fará com que eles façam ataques.</PortugueseBR>
 		<French>Provoquer les indigènes les incitera à faire des raids.</French>
 		<German>Aufstacheln der Ureinwohner führt zu Überfällen.</German>
 		<Italian>Mescolando up nativi li farà andare in raid.</Italian>
 		<Spanish>Revolviendo los nativos los hará ir a las redadas.</Spanish>
 		<Russian>Это заставит их начать совершать набеги. </Russian>
+		<PortuguesePT>Provoca os indígenas e faz com que eles possam atacar de volta</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_STOP_AUTOMATION</Tag>
 		<English>Stop automation</English>
+		<PortugueseBR>Parar automação</PortugueseBR>
 		<French>Annuler l'automatisation</French>
 		<German>Automatisierung stoppen</German>
 		<Italian>Interrompi l'automazione</Italian>
 		<Spanish>Detener la automatización</Spanish>
 		<Russian>Отменить автоматизацию юнита</Russian>
+		<PortuguesePT>Parar a automatização</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_STOP_AUTOMATION_HELP</Tag>
 		<English>This will cancel the order for the unit to automate itself. It will then rely on you for all orders.</English>
+		<PortugueseBR>Isso cancelará a ordem de automatização da unidade. Ela então dependerá de você para todas as ordens.</PortugueseBR>
 		<French>Annuler l'automatisation de l'unité. Vous pouvez ensuite lui donner de nouveaux ordres.</French>
 		<German>Widerrufen Sie den Automatisierungsbefehl der Einheit. Diese wartet anschließend auf weitere Befehle.</German>
 		<Italian>Per annullare l'ordine di automazione di un'unità e riprenderne completamente il controllo.</Italian>
 		<Spanish>Sirve para cancelar la orden de automatizarse de la unidad. Ésta pasará a obedecer solo las órdenes que le deis.</Spanish>
 		<Russian>Это отменит автоматизированные действия юнита и вам опять придется назначать ему задания вручную</Russian>
+		<PortuguesePT>Esta ação irá cancelar a ordem para a unidade se automatizar. A partir desse momento, dependerá de ti para todas as ordens.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_UNLOAD</Tag>
 		<English>Unload</English>
+		<PortugueseBR>Descarregar</PortugueseBR>
 		<French>Décharger</French>
 		<German>Entladen</German>
 		<Italian>Sbarca</Italian>
 		<Spanish>Desembarcar</Spanish>
 		<Russian>Выгрузить</Russian>
+		<PortuguesePT>Desembarcar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_UNLOAD_HELP</Tag>
 		<English>This will unload a previously loaded unit from its transport.</English>
+		<PortugueseBR>Isto irá descarregar uma unidade previamente carregada do seu transporte.</PortugueseBR>
 		<French>Décharger une unité d'un transport.</French>
 		<German>Entladen Sie eine zuvor eingeladene Einheit.</German>
 		<Italian>Per scaricare un'unità precedentemente caricata su un trasporto.</Italian>
 		<Spanish>Con esto bajaréis del transporte a una unidad previamente embarcada en él.</Spanish>
 		<Russian>Позволяет выгрузить юнит из транспорта</Russian>
+		<PortuguesePT>Desembarca a unidade selecionada que está dentro da unidade de transporte.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_UNLOAD_ALL</Tag>
 		<English>Unload all</English>
+		<PortugueseBR>Descarregar tudo</PortugueseBR>
 		<French>Décharger tous</French>
 		<German>Alle entladen</German>
 		<Italian>Sbarca tutto</Italian>
 		<Spanish>Desembarcar todas</Spanish>
 		<Russian>Выгрузить все</Russian>
+		<PortuguesePT>Desembarcar todas as unidades</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_UNLOAD_ALL_HELP</Tag>
 		<English>This will unload all transported units.</English>
+		<PortugueseBR>Isso descarregará todas as unidades transportadas.</PortugueseBR>
 		<French>Décharger toutes les unités transportées.</French>
 		<German>Entladen Sie alle transportierten Einheiten.</German>
 		<Italian>Per scaricare tutte le unità a bordo del trasporto.</Italian>
 		<Spanish>Con esto desembarcarán todas las unidades transportadas.</Spanish>
 		<Russian>Позволяет выгрузить сразу всею юниты, находящиеся в транспорте</Russian>
+		<PortuguesePT>Descarrega todas as unidades que estão embarcadas.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_UPGRADE</Tag>
 		<English>Upgrade unit</English>
+		<PortugueseBR>Aprimorar unidade</PortugueseBR>
 		<French>Améliorer l'unité</French>
 		<German>Einheit modernisieren</German>
 		<Italian>Migliora unità</Italian>
 		<Spanish>Modernizar unidad</Spanish>
+		<PortuguesePT>Melhorar unidade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_UPGRADE_HELP</Tag>
@@ -501,85 +605,105 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_WAKE</Tag>
 		<English>Wake the unit</English>
+		<PortugueseBR>Acordar unidade</PortugueseBR>
 		<French>Réveiller l'unité</French>
 		<German>Einheit wecken</German>
 		<Italian>Sveglia l'unità</Italian>
 		<Spanish>Despertar a la unidad</Spanish>
 		<Russian>Активировать юнит</Russian>
+		<PortuguesePT>Despertar a unidade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_WAKE_HELP</Tag>
 		<English>This will wake the unit up so that it can be issued orders. Waking a unit does not remove its fortification bonus.</English>
+		<PortugueseBR>Isso irá despertar a unidade para que possa receber ordens. Acordar uma unidade não remove seu bônus de fortificação.</PortugueseBR>
 		<French>Réveiller l'unité pour lui donner des ordres. Cette action ne modifie pas le bonus de retranchement de l'unité.</French>
 		<German>Wecken Sie eine Einheit auf und erteilen Sie ihr Befehle. Die Einheit verliert dadurch nicht ihren Befestigungsbonus.</German>
 		<Italian>Questo comando sveglierà l'unità, in modo che possa ricevere ordini. Svegliando un'unità non si perde il bonus della sua fortificazione.</Italian>
 		<Spanish>Esto despertará a la unidad para que se le puedan dar órdenes. Despertar a una unidad no elimina las bonificaciones que tenga por fortificación.</Spanish>
 		<Russian>Позволяет активировать юнит для дальнейших действий. Активация не снимает его бонус укрепления</Russian>
+		<PortuguesePT>Desperta a unidade para que fique disponível para receber ordens. A unidade desperta não perde o bónus de fortificação.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_YIELD_TRADE</Tag>
 		<English>Trade with settlement</English>
+		<PortugueseBR>Negociar com colônia</PortugueseBR>
 		<French>Commercer avec la colonie</French>
 		<German>Mit Siedlung Handel treiben</German>
 		<Italian>Commercia con l'insediamento</Italian>
 		<Spanish>Intercambiar con asentamiento</Spanish>
 		<Russian>Торговать с поселением</Russian>
+		<PortuguesePT>Negociar com a povoação</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_YIELD_TRADE_HELP</Tag>
 		<English>Use your transport to trade with the locals.</English>
+		<PortugueseBR>Usar o transporte para negociar com os habitantes locais.</PortugueseBR>
 		<French>Utiliser votre transport pour commercer avec les indigènes.</French>
 		<German>Benutzen Sie Ihre Transporteinheiten, um mit den Einwohnern Handel zu treiben.</German>
 		<Italian>Usa il tuo trasporto per commerciare con i locali.</Italian>
 		<Spanish>Usad vuestro transporte para comerciar con los lugareños.</Spanish>
 		<Russian>Используйте свой транспорт, чтобы торговать с местными жителями</Russian>
+		<PortuguesePT>Utilize o seu transporte para fazer comércio com os povos locais.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_MERGE_TREASURES</Tag>
 		<English>Merge treasures</English>
+		<PortugueseBR>Mesclar tesouros</PortugueseBR>
 		<French>Fusionner les trésors</French>
 		<German>Schätze vereinen</German>
 		<Italian>Unire i tesori</Italian>
 		<Spanish>Fusionar tesoros</Spanish>
 		<Russian>Объединить сокровища</Russian>
+		<PortuguesePT>Reunir tesouros</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_MERGE_TREASURES_HELP</Tag>
 		<English>Merge the treasures on plot to one unit.</English>
+		<PortugueseBR>Combinar os tesouros do lote em uma unidade.</PortugueseBR>
 		<French>Fusionner les trésors du Plot en une seule unité.</French>
 		<German>Vereine die Schätze auf dem Geländefeld zu einer Einheit.</German>
 		<Italian>Unire i tesori della trama in una sola unità.</Italian>
 		<Spanish>Fusiona los tesoros de la parcela en una unidad.</Spanish>
 		<Russian>Позволяет объединить несколько сокровищ в один юнит с максимальной ценностью в 3000 золотых (для Нормальной скорости игры)</Russian>
+		<PortuguesePT>Reunir os tesouros no terreno, numa só unidade (até ao valor máximo de 3000) </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_ESTABLISH_TRADE_POST</Tag>
 		<English>Establish trading post</English>
+		<PortugueseBR>Estabelecer feitoria</PortugueseBR>
 		<French>Établir un poste de traite</French>
 		<German>Handelsposten einrichten</German>
 		<Italian>Stabilire un posto di scambio</Italian>
 		<Spanish>Establecer un puesto comercial</Spanish>
 		<Russian>Установить торговый пост</Russian>
+		<PortuguesePT>Estabelecer um posto de comércio</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_ESTABLISH_TRADE_POST_HELP</Tag>
 		<English>Establish a trading post in the settlement to gradually generate treasures.</English>
+		<PortugueseBR>Estabelecer uma feitoria na colônia para gerar tesouros gradualmente.</PortugueseBR>
 		<French>Établir un poste de traite dans le village pour générer progressivement des trésors.</French>
 		<German>Einen Handelsposten errichten, um mit den Ureinwohnern Handel zu treiben und Schätze zu erzeugen.</German>
 		<Italian>Stabilire un Trading Post nel villaggio per generare gradualmente dei tesori.</Italian>
 		<Spanish>Establecer un puesto de comercio en el pueblo para generar gradualmente tesoros.</Spanish>
 		<Russian>Откройте торговый пост, чтобы постепенно генерировать сокровища. Чем больше жителей в поселении, тем быстрее они будут появляться</Russian>
+		<PortuguesePT>Estabelece um posto de comércio na povoação, o que gera tesouros de forma gradual. </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_USE_CONSTRUCTION_SUPPLIES</Tag>
 		<English>Use Construction Supplies</English>
+		<PortugueseBR>Usar suprimentos</PortugueseBR>
 		<German>Baumaterial verwenden</German>
 		<Russian>Использовать Строительные материалы</Russian>
+		<PortuguesePT>Utilizar materiais de construção</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_USE_CONSTRUCTION_SUPPLIES_HELP</Tag>
 		<English>Use the Construction Supply to transform it into Production of the City.</English>
+		<PortugueseBR>Usar os materiais de construção para transformá-los em produção da colônia.</PortugueseBR>
 		<German>Benutze das Baumaterial, um es in Produktion der Stadt umzuwandeln.</German>
 		<Russian>Используйте строительные материалы, чтобы ускорить производство в городе</Russian>
+		<PortuguesePT>Utilizar os materiais de construção para os transformar em produção da cidade.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

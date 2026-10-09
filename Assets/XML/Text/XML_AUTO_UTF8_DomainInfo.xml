@@ -3,6 +3,11 @@
 	<TEXT>
 		<Tag>TXT_KEY_DOMAIN_IMMOBILE</Tag>
 		<English>Immobile Units</English>
+		<PortugueseBR>
+			<Text>Unidades Imóveis</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Unités statiques</Text>
 			<Gender>Female</Gender>
@@ -24,10 +29,20 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Неподвижные юниты</Russian>
+		<PortuguesePT>
+			<Text>Unidade imóvel:Unidades imóveis</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOMAIN_LAND</Tag>
-		<English>Land Units</English>
+		<English>Land Units</English>	
+		<PortugueseBR>
+			<Text>Unidades Terrestres</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Unités terrestres</Text>
 			<Gender>Female</Gender>
@@ -49,10 +64,20 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Наземные юниты</Russian>
+		<PortuguesePT>
+			<Text>Unidade terrestre:Unidades terrestres</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOMAIN_SEA</Tag>
 		<English>Water Units</English>
+		<PortugueseBR>
+			<Text>Unidades de Água</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Unités navales</Text>
 			<Gender>Female</Gender>
@@ -74,5 +99,10 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Водные юниты</Russian>
+		<PortuguesePT>
+			<Text>Unidade marítima:Unidades marítimas</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

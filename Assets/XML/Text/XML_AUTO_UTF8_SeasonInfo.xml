@@ -3,6 +3,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_SEASON_SPRING</Tag>
 		<English>Spring</English>
+		
+		<PortugueseBR>
+			<Text>Primavera</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Printemps</Text>
 			<Gender>Male</Gender>
@@ -24,10 +30,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Весна</Russian>
+		<PortuguesePT>
+			<Text>Primavera</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SEASON_SUMMER</Tag>
 		<English>Summer</English>
+		
+		<PortugueseBR>
+			<Text>Verão</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Été</Text>
 			<Gender>Male</Gender>
@@ -49,10 +66,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Лето</Russian>
+		<PortuguesePT>
+			<Text>Verão</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SEASON_FALL</Tag>
 		<English>Fall</English>
+		<PortugueseBR>
+			<Text>Outono</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Automne</Text>
 			<Gender>Male</Gender>
@@ -74,10 +101,20 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Осень</Russian>
+		<PortuguesePT>
+			<Text>Outono</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SEASON_WINTER</Tag>
 		<English>Winter</English>
+		<PortugueseBR>
+			<Text>Inverno</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Hiver</Text>
 			<Gender>Male</Gender>
@@ -99,5 +136,10 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Зима</Russian>
+		<PortuguesePT>
+			<Text>Inverno</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

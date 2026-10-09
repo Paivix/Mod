@@ -3,6 +3,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_ROUTE_ROAD</Tag>
 		<English>Road</English>
+		
+		<PortugueseBR>
+			<Text>Estrada</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Route</Text>
 			<Gender>Female</Gender>
@@ -24,23 +30,48 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Дорога</Russian>
+		<PortuguesePT>
+			<Text>Estrada</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ROUTE_COUNTRY_ROAD</Tag>
 		<English>Country Road</English>
+		<PortugueseBR>
+			<Text>Estrada de terra</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>Route de gravier</French>
 		<German>Landstraße</German>
 		<Italian>Strada di campagna</Italian>
 		<Spanish>Carretera rural</Spanish>
 		<Russian>Гравийная дорога</Russian>
+		<PortuguesePT>
+			<Text>Estrada de terra</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ROUTE_PLASTERED_ROAD</Tag>
 		<English>Paved Country Road</English>
+		<PortugueseBR>
+			<Text>Estrada de terra pavimentada</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>Route pavée</French>
 		<German>gepflasterte Landstraße</German>
 		<Italian>Strada di campagna intonacata</Italian>
 		<Spanish>Carretera rural enlucida</Spanish>
 		<Russian>Вымощенная камнем дорога</Russian>
+		<PortuguesePT>
+			<Text>Estrada de terra pavimentada</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

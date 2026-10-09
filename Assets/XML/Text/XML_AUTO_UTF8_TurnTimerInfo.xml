@@ -3,6 +3,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TURNTIMER_BLAZING</Tag>
 		<English>Blazing!!!</English>
+		
+		<PortugueseBR>
+			<Text>Ardente!!!</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Très rapide !</Text>
 			<Gender>Male</Gender>
@@ -23,10 +29,17 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>Frenético!!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TURNTIMER_FAST</Tag>
 		<English>Fast</English>
+		
+		<PortugueseBR>
+			<Text>Rápido</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Rapide</Text>
 			<Gender>Male</Gender>
@@ -47,10 +60,17 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>Rápido</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TURNTIMER_MEDIUM</Tag>
 		<English>Medium</English>
+		
+		<PortugueseBR>
+			<Text>Médio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Normal</Text>
 			<Gender>Male</Gender>
@@ -71,10 +91,17 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>Médio</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TURNTIMER_SLOW</Tag>
 		<English>Slow</English>
+		
+		<PortugueseBR>
+			<Text>Lento</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Lent</Text>
 			<Gender>Male</Gender>
@@ -95,10 +122,17 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>Lento</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TURNTIMER_SNAIL</Tag>
 		<English>Snail</English>
+		
+		<PortugueseBR>
+			<Text>Lesma</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Escargot !</Text>
 			<Gender>Male</Gender>
@@ -119,10 +153,17 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>Caracol</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TURNTIMER_STATIC</Tag>
 		<English>Static</English>
+		
+		<PortugueseBR>
+			<Text>Estático</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Statique</Text>
 			<Gender>Male</Gender>
@@ -143,5 +184,6 @@
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>Estático</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

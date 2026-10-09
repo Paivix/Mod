@@ -11,29 +11,35 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_BOMBARD</Tag>
 		<English>Bombard</English>
+		<PortugueseBR>Bombardear</PortugueseBR>
 		<French>Bombardement</French>
 		<German>Bombardierung</German>
 		<Italian>Bombarda</Italian>
 		<Spanish>Cañonear</Spanish>
 		<Russian>Бомбардировка</Russian>
+		<PortuguesePT>Bombardear</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_BOMBARD_HELP</Tag>
 		<English>Destroys fortifications and reduces the settlement's defensive bonus.</English>
+		<PortugueseBR>Destrói fortificações e reduz o bônus defensivo da colônia.</PortugueseBR>
 		<French>Détruit les fortifications et réduit le bonus défensif de la colonie.</French>
 		<German>Die Befestigungsbauten einer Siedlung beschädigen und deren Verteidigungsbonus senken.</German>
 		<Italian>Distrugge le fortificazioni e riduce i bonus difensivi degli insediamenti.</Italian>
 		<Spanish>Destruye las fortificaciones y reduce la bonificación defensiva del asentamiento.</Spanish>
 		<Russian>Разрушает укрепления и снижает бонус защиты поселения.</Russian>
+		<PortuguesePT>Destrói as fortificações e reduz o bónus defensivo da colónia.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_BUILD</Tag>
 		<English>Build Improvement</English>
+		<PortugueseBR>Construir melhoria</PortugueseBR>
 		<French>Construire aménagement</French>
 		<German>Modernisierung errichten</German>
 		<Italian>Costruire miglioramento</Italian>
 		<Spanish>Construir mejora</Spanish>
 		<Russian>Построить улучшение</Russian>
+		<PortuguesePT>Construir melhoria</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_BUILD_HELP</Tag>
@@ -74,74 +80,90 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_FISHING</Tag>
 		<English>Fishing</English>
+		<PortugueseBR>Pescar</PortugueseBR>
 		<French>Pêche</French>
 		<German>Fischfang</German>
 		<Italian>Pesca</Italian>
 		<Spanish>Pesca</Spanish>
 		<Russian>Ловить рыбу</Russian>
+		<PortuguesePT>Pescar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_FISHING_HELP</Tag>
 		<English>Will gather fish until the ship is full.</English>
+		<PortugueseBR>Coletará peixes até que o navio esteja cheio.</PortugueseBR>
 		<French>Va pêcher jusqu'à ce que la cargaison soit pleine.</French>
 		<German>Fängt Fische bis der Frachtraum voll ist.</German>
 		<Italian>Cattura il pesce fino a quando la stiva è piena.</Italian>
 		<Spanish>Atrapa peces hasta que la bodega está llena.</Spanish>
 		<Russian>Лодка будет заниматься рыбной ловлей, пока трюм не заполнится полностью.</Russian>
+		<PortuguesePT>Lança-se ao mar à pesca até o navio ficar cheio.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_FORTIFY</Tag>
 		<English>Fortify</English>
+		<PortugueseBR>Fortificar</PortugueseBR>
 		<French>Se retrancher</French>
 		<German>Verschanzen</German>
 		<Italian>Fortifica</Italian>
 		<Spanish>Fortificar</Spanish>
 		<Russian>Укрепить</Russian>
+		<PortuguesePT>Fortificar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_FORTIFY_HELP</Tag>
 		<English>The unit digs in to better withstand enemy attack. A unit gets a 5% defensive bonus for each turn it is fortified, to a maximum bonus of 25%.</English>
+		<PortugueseBR>A unidade se fortifica para resistir melhor ao ataque inimigo. Uma unidade recebe um bônus defensivo de 5% para cada turno em que é fortificada, até um bônus máximo de 25%.</PortugueseBR>
 		<French>L'unité se retranche pour mieux résister aux attaques ennemies. Une unité retranchée bénéficie d'un bonus de défense de 5% pour chaque tour passé à se régénérer, avec un maximum de 25%.</French>
 		<German>Die Einheit "gräbt sich ein", um dem Feind besser standhalten zu können. Der Defensivbonus erhöht sich um 5% für jede Runde, die die Einheit befestigt ist (maximal 25%).</German>
 		<Italian>L'unità si "trincera" per poter fronteggiare meglio l'attacco nemico. Un'unità guadagna il 5% di bonus difensivo per ogni turno che rimane fortificata, fino a un massimo del 25%.</Italian>
 		<Spanish>La unidad se "atrinchera" para aguantar mejor los ataques del enemigo. Obtiene una bonificación defensiva del 5% por cada turno que se fortifique hasta un máximo de un 25%.</Spanish>
 		<Russian>Юнит окапывается, чтобы лучше противостоять вражеской атаке. Отряд получает 5% бонус к защите за каждый ход, когда он укреплен (максимум - 25%).</Russian>
+		<PortuguesePT>A unidade fica barricada para resistir melhor aos ataques inimigos. A unidade recebe um bónus defensivo de 5% por cada turno em que está fortificada, até um máximo de 25% de bónus defensivo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_FOUND</Tag>
 		<English>Build Settlement</English>
+		<PortugueseBR>Construir colônia</PortugueseBR>
 		<French>Fonder une colonie</French>
 		<German>Siedlung gründen</German>
 		<Italian>Costruisci insediamento</Italian>
 		<Spanish>Construir asentamiento</Spanish>
 		<Russian>Основать поселение</Russian>
+		<PortuguesePT>Construir uma colónia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_FOUND_HELP</Tag>
 		<English>This order causes the [COLOR_UNIT_TEXT]settler[COLOR_REVERT] to build a settlement in its current location.</English>
+		<PortugueseBR>Esta ordem faz com que o [COLOR_UNIT_TEXT]colono[COLOR_REVERT] construa uma colônia em sua localização atual.</PortugueseBR>
 		<French>Ordonne au [COLOR_UNIT_TEXT]Colon[COLOR_REVERT] de construire une colonie à l'endroit où il se trouve.</French>
 		<German>Mit diesem Befehl gründet der [COLOR_UNIT_TEXT]Siedler[COLOR_REVERT] an dem aktuellen Standort eine Siedlung.</German>
 		<Italian>Questo comando fa in modo che il [COLOR_UNIT_TEXT]colono[COLOR_REVERT] costruisca un insediamento nel punto in cui si trova.</Italian>
 		<Spanish>Esta orden hace que el [COLOR_UNIT_TEXT]colono[COLOR_REVERT] construya un asentamiento en el lugar en que se encuentre.</Spanish>
 		<Russian>Этот приказ заставляет [COLOR_UNIT_TEXT]поселенца[COLOR_REVERT] построить поселение в его текущем местоположении.</Russian>
+		<PortuguesePT>Esta ordem faz com que o [COLOR_UNIT_TEXT]colonizador[COLOR_REVERT]  construa uma colónia na sua posição atual.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_HEAL</Tag>
 		<English>Fortify until healed</English>
+		<PortugueseBR>Fortificar até curar</PortugueseBR>
 		<French>Se retrancher jusqu'à guérison</French>
 		<German>Bis zur vollständigen Heilung verschanzen</German>
 		<Italian>Fortifica finché non raggiunge il massimo della salute</Italian>
 		<Spanish>Fortificar hasta curarse</Spanish>
 		<Russian>Укрепить до полного исцеления</Russian>
+		<PortuguesePT>Fortificar até ficar curado</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_HEAL_HELP</Tag>
 		<English>The unit remains inactive until it reaches full strength.</English>
+		<PortugueseBR>A unidade permanece inativa até atingir força total.</PortugueseBR>
 		<French>L'unité reste inactive tant que son niveau de santé n'est pas au maximum.</French>
 		<German>Die Einheit bleibt inaktiv, bis sie wieder ihre volle Kampfstärke erreicht hat</German>
 		<Italian>L'unità rimane inattiva finché non ritorna al massimo delle forze.</Italian>
 		<Spanish>La unidad permanecerá inactiva hasta que recobre el total de su fuerza.</Spanish>
 		<Russian>Юнит остается неактивным, пока полностью не восстановит здоровье.</Russian>
+		<PortuguesePT>A unidade permanece inativa até ficar totalmente recuperada.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_IDLE</Tag>
@@ -154,29 +176,35 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_JOIN_CITY</Tag>
 		<English>Join settlement</English>
+		<PortugueseBR>Entrar na colônia</PortugueseBR>
 		<French>Rejoindre la colonie</French>
 		<German>Anschluss an Siedlung</German>
 		<Italian>Unisci all'insediamento</Italian>
 		<Spanish>Unirse a asentamiento</Spanish>
 		<Russian>Присоединиться к поселению</Russian>
+		<PortuguesePT>Juntar-se à colónia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_JOIN_CITY_HELP</Tag>
 		<English>This order will make the unit join the settlement to work as a citizen. It may leave again at any time.</English>
+		<PortugueseBR>Essa ordem fará com que a unidade ingresse na colônia para atuar como cidadão. Pode sair novamente a qualquer momento.</PortugueseBR>
 		<French>Ordonne à l'unité de rejoindre la colonie pour travailler en tant que citoyen. Elle pourra repartir à n'importe quel moment.</French>
 		<German>Die Einheit schließt sich der Siedlung als Bürger an und arbeitet dort. Sie kann die Siedlung jederzeit wieder verlassen.</German>
 		<Italian>Con questo comando ordini all'unità di entrare nell'insediamento per lavorare come cittadino. Può andarsene in qualsiasi momento.</Italian>
 		<Spanish>Esta orden hará que la unidad se una al asentamiento para trabajar allí como ciudadano. Puede irse en cualquier momento.</Spanish>
 		<Russian>Юнит станет жителем этого поселения. Профессия будет выбрана автоматически.</Russian>
+		<PortuguesePT>Esta ordem faz com que a unidade se junte à colónia para  trabalhar nela como um cidadão. Pode sair dela a qualquer momento.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_LEAD</Tag>
 		<English>Lead troops</English>
+		<PortugueseBR>Liderar tropas</PortugueseBR>
 		<French>Mener les troupes</French>
 		<German>Truppen anführen</German>
 		<Italian>Guida le truppe</Italian>
 		<Spanish>Liderar tropas</Spanish>
 		<Russian>Возглавить отряд</Russian>
+		<PortuguesePT>Liderar tropas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_LEAD_HELP</Tag>
@@ -185,36 +213,44 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_MOVE_TO</Tag>
 		<English>Move to</English>
+		<PortugueseBR>Mover para</PortugueseBR>
 		<French>Aller vers</French>
 		<German>Fortbewegen nach</German>
 		<Italian>Vai</Italian>
 		<Spanish>Mover a</Spanish>
 		<Russian>Идти к точке</Russian>
+		<PortuguesePT>Ir para</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_MOVE_TO_HELP</Tag>
 		<English>Set your unit to move to a specific plot.</English>
+		<PortugueseBR>Configure sua unidade para se mover para um terreno específico.</PortugueseBR>
 		<French>Ordonner à l'unité de rejoindre une position sur la carte.</French>
 		<German>Einheit auf ein bestimmtes Geländefeld schicken.</German>
 		<Italian>Ordina alla tua unità di muoversi in una casella specifica.</Italian>
 		<Spanish>Para decirle a la unidad que vaya a una casilla concreta.</Spanish>
 		<Russian>Приказать юниту двигаться к определенной клетке</Russian>
+		<PortuguesePT>Ordena a tua unidade a dirigir-se para a posição desginada</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_MOVE_TO_UNIT</Tag>
 		<English>Move to unit</English>
+		<PortugueseBR>Mover para unidade</PortugueseBR>
 		<French>Aller vers l'unité</French>
 		<German>Einheit fortbewegen nach</German>
 		<Italian>Vai all'unità</Italian>
 		<Spanish>Llevar hasta la unidad</Spanish>
+		<PortuguesePT>Mover até à unidade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_MOVE_TO_UNIT_HELP</Tag>
 		<English>Set your unit to move to a unit.</English>
+		<PortugueseBR>Configure sua unidade para mover-se para uma unidade.</PortugueseBR>
 		<French>Ordonner à l'unité de rejoindre une autre unité.</French>
 		<German>Einheit zu einer anderen Einheit schicken.</German>
 		<Italian>Ordina alla tua unità di muoversi verso un'altra unità.</Italian>
 		<Spanish>Para decirle a la unidad que vaya hasta otra unidad.</Spanish>
+		<PortuguesePT>Faz com que a tua unidade se mova até à outra unidade.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_MULTI_DESELECT</Tag>
@@ -235,112 +271,140 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_PILLAGE</Tag>
 		<English>Pillage</English>
+		<PortugueseBR>Saquear</PortugueseBR>
 		<French>Pillage</French>
 		<German>Plünderung</German>
 		<Italian>Saccheggia</Italian>
 		<Spanish>Saquear</Spanish>
 		<Russian>Разграбить</Russian>
+		<PortuguesePT>Saquear</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_PILLAGE_HELP</Tag>
 		<English>The unit destroys an improvement or route in the tile it occupies.</English>
+		<PortugueseBR>A unidade destrói uma melhoria ou rota no lote que ocupa.</PortugueseBR>
 		<French>L'unité détruit un aménagement ou une route/voie ferrée dans la case qu'elle occupe.</French>
 		<German>Die Einheit zerstört eine Modernisierung oder Straße auf ihrem Geländefeld.</German>
 		<Italian>L'unità distrugge un miglioramento o un collegamento sulla casella che occupa.</Italian>
 		<Spanish>La unidad destruye una mejora o ruta en la casilla en que se encuentre.</Spanish>
 		<Russian>Отряд уничтожает улучшение или дорогу на клетке, которую он занимает.</Russian>
+		<PortuguesePT>A unidade destrói a melhoria ou a estrada no bloco que ocupa atualmente</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_ROUTE_TO</Tag>
 		<English>Route to</English>
+		<PortugueseBR>Estrada até</PortugueseBR>
 		<French>Route vers</French>
 		<German>Straße nach</German>
 		<Italian>Intinerario</Italian>
 		<Spanish>Ir en ruta a</Spanish>
 		<Russian>Построить дорогу к выбранной точке</Russian>
+		<PortuguesePT>Estrada até</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_ROUTE_TO_HELP</Tag>
 		<English>This order causes the pioneer to build the best road available to the location selected. The pioneer will follow the shortest path to the location. The pioneer wakes when it has completed the assignment.</English>
+		<PortugueseBR>Esta ordem faz com que o pioneiro construa a melhor estrada disponível para o local selecionado. O pioneiro seguirá o caminho mais curto até o local. O pioneiro acorda quando conclui a tarefa.</PortugueseBR>
 		<French>Ordonne au pionnier de construire une route vers l'endroit indiqué. Il suivra le chemin le plus court et sera à nouveau disponible lorsqu'il aura terminé sa mission.</French>
 		<German>Befehlen Sie einem Pionier, eine Straße zur gewählten Position zu bauen. Ihr Pionier wählt nun den kürzesten Weg und wartet nach dem Bau auf weitere Befehle.</German>
 		<Italian>Questo comando fa in modo che il pioniere costruisca una strada fino alla destinazione scelta. L'unità seguirà il percorso più breve verso la destinazione e si renderà nuovamente disponibile una volta completato l'incarico.</Italian>
 		<Spanish>Con esta orden hacéis que un Pionero construya una carretera al lugar seleccionado. El Pionero seguirá el camino más corto hasta dicho lugar. Se podrá seleccionar cuando haya cumplido su cometido.</Spanish>
 		<Russian>Этот приказ заставляет первопроходца построить обычную дорогу к выбранной точке на карте. Первопроходец будет следовать кратчайшим путем к локации. Он станет активным для других приказов после выполнения текущего задания.</Russian>
+		<PortuguesePT>Esta ordem faz com que o pioneiro construa a melhor estrada disponível até à posição designada. O pioneiro vai construir o caminho mais curto até à localização designada. O pioneiro irá ficar ativo quando terminar esta tarefa.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_ROUTE_TO_ROAD</Tag>
 		<English>Route to (country road)</English>
+		<PortugueseBR>Estrada de terra até</PortugueseBR>
 		<Russian>Построить проселочную дорогу к выбранной точке</Russian>
+		<PortuguesePT>Estrada até (estrada regional)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_ROUTE_TO_ROAD_HELP</Tag>
 		<English>This order causes the pioneer to build a country road to the location selected. The pioneer will follow the shortest path to the location. The pioneer wakes when it has completed the assignment.</English>
+		<PortugueseBR>Esta ordem faz com que o pioneiro construa uma estrada de terra até o local selecionado. O pioneiro seguirá o caminho mais curto até o local. O pioneiro acorda quando conclui a tarefa.</PortugueseBR>
 		<Russian>Этот приказ заставляет первопроходца построить проселочную дорогу к выбранной точке на карте. Первопроходец будет следовать кратчайшим путем к локации. Он станет активным для других приказов после выполнения текущего задания.</Russian>
+		<PortuguesePT>Esta ordem faz com que o pioneiro construa uma estrada de terra até à localização selecionada. O pioneiro vai criar o caminho mais curto até à localização final. O pioneiro volta a ficar ativo depois de completar a sua tarefa.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_ROUTE_TO_COUNTRY_ROAD</Tag>
 		<English>Route to (country road)</English>
+		<PortugueseBR>Estrada de terra até</PortugueseBR>
 		<German>Straße nach-Modus (Landstraße)</German>
+		<PortuguesePT>Estrada até (estrada de terra)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_ROUTE_TO_COUNTRY_ROAD_HELP</Tag>
 		<English>This order causes the pioneer to build a country road to the location selected. The pioneer will follow the shortest path to the location. The pioneer wakes when it has completed the assignment.</English>
+		<PortugueseBR>Esta ordem faz com que o pioneiro construa uma estrada de terra até o local selecionado. O pioneiro seguirá o caminho mais curto até o local. O pioneiro acorda quando conclui a tarefa.</PortugueseBR>
 		<German>Durch diesen Befehl wird der Pionier eine Landstraße zum angegebenen Ziel bauen. Er wird dabei den kürzesten Pfad nehmen. Wenn der Befehl ausgeführt ist wird er sich für neue Befehle melden.</German>
+		<PortuguesePT>Esta ordem faz com que o pioneiro construa uma estrada de terra até à localização selecionada. O pioneiro vai criar o caminho mais curto até à localização final. O pioneiro volta a ficar ativo depois de completar a sua tarefa.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_SENTRY</Tag>
 		<English>Sentry</English>
+		<PortugueseBR>Vigiar</PortugueseBR>
 		<French>Sentinelle</French>
 		<German>Wache</German>
 		<Italian>Sentinella</Italian>
 		<Spanish>Vigilar</Spanish>
 		<Russian>Режим часового</Russian>
+		<PortuguesePT>Vigiar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_SENTRY_HELP</Tag>
 		<English>The unit remains inactive until an enemy unit enters its visibility range.</English>
+		<PortugueseBR>A unidade permanece inativa até que uma unidade inimiga entre no seu alcance de visibilidade.</PortugueseBR>
 		<French>L'unité reste inactive tant qu'une unité ennemie ne pénètre pas dans son champ de vision.</French>
 		<German>Die Einheit bleibt inaktiv, bis eine feindliche Einheit in Sichtweite ist.</German>
 		<Italian>L'unità rimane inattiva finché un'unità nemica non diventa visibile.</Italian>
 		<Spanish>La unidad permanecerá inactiva hasta que una unidad enemiga se sitúe al alcance de la visibilidad.</Spanish>
 		<Russian>Отряд остается неактивным до тех пор, пока вражеский отряд не войдет в зону его видимости.</Russian>
+		<PortuguesePT>A unidade permanece inativa até que um inimigo apareça no seu campo de visão.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_SKIP</Tag>
 		<English>Skip turn</English>
+		<PortugueseBR>Pular turno</PortugueseBR>
 		<French>Passer le tour</French>
 		<German>Runde überspringen</German>
 		<Italian>Salta turno</Italian>
 		<Spanish>Saltar turno</Spanish>
 		<Russian>Пропустить ход</Russian>
+		<PortuguesePT>Saltar turno</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_SKIP_HELP</Tag>
 		<English>Do nothing. The unit will awake and ask again for orders the next turn.</English>
+		<PortugueseBR>Não fazer nada. A unidade acorda e pede ordens novamente no próximo turno.</PortugueseBR>
 		<French>Ne rien faire. L'unité attend le tour suivant pour demander de nouveaux ordres.</French>
 		<German>Tun Sie gar nichts, wartet die Einheit in der nächsten Runde auf weitere Befehle</German>
 		<Italian>Nessun ordine. L'unità si sveglierà e attenderà altri ordini al turno successivo.</Italian>
 		<Spanish>La unidad no hará nada, despertará y volverá a solicitar órdenes al turno siguiente.</Spanish>
 		<Russian>Ничего не делать. Юнит станет активным на следующий ход</Russian>
+		<PortuguesePT>Não fazer nada. A unidade ficará desperta e voltará a pedir ordens no próximo turno.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_SLEEP</Tag>
 		<English>Sleep</English>
+		<PortugueseBR>Dormir</PortugueseBR>
 		<French>Dormir</French>
 		<German>Ausruhen</German>
 		<Italian>Dormi</Italian>
 		<Spanish>Dormir</Spanish>
 		<Russian>Бездействовать</Russian>
+		<PortuguesePT>Dormir</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_SLEEP_HELP</Tag>
 		<English>Order the unit to sleep until activated by the player.</English>
+		<PortugueseBR>Ordenar que a unidade durma até ser ativada pelo jogador.</PortugueseBR>
 		<French>Ordonner à l'unité de se mettre en sommeil tant qu'elle n'est pas réactivée par le joueur.</French>
 		<German>Einheit bleibt tatenlos an dieser Stelle, bis sie wieder angeklickt wird.</German>
 		<Italian>Ordina all'unità di riposare finché non viene attivata dal giocatore.</Italian>
 		<Spanish>Para ordenarle a la unidad que duerma hasta que la activéis.</Spanish>
 		<Russian>Юнит будет бездействовать до тех пор, пока игрок не активирует его снова.</Russian>
+		<PortuguesePT>Ordena a unidade a ficar inativa até ser ativada pelo jogador.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_SURRENDER</Tag>
@@ -353,19 +417,23 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_WHALING</Tag>
 		<English>Whaling</English>
+		<PortugueseBR>Caçar baleias</PortugueseBR>
 		<French>Chasse à la baleine</French>
 		<German>Waljagd</German>
 		<Italian>Caccia alle balene</Italian>
 		<Spanish>Caza de la ballena</Spanish>
 		<Russian>Охота на кита</Russian>
+		<PortuguesePT>Caça à baleia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_WHALING_HELP</Tag>
 		<English>Will gather blubber from whales until the ship is full.</English>
+		<PortugueseBR>Coletará gordura das baleias até que o navio esteja cheio.</PortugueseBR>
 		<French>Pêchera la baleine jusqu'à ce que sa cargaison de graisse soit pleine.</French>
 		<German>Schiff jagt Wale, bis der Frachtraum voller Walspeck ist.</German>
 		<Italian>La nave caccia le balene fino a quando la stiva è piena di blubber.</Italian>
 		<Spanish>El barco caza ballenas hasta que la bodega está llena de grasa.</Spanish>
 		<Russian>Промышлять кита до полного заполнения трюмов китовым жиром</Russian>
+		<PortuguesePT>Lança-se ao mar à procura de gordura de baleia, até ao navio ficar cheio.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

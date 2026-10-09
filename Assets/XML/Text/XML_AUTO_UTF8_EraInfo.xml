@@ -3,6 +3,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_ERA_COLONIAL</Tag>
 		<English>Colonial (not implemented)</English>
+		
+		<PortugueseBR>
+			<Text>Colonial (não implementado)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Coloniale (non disponible)</Text>
 			<Gender>Female</Gender>
@@ -20,6 +26,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Колониальная (пока не поддерживается)</Russian>
+		<PortuguesePT>Colonial (não implementado)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ERA_COLONIAL_STRATEGY</Tag>
@@ -28,6 +35,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_ERA_DISCOVERY</Tag>
 		<English>Discovery</English>
+		
+		<PortugueseBR>
+			<Text>Descoberta</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Découverte</Text>
 			<Gender>Female</Gender>
@@ -49,6 +62,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Открытия</Russian>
+		<PortuguesePT>Descobrimentos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ERA_DISCOVERY_STRATEGY</Tag>
@@ -57,6 +71,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_ERA_EXPANSION</Tag>
 		<English>Expansion (not implemented)</English>
+		
+		<PortugueseBR>
+			<Text>Expansão (não implementada)</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Expansion (non disponible)</Text>
 			<Gender>Female</Gender>
@@ -78,6 +98,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Экспансия (пока не поддерживается)</Russian>
+		<PortuguesePT>Expansão (não implementado)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ERA_EXPANSION_STRATEGY</Tag>
@@ -86,6 +107,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_ERA_INDEPENDENCE</Tag>
 		<English>Independence (not implemented)</English>
+		
+		<PortugueseBR>
+			<Text>Independência (não implementada)</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Indépendance (non disponible)</Text>
 			<Gender>Female</Gender>
@@ -107,6 +134,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Независимость (пока не поддерживается)</Russian>
+		<PortuguesePT>Independência (não implementado)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ERA_INDEPENDENCE_STRATEGY</Tag>

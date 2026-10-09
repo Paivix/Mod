@@ -8,6 +8,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_MILITARISTIC</Tag>
 		<English>Militaristic</English>
+		
+		<PortugueseBR>
+			<Text>Militarista:Militarista</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Militariste:Militariste</Text>
 			<Gender>Male:Female</Gender>
@@ -25,11 +31,22 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Милитарист</Russian>
-		<PortuguesePT>Militar</PortuguesePT>
+		<Hungarian>Militarista</Hungarian>
+		<PortuguesePT>
+			<Text>Militarista:Militarista</Text>
+			<Gender>Male:Female</Gender>
+			<Plural>0:0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_SHORT_DESC</Tag>
 		<English>New England</English>
+		
+		<PortugueseBR>
+			<Text>Nova Inglaterra</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nouvelle Angleterre</Text>
 			<Gender>Female</Gender>
@@ -47,11 +64,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Новая Англия</Russian>
-        <PortuguesePT>Nova Inglaterra</PortuguesePT>
+		<Hungarian>Új-Anglia</Hungarian>
+		<PortuguesePT>
+			<Text>Nova Inglaterra</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_EUROPE_SHORT_DESC</Tag>
 		<English>England</English>
+		
+		<PortugueseBR>
+			<Text>Inglaterra</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Angleterre</Text>
 			<Gender>Female</Gender>
@@ -69,11 +97,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Англии</Russian>
-		<PortuguesePT>Inglaterra</PortuguesePT>
+		<Hungarian>Anglia</Hungarian>
+		<PortuguesePT>
+			<Text>Inglaterra</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_SHORT_DESC</Tag>
-		<English>Nouvelle France</English>
+		<English>New France</English>
+		
+		<PortugueseBR>
+			<Text>Nova França</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nouvelle France</Text>
 			<Gender>Female</Gender>
@@ -91,11 +130,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Новая Франция</Russian>
-        <PortuguesePT>Nova França</PortuguesePT>
+		<Hungarian>Új-Franciaország</Hungarian>
+		<PortuguesePT>
+			<Text>Nova França</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_EUROPE_SHORT_DESC</Tag>
 		<English>France</English>
+		
+		<PortugueseBR>
+			<Text>França</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>France</Text>
 			<Gender>Female</Gender>
@@ -113,11 +163,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Франции</Russian>
-        <PortuguesePT>França</PortuguesePT>
+		<Hungarian>Franciaország</Hungarian> 
+		<PortuguesePT>
+			<Text>França</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_SHORT_DESC</Tag>
-		<English>Nueva España</English>
+		<English>New Spain</English>
+		
+		<PortugueseBR>
+			<Text>Nova Espanha</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nouvelle Espagne</Text>
 			<Gender>Female</Gender>
@@ -135,11 +196,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Новая Испания</Russian>
-        <PortuguesePT>Nova Espanha</PortuguesePT>
+		<Hungarian>Új-Spanyolország</Hungarian>
+		<PortuguesePT>
+			<Text>Nova Espanha</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_EUROPE_SHORT_DESC</Tag>
 		<English>Spain</English>
+		
+		<PortugueseBR>
+			<Text>Espanha</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Espagne</Text>
 			<Gender>Female</Gender>
@@ -157,11 +229,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Испании</Russian>
-        <PortuguesePT>Espanha</PortuguesePT>
+		<Hungarian>Spanyolország</Hungarian>
+		<PortuguesePT>
+			<Text>Espanha</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DUTCH_SHORT_DESC</Tag>
-		<English>Nieuw Nederland</English>
+		<English>New Holland</English>
+		
+		<PortugueseBR>
+			<Text>Nova Holanda</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nouvelle Néerlande</Text>
 			<Gender>Male</Gender>
@@ -179,11 +262,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Новые Нидерланды</Russian>
-        <PortuguesePT>Nova Holanda</PortuguesePT>
+		<Hungarian>Új-Hollandia</Hungarian>
+		<PortuguesePT>
+			<Text>Nova Holanda</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DUTCH_EUROPE_SHORT_DESC</Tag>
 		<English>The Netherlands</English>
+		
+		<PortugueseBR>
+			<Text>Holanda</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Pays-Bas</Text>
 			<Gender>Female</Gender>
@@ -201,15 +295,25 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Нидерландов</Russian>
-        <PortuguesePT>Holanda</PortuguesePT>
+		<Hungarian>Hollandia</Hungarian>
+		<PortuguesePT>
+			<Text>Holanda</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROFESSION_IDLE_CITIZEN</Tag>
 		<English>
-			<Text>Idle Citizen:Idle Citizens</Text>
+			<Text>Citizen:Citizens</Text>
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</English>
+		<PortugueseBR>
+			<Text>Cidadão:Cidadãos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Citoyen inactif:Citoyens inactifs</Text>
 			<Gender>Male</Gender>
@@ -231,15 +335,22 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Безработный:Безработные</Russian>
-        <PortuguesePT>
-            <Text>Cidadão inativo:Cidadãos inativos</Text>
-            <Gender>Male</Gender>
-            <Plural>0:1</Plural>
-        </PortuguesePT>
+		<Hungarian>Tétlen Polgár</Hungarian>
+		<PortuguesePT>
+			<Text>Cidadão:Cidadãos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARAWAK_SHORT_DESC</Tag>
 		<English>Arawak</English>
+		
+		<PortugueseBR>
+			<Text>Arawak</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Arawaks</Text>
 			<Gender>Male</Gender>
@@ -257,11 +368,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Араваки</Russian>
-        <PortuguesePT>Aruaques</PortuguesePT>
+		<Hungarian>Aravakok</Hungarian>
+		<PortuguesePT>
+			<Text>Aruaques</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TUPI_SHORT_DESC</Tag>
 		<English>Tupi</English>
+		
+		<PortugueseBR>
+			<Text>Tupi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tupis</Text>
 			<Gender>Male</Gender>
@@ -279,11 +401,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Тупи</Russian>
-        <PortuguesePT>Tupis</PortuguesePT>
+		<Hungarian>Tupik</Hungarian>
+		<PortuguesePT>
+			<Text>Tupis</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHEROKEE_SHORT_DESC</Tag>
 		<English>Cherokee</English>
+		
+		<PortugueseBR>
+			<Text>Cherokee</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Cherokees</Text>
 			<Gender>Male</Gender>
@@ -301,11 +434,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Чероки</Russian>
-        <PortuguesePT>Cheroquis</PortuguesePT>
+		<Hungarian>Cserokik</Hungarian>
+		<PortuguesePT>
+			<Text>Cheroquis</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_IROQUOIS_SHORT_DESC</Tag>
 		<English>Iroquois</English>
+		
+		<PortugueseBR>
+			<Text>Iroqueses</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Iroquois</Text>
 			<Gender>Male</Gender>
@@ -323,11 +467,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Ирокезы</Russian>
-        <PortuguesePT>Iroqueses</PortuguesePT>
+		<Hungarian>Irokézek</Hungarian>
+		<PortuguesePT>
+			<Text>Iroqueses</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SIOUX_SHORT_DESC</Tag>
 		<English>Sioux</English>
+		
+		<PortugueseBR>
+			<Text>Sioux</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sioux</Text>
 			<Gender>Male</Gender>
@@ -345,11 +500,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Сиу</Russian>
-        <PortuguesePT>Sioux</PortuguesePT>
+		<Hungarian>Sziúk</Hungarian>
+		<PortuguesePT>
+			<Text>Sioux</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NEZ_PERCE_SHORT_DESC</Tag>
 		<English>Nez Perce</English>
+		
+		<PortugueseBR>
+			<Text>Nez Percé</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nez Perce</Text>
 			<Gender>Male</Gender>
@@ -367,11 +533,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Не-Персе</Russian>
-        <PortuguesePT>Nez Perce</PortuguesePT>
+		<Hungarian>Sziúk</Hungarian>
+		<PortuguesePT>
+			<Text>Nez Percé</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_APACHE_SHORT_DESC</Tag>
 		<English>Apache</English>
+		
+		<PortugueseBR>
+			<Text>Apache</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Apaches</Text>
 			<Gender>Male</Gender>
@@ -389,11 +566,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Апачи</Russian>
-        <PortuguesePT>Apaches</PortuguesePT>
+		<Hungarian>Apacsok</Hungarian>
+		<PortuguesePT>
+			<Text>Apaches</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_JAMESTOWN</Tag>
 		<English>Jamestown</English>
+		
+		<PortugueseBR>
+			<Text>Jamestown</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Jamestown</Text>
 			<Gender>Female</Gender>
@@ -410,10 +598,21 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>
+			<Text>Jamestown</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PLYMOUTH</Tag>
 		<English>Plymouth</English>
+		
+		<PortugueseBR>
+			<Text>Plymouth</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Plymouth</Text>
 			<Gender>Female</Gender>
@@ -430,10 +629,21 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>
+			<Text>Plymouth</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ROANOKE</Tag>
 		<English>Roanoke</English>
+		
+		<PortugueseBR>
+			<Text>Roanoke</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Roanoke</Text>
 			<Gender>Female</Gender>
@@ -450,10 +660,21 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>
+			<Text>Roanoke</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BARBADOS</Tag>
 		<English>Barbados</English>
+		
+		<PortugueseBR>
+			<Text>Barbados</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>La Barbade</Text>
 			<Gender>Female</Gender>
@@ -470,10 +691,21 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>
+			<Text>Barbados</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PENOBSCOT</Tag>
 		<English>Penobscot</English>
+		
+		<PortugueseBR>
+			<Text>Penobscot</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Penobscot</Text>
 			<Gender>Female</Gender>
@@ -490,10 +722,21 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>
+			<Text>Penobscot</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BOSTON</Tag>
 		<English>Boston</English>
+		
+		<PortugueseBR>
+			<Text>Boston</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Boston</Text>
 			<Gender>Female</Gender>
@@ -510,10 +753,21 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>
+			<Text>Boston</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BALTIMORE</Tag>
 		<English>Baltimore</English>
+		
+		<PortugueseBR>
+			<Text>Baltimore</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Baltimore</Text>
 			<Gender>Female</Gender>
@@ -530,10 +784,21 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>
+			<Text>Baltimore</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PROVIDENCE</Tag>
 		<English>Providence</English>
+		
+		<PortugueseBR>
+			<Text>Providence</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Providence</Text>
 			<Gender>Female</Gender>
@@ -550,10 +815,21 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>
+			<Text>Providence</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_HARFORD</Tag>
 		<English>Hartford</English>
+		
+		<PortugueseBR>
+			<Text>Hartford</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Hartford</Text>
 			<Gender>Female</Gender>
@@ -570,10 +846,21 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>
+			<Text>Hartford</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NEW_HAVEN</Tag>
 		<English>New Haven</English>
+		
+		<PortugueseBR>
+			<Text>New Haven</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>New Haven</Text>
 			<Gender>Female</Gender>
@@ -590,10 +877,21 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>
+			<Text>New Haven</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NEW_YORK</Tag>
 		<English>New York</English>
+		
+		<PortugueseBR>
+			<Text>New York</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>New-York</Text>
 			<Gender>Female</Gender>
@@ -614,6 +912,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ALBANY</Tag>
 		<English>Albany</English>
+		
+		<PortugueseBR>
+			<Text>Albany</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Albany</Text>
 			<Gender>Female</Gender>
@@ -634,6 +938,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NEW_JERSEY</Tag>
 		<English>New Jersey</English>
+		
+		<PortugueseBR>
+			<Text>New Jersey</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>New Jersey</Text>
 			<Gender>Female</Gender>
@@ -654,6 +964,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CHARLESTON</Tag>
 		<English>Charleston</English>
+		
+		<PortugueseBR>
+			<Text>Charleston</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Charleston</Text>
 			<Gender>Female</Gender>
@@ -674,6 +990,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PHILADELPHIA</Tag>
 		<English>Philadelphia</English>
+		
+		<PortugueseBR>
+			<Text>Philadelphia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Philadelphie</Text>
 			<Gender>Female</Gender>
@@ -694,6 +1016,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NEWPORT</Tag>
 		<English>Newport</English>
+		
+		<PortugueseBR>
+			<Text>Newport</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Newport</Text>
 			<Gender>Female</Gender>
@@ -714,6 +1042,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_YORKTOWN</Tag>
 		<English>Yorktown</English>
+		
+		<PortugueseBR>
+			<Text>Yorktown</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Yorktown</Text>
 			<Gender>Female</Gender>
@@ -734,6 +1068,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ANNAPOLIS</Tag>
 		<English>Annapolis</English>
+		
+		<PortugueseBR>
+			<Text>Annapolis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Annapolis</Text>
 			<Gender>Female</Gender>
@@ -754,6 +1094,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_HALIFAX</Tag>
 		<English>Halifax</English>
+		
+		<PortugueseBR>
+			<Text>Halifax</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Halifax</Text>
 			<Gender>Female</Gender>
@@ -774,6 +1120,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_LEXINGTON</Tag>
 		<English>Lexington</English>
+		
+		<PortugueseBR>
+			<Text>Lexington</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Lexington</Text>
 			<Gender>Female</Gender>
@@ -794,6 +1146,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SAVANNAH</Tag>
 		<English>Savannah</English>
+		
+		<PortugueseBR>
+			<Text>Savannah</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>Savannah</French>
 		<German>Savannah</German>
 		<Italian>
@@ -810,6 +1168,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_WILLIAMSBURG</Tag>
 		<English>Williamsburg</English>
+		
+		<PortugueseBR>
+			<Text>Williamsburg</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Williamsburg</Text>
 			<Gender>Female</Gender>
@@ -830,6 +1194,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NORFOLK</Tag>
 		<English>Norfolk</English>
+		
+		<PortugueseBR>
+			<Text>Norfolk</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Norfolk</Text>
 			<Gender>Female</Gender>
@@ -850,6 +1220,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CONCORD</Tag>
 		<English>Concord</English>
+		
+		<PortugueseBR>
+			<Text>Concord</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Concord</Text>
 			<Gender>Female</Gender>
@@ -870,6 +1246,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_WILMINGTON</Tag>
 		<English>Wilmington</English>
+		
+		<PortugueseBR>
+			<Text>Wilmington</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Wilmington</Text>
 			<Gender>Female</Gender>
@@ -890,6 +1272,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CAMDEN</Tag>
 		<English>Camden</English>
+		
+		<PortugueseBR>
+			<Text>Camden</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Camden</Text>
 			<Gender>Female</Gender>
@@ -910,6 +1298,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SPRINGFIELD</Tag>
 		<English>Springfield</English>
+		
+		<PortugueseBR>
+			<Text>Springfield</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Springfield</Text>
 			<Gender>Female</Gender>
@@ -930,6 +1324,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NEWPORT_NEWS</Tag>
 		<English>Newport News</English>
+		
+		<PortugueseBR>
+			<Text>Newport News</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Newport News</Text>
 			<Gender>Female</Gender>
@@ -950,6 +1350,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ANTIGUA</Tag>
 		<English>Antigua</English>
+		
+		<PortugueseBR>
+			<Text>Antigua</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Antigua</Text>
 			<Gender>Female</Gender>
@@ -970,6 +1376,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_RUPERT_HOUSE</Tag>
 		<English>Rupert House</English>
+		
+		<PortugueseBR>
+			<Text>Rupert House</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Rupert House</Text>
 			<Gender>Female</Gender>
@@ -990,6 +1402,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KINGSTON</Tag>
 		<English>Kingston</English>
+		
+		<PortugueseBR>
+			<Text>Kingston</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Kingston</Text>
 			<Gender>Female</Gender>
@@ -1010,6 +1428,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_OTTAWA</Tag>
 		<English>Ottawa</English>
+		
+		<PortugueseBR>
+			<Text>Ottawa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ottawa</Text>
 			<Gender>Female</Gender>
@@ -1030,6 +1454,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_QUEBEC</Tag>
 		<English>Québec</English>
+		
+		<PortugueseBR>
+			<Text>Québec</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Québec</Text>
 			<Gender>Female</Gender>
@@ -1050,6 +1480,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MONTREAL</Tag>
 		<English>Montréal</English>
+		
+		<PortugueseBR>
+			<Text>Montréal</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Montréal</Text>
 			<Gender>Female</Gender>
@@ -1070,6 +1506,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_GUADELOUPE</Tag>
 		<English>Guadeloupe</English>
+		
+		<PortugueseBR>
+			<Text>Guadeloupe</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Guadeloupe</Text>
 			<Gender>Female</Gender>
@@ -1090,6 +1532,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CAYENNE</Tag>
 		<English>Cayenne</English>
+		
+		<PortugueseBR>
+			<Text>Cayenne</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Cayenne</Text>
 			<Gender>Female</Gender>
@@ -1110,6 +1558,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ST_LOUIS</Tag>
 		<English>St. Louis</English>
+		
+		<PortugueseBR>
+			<Text>St. Louis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Saint-Louis</Text>
 			<Gender>Female</Gender>
@@ -1130,6 +1584,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MARTINIQUE</Tag>
 		<English>Martinique</English>
+		
+		<PortugueseBR>
+			<Text>Martinique</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Martinique</Text>
 			<Gender>Female</Gender>
@@ -1150,6 +1610,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PORT_ROYAL</Tag>
 		<English>Port Royal</English>
+		
+		<PortugueseBR>
+			<Text>Port Royal</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Port Royal</Text>
 			<Gender>Female</Gender>
@@ -1166,11 +1632,16 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
-		<PortuguesePT>Porto Real</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PORT_AU_PRINCE</Tag>
 		<English>Port au Prince</English>
+		
+		<PortugueseBR>
+			<Text>Port au Prince</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Port-au-Prince</Text>
 			<Gender>Male</Gender>
@@ -1191,6 +1662,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TROIS_RIVIERES</Tag>
 		<English>Trois Rivieres</English>
+		
+		<PortugueseBR>
+			<Text>Trois Rivieres</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Trois-Rivières</Text>
 			<Gender>Female</Gender>
@@ -1211,6 +1688,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NEW_ORLEANS</Tag>
 		<English>New Orleans</English>
+		
+		<PortugueseBR>
+			<Text>New Orleans</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>La Nouvelle-Orléans</Text>
 			<Gender>Female</Gender>
@@ -1231,6 +1714,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_CAROLINE</Tag>
 		<English>Fort Caroline</English>
+		
+		<PortugueseBR>
+			<Text>Fort Caroline</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Caroline</Text>
 			<Gender>Male</Gender>
@@ -1251,6 +1740,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_DETROIT</Tag>
 		<English>Fort Detroit</English>
+		
+		<PortugueseBR>
+			<Text>Fort Detroit</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Détroit</Text>
 			<Gender>Male</Gender>
@@ -1271,6 +1766,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_FRONTENAC</Tag>
 		<English>Fort Frontenac</English>
+		
+		<PortugueseBR>
+			<Text>Fort Frontenac</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Frontenac</Text>
 			<Gender>Male</Gender>
@@ -1291,6 +1792,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_PONTCHARTAIN</Tag>
 		<English>Fort Pontchartain</English>
+		
+		<PortugueseBR>
+			<Text>Fort Pontchartain</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Pontchartain</Text>
 			<Gender>Male</Gender>
@@ -1311,6 +1818,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_TADOUSSAC</Tag>
 		<English>Fort Tadoussac</English>
+		
+		<PortugueseBR>
+			<Text>Fort Tadoussac</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Tadoussac</Text>
 			<Gender>Male</Gender>
@@ -1331,6 +1844,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_CANADA</Tag>
 		<English>Fort Canada</English>
+		
+		<PortugueseBR>
+			<Text>Fort Canada</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Canada</Text>
 			<Gender>Male</Gender>
@@ -1351,6 +1870,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_NIAGRA</Tag>
 		<English>Fort Niagara</English>
+		
+		<PortugueseBR>
+			<Text>Fort Niagara</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Niagara</Text>
 			<Gender>Male</Gender>
@@ -1371,6 +1896,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_CREVECOEUR</Tag>
 		<English>Fort Crevecoeur</English>
+		
+		<PortugueseBR>
+			<Text>Fort Crevecoeur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Crèvecoeur</Text>
 			<Gender>Male</Gender>
@@ -1391,6 +1922,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_ROQUELAI</Tag>
 		<English>Fort Roquelai</English>
+		
+		<PortugueseBR>
+			<Text>Fort Roquelai</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Roquelai</Text>
 			<Gender>Male</Gender>
@@ -1411,6 +1948,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_LAGUILLE</Tag>
 		<English>Fort Laguille</English>
+		
+		<PortugueseBR>
+			<Text>Fort Laguille</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Laguille</Text>
 			<Gender>Male</Gender>
@@ -1431,6 +1974,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_BREST</Tag>
 		<English>Fort Brest</English>
+		
+		<PortugueseBR>
+			<Text>Fort Brest</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Brest</Text>
 			<Gender>Male</Gender>
@@ -1451,6 +2000,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_RICHELIEU</Tag>
 		<English>Fort Richelieu</English>
+		
+		<PortugueseBR>
+			<Text>Fort Richelieu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Richelieu</Text>
 			<Gender>Male</Gender>
@@ -1471,6 +2026,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_LOUIS</Tag>
 		<English>Fort Louis</English>
+		
+		<PortugueseBR>
+			<Text>Fort Louis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Louis</Text>
 			<Gender>Male</Gender>
@@ -1491,6 +2052,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_PRUDHOME</Tag>
 		<English>Fort Prudhome</English>
+		
+		<PortugueseBR>
+			<Text>Fort Prudhome</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Prudhome</Text>
 			<Gender>Male</Gender>
@@ -1511,6 +2078,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_SANDOUSKI</Tag>
 		<English>Fort Sandouski</English>
+		
+		<PortugueseBR>
+			<Text>Fort Sandouski</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Sandouski</Text>
 			<Gender>Male</Gender>
@@ -1531,6 +2104,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_DU_QUESNE</Tag>
 		<English>Fort du Quesne</English>
+		
+		<PortugueseBR>
+			<Text>Fort du Quesne</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort du Quesne</Text>
 			<Gender>Male</Gender>
@@ -1551,6 +2130,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_ERIE</Tag>
 		<English>Fort Erie</English>
+		
+		<PortugueseBR>
+			<Text>Fort Erie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Erié</Text>
 			<Gender>Male</Gender>
@@ -1571,6 +2156,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_MAUREPAS</Tag>
 		<English>Fort Maurepas</English>
+		
+		<PortugueseBR>
+			<Text>Fort Maurepas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Maurepas</Text>
 			<Gender>Male</Gender>
@@ -1591,6 +2182,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_FRANCOIS_XAVIER</Tag>
 		<English>Fort Francois Xavier</English>
+		
+		<PortugueseBR>
+			<Text>Fort Francois Xavier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Francois Xavier</Text>
 			<Gender>Male</Gender>
@@ -1611,6 +2208,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_ST_MICHEL</Tag>
 		<English>Fort St. Michel</English>
+		
+		<PortugueseBR>
+			<Text>Fort St. Michel</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Saint-Michel</Text>
 			<Gender>Male</Gender>
@@ -1631,6 +2234,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_CHICAGO</Tag>
 		<English>Fort Chicago</English>
+		
+		<PortugueseBR>
+			<Text>Fort Chicago</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Chicago</Text>
 			<Gender>Male</Gender>
@@ -1651,6 +2260,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_DE_FRANCE</Tag>
 		<English>Fort-de-France</English>
+		
+		<PortugueseBR>
+			<Text>Fort-de-France</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort-de-France</Text>
 			<Gender>Male</Gender>
@@ -1671,6 +2286,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_FRANCES</Tag>
 		<English>Fort Frances</English>
+		
+		<PortugueseBR>
+			<Text>Fort Frances</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Frances</Text>
 			<Gender>Male</Gender>
@@ -1691,6 +2312,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_ST_JOSEPH</Tag>
 		<English>Fort St. Joseph</English>
+		
+		<PortugueseBR>
+			<Text>Fort St. Joseph</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Saint-Joseph</Text>
 			<Gender>Male</Gender>
@@ -1711,6 +2338,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_MIANNIS</Tag>
 		<English>Fort Miannis</English>
+		
+		<PortugueseBR>
+			<Text>Fort Miannis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Miannis</Text>
 			<Gender>Male</Gender>
@@ -1731,6 +2364,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_ORLEANS</Tag>
 		<English>Fort Orleans</English>
+		
+		<PortugueseBR>
+			<Text>Fort Orleans</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Orléans</Text>
 			<Gender>Male</Gender>
@@ -1751,6 +2390,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_ST_IGNACE</Tag>
 		<English>Fort St. Ignace</English>
+		
+		<PortugueseBR>
+			<Text>Fort St. Ignace</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Saint-Ignace</Text>
 			<Gender>Male</Gender>
@@ -1771,6 +2416,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_LE_ROCHER</Tag>
 		<English>Fort Le Rocher</English>
+		
+		<PortugueseBR>
+			<Text>Fort Le Rocher</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort LeRocher</Text>
 			<Gender>Male</Gender>
@@ -1791,6 +2442,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_MIYAMIS</Tag>
 		<English>Fort Miyamis</English>
+		
+		<PortugueseBR>
+			<Text>Fort Miyamis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Miyamis</Text>
 			<Gender>Male</Gender>
@@ -1811,6 +2468,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_ROSALIE</Tag>
 		<English>Fort Rosalie</English>
+		
+		<PortugueseBR>
+			<Text>Fort Rosalie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Rosalie</Text>
 			<Gender>Male</Gender>
@@ -1831,6 +2494,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_BALISE</Tag>
 		<English>Fort Balise</English>
+		
+		<PortugueseBR>
+			<Text>Fort Balise</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Balise</Text>
 			<Gender>Male</Gender>
@@ -1851,6 +2520,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_CONDE</Tag>
 		<English>Fort Conde</English>
+		
+		<PortugueseBR>
+			<Text>Fort Conde</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Conde</Text>
 			<Gender>Male</Gender>
@@ -1871,6 +2546,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_PENSACOLA</Tag>
 		<English>Fort Pensacola</English>
+		
+		<PortugueseBR>
+			<Text>Fort Pensacola</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Pensacola</Text>
 			<Gender>Male</Gender>
@@ -1891,6 +2572,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_TOULOUSE</Tag>
 		<English>Fort Toulouse</English>
+		
+		<PortugueseBR>
+			<Text>Fort Toulouse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Toulouse</Text>
 			<Gender>Male</Gender>
@@ -1911,6 +2598,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ISABELLA</Tag>
 		<English>Isabella</English>
+		
+		<PortugueseBR>
+			<Text>Isabella</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Isabella</Text>
 			<Gender>Female</Gender>
@@ -1931,6 +2624,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SANTO_DOMINGO</Tag>
 		<English>Santo Domingo</English>
+		
+		<PortugueseBR>
+			<Text>Santo Domingo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Santo Domingo</Text>
 			<Gender>Female</Gender>
@@ -1951,6 +2650,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SAN_SALVADOR</Tag>
 		<English>San Salvador</English>
+		
+		<PortugueseBR>
+			<Text>San Salvador</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>San Salvador</Text>
 			<Gender>Female</Gender>
@@ -1971,6 +2676,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_VERACRUZ</Tag>
 		<English>Veracruz</English>
+		
+		<PortugueseBR>
+			<Text>Veracruz</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Veracruz</Text>
 			<Gender>Female</Gender>
@@ -1991,6 +2702,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_HAVANA</Tag>
 		<English>Havana</English>
+		
+		<PortugueseBR>
+			<Text>Havana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>La Havane</Text>
 			<Gender>Female</Gender>
@@ -2011,6 +2728,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TRINIDAD</Tag>
 		<English>Trinidad</English>
+		
+		<PortugueseBR>
+			<Text>Trinidad</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Trinidad</Text>
 			<Gender>Female</Gender>
@@ -2031,6 +2754,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SAN_JUAN</Tag>
 		<English>San Juan</English>
+		
+		<PortugueseBR>
+			<Text>San Juan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>San Juan</Text>
 			<Gender>Female</Gender>
@@ -2051,6 +2780,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PANAMA</Tag>
 		<English>Panama</English>
+		
+		<PortugueseBR>
+			<Text>Panama</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Panama</Text>
 			<Gender>Female</Gender>
@@ -2071,6 +2806,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CARTEJENA</Tag>
 		<English>Cartejena</English>
+		
+		<PortugueseBR>
+			<Text>Cartejena</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Cartagène</Text>
 			<Gender>Female</Gender>
@@ -2091,6 +2832,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ST_AUGUSTINE</Tag>
 		<English>St. Augustine</English>
+		
+		<PortugueseBR>
+			<Text>St. Augustine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Saint Augustin</Text>
 			<Gender>Female</Gender>
@@ -2111,6 +2858,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_LIMA</Tag>
 		<English>Lima</English>
+		
+		<PortugueseBR>
+			<Text>Lima</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Lima</Text>
 			<Gender>Female</Gender>
@@ -2131,6 +2884,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BUENOS_AIRES</Tag>
 		<English>Buenos Aires</English>
+		
+		<PortugueseBR>
+			<Text>Buenos Aires</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Buenos Aires</Text>
 			<Gender>Female</Gender>
@@ -2151,6 +2910,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_GUATEMALA</Tag>
 		<English>Guatemala</English>
+		
+		<PortugueseBR>
+			<Text>Guatemala</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Guatémala</Text>
 			<Gender>Female</Gender>
@@ -2171,6 +2936,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_HONDURAS</Tag>
 		<English>Honduras</English>
+		
+		<PortugueseBR>
+			<Text>Honduras</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Honduras</Text>
 			<Gender>Female</Gender>
@@ -2191,6 +2962,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_POTOSI</Tag>
 		<English>Potosi</English>
+		
+		<PortugueseBR>
+			<Text>Potosi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Potosi</Text>
 			<Gender>Female</Gender>
@@ -2211,6 +2988,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_GUADALAJARA</Tag>
 		<English>Guadalajara</English>
+		
+		<PortugueseBR>
+			<Text>Guadalajara</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Guadalajara</Text>
 			<Gender>Female</Gender>
@@ -2231,6 +3014,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ASCUNCION</Tag>
 		<English>Asunción</English>
+		
+		<PortugueseBR>
+			<Text>Asunción</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Asunción</Text>
 			<Gender>Female</Gender>
@@ -2251,6 +3040,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MANAGUA</Tag>
 		<English>Managua</English>
+		
+		<PortugueseBR>
+			<Text>Managua</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Managua</Text>
 			<Gender>Female</Gender>
@@ -2271,6 +3066,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_COSTA_RICA</Tag>
 		<English>Costa Rica</English>
+		
+		<PortugueseBR>
+			<Text>Costa Rica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Costa Rica</Text>
 			<Gender>Female</Gender>
@@ -2291,6 +3092,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SANTA_FE</Tag>
 		<English>Santa Fe</English>
+		
+		<PortugueseBR>
+			<Text>Santa Fe</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Santa Fé</Text>
 			<Gender>Female</Gender>
@@ -2311,6 +3118,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_LOS_ANGELES</Tag>
 		<English>Los Angeles</English>
+		
+		<PortugueseBR>
+			<Text>Los Angeles</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Los Angeles</Text>
 			<Gender>Female</Gender>
@@ -2331,6 +3144,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BOGOTA</Tag>
 		<English>Bogotá</English>
+		
+		<PortugueseBR>
+			<Text>Bogotá</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Bogotá</Text>
 			<Gender>Female</Gender>
@@ -2351,6 +3170,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CORPUS_CHRISTI</Tag>
 		<English>Corpus Christi</English>
+		
+		<PortugueseBR>
+			<Text>Corpus Christi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Corpus Christi</Text>
 			<Gender>Female</Gender>
@@ -2371,6 +3196,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ACAPULCO</Tag>
 		<English>Acapulco</English>
+		
+		<PortugueseBR>
+			<Text>Acapulco</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Acapulco</Text>
 			<Gender>Female</Gender>
@@ -2391,6 +3222,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SANTA_MARTA</Tag>
 		<English>Santa Marta</English>
+		
+		<PortugueseBR>
+			<Text>Santa Marta</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Santa Marta</Text>
 			<Gender>Female</Gender>
@@ -2411,6 +3248,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SAN_AGOSTIN</Tag>
 		<English>San Agostin</English>
+		
+		<PortugueseBR>
+			<Text>San Agostin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>San Agostin</Text>
 			<Gender>Female</Gender>
@@ -2431,6 +3274,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CARACAS</Tag>
 		<English>Caracas</English>
+		
+		<PortugueseBR>
+			<Text>Caracas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Caracas</Text>
 			<Gender>Female</Gender>
@@ -2451,6 +3300,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TOBAGO</Tag>
 		<English>Tobago</English>
+		
+		<PortugueseBR>
+			<Text>Tobago</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tobago</Text>
 			<Gender>Female</Gender>
@@ -2471,6 +3326,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SAN_FRANCISCO</Tag>
 		<English>San Francisco</English>
+		
+		<PortugueseBR>
+			<Text>San Francisco</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>San Francisco</Text>
 			<Gender>Female</Gender>
@@ -2491,6 +3352,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SAN_DIEGO</Tag>
 		<English>San Diego</English>
+		
+		<PortugueseBR>
+			<Text>San Diego</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>San Diego</Text>
 			<Gender>Female</Gender>
@@ -2511,6 +3378,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SAN_ANGELO</Tag>
 		<English>San Angelo</English>
+		
+		<PortugueseBR>
+			<Text>San Angelo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>San Angelo</Text>
 			<Gender>Female</Gender>
@@ -2531,6 +3404,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_EL_PASO</Tag>
 		<English>El Paso</English>
+		
+		<PortugueseBR>
+			<Text>El Paso</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>El Paso</Text>
 			<Gender>Female</Gender>
@@ -2551,6 +3430,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CANCUN</Tag>
 		<English>Cancun</English>
+		
+		<PortugueseBR>
+			<Text>Cancun</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Cancún</Text>
 			<Gender>Female</Gender>
@@ -2571,6 +3456,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_VALPARAISO</Tag>
 		<English>Valparaiso</English>
+		
+		<PortugueseBR>
+			<Text>Valparaiso</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Valparaiso</Text>
 			<Gender>Female</Gender>
@@ -2591,6 +3482,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CONCEPCION</Tag>
 		<English>Concepción</English>
+		
+		<PortugueseBR>
+			<Text>Concepción</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Concepción</Text>
 			<Gender>Female</Gender>
@@ -2611,6 +3508,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_LA_PLATA</Tag>
 		<English>La Plata</English>
+		
+		<PortugueseBR>
+			<Text>La Plata</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>La Plata</Text>
 			<Gender>Female</Gender>
@@ -2631,6 +3534,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NEW_AMSTERDAM</Tag>
 		<English>Nieuw Amsterdam</English>
+		
+		<PortugueseBR>
+			<Text>Nieuw Amsterdam</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>La Nouvelle-Amsterdam</Text>
 			<Gender>Female</Gender>
@@ -2647,10 +3556,17 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<Hungarian>Új-Amszterdam</Hungarian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_ORANGE</Tag>
 		<English>Fort Orange</English>
+		
+		<PortugueseBR>
+			<Text>Fort Orange</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Orange</Text>
 			<Gender>Male</Gender>
@@ -2671,6 +3587,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_NASSAU</Tag>
 		<English>Fort Nassau</English>
+		
+		<PortugueseBR>
+			<Text>Fort Nassau</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Nassau</Text>
 			<Gender>Male</Gender>
@@ -2691,6 +3613,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NEW_HOLLAND</Tag>
 		<English>Nieuw Holland</English>
+		
+		<PortugueseBR>
+			<Text>Nieuw Holland</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nouvelle-Hollande</Text>
 			<Gender>Female</Gender>
@@ -2711,6 +3639,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_VLISSINGEN</Tag>
 		<English>Vlissingen</English>
+		
+		<PortugueseBR>
+			<Text>Vlissingen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Flessingue</Text>
 			<Gender>Female</Gender>
@@ -2731,6 +3665,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CURACAO</Tag>
 		<English>Curaçao</English>
+		
+		<PortugueseBR>
+			<Text>Curaçao</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Curaçao</Text>
 			<Gender>Female</Gender>
@@ -2751,6 +3691,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_RECIFE</Tag>
 		<English>Recife</English>
+		
+		<PortugueseBR>
+			<Text>Recife</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Recife</Text>
 			<Gender>Female</Gender>
@@ -2771,6 +3717,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BAHIA</Tag>
 		<English>Bahia</English>
+		
+		<PortugueseBR>
+			<Text>Bahia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Bahia</Text>
 			<Gender>Female</Gender>
@@ -2791,6 +3743,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PARAMARIBO</Tag>
 		<English>Paramaribo</English>
+		
+		<PortugueseBR>
+			<Text>Paramaribo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Paramaribo</Text>
 			<Gender>Female</Gender>
@@ -2811,6 +3769,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PERNAMBUCO</Tag>
 		<English>Pernambuco</English>
+		
+		<PortugueseBR>
+			<Text>Pernambuco</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Pernambouc</Text>
 			<Gender>Female</Gender>
@@ -2831,6 +3795,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ST_MARTIN</Tag>
 		<English>St. Martin</English>
+		
+		<PortugueseBR>
+			<Text>St. Martin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Saint-Martin</Text>
 			<Gender>Female</Gender>
@@ -2851,6 +3821,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ST_EUSTATIUS</Tag>
 		<English>St. Eustatius</English>
+		
+		<PortugueseBR>
+			<Text>St. Eustatius</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Saint-Eustache</Text>
 			<Gender>Female</Gender>
@@ -2871,6 +3847,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ESSEQUIBO</Tag>
 		<English>Essequibo</English>
+		
+		<PortugueseBR>
+			<Text>Essequibo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Essequibo</Text>
 			<Gender>Female</Gender>
@@ -2891,6 +3873,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BERBICE</Tag>
 		<English>Berbice</English>
+		
+		<PortugueseBR>
+			<Text>Berbice</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Berbice</Text>
 			<Gender>Female</Gender>
@@ -2911,6 +3899,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SURINAM</Tag>
 		<English>Surinam</English>
+		
+		<PortugueseBR>
+			<Text>Surinam</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Surinam</Text>
 			<Gender>Female</Gender>
@@ -2931,6 +3925,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PARAIBA</Tag>
 		<English>Paraiba</English>
+		
+		<PortugueseBR>
+			<Text>Paraíba</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Paraíba</Text>
 			<Gender>Female</Gender>
@@ -2951,6 +3951,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BONAIRE</Tag>
 		<English>Bonaire</English>
+		
+		<PortugueseBR>
+			<Text>Bonaire</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Bonaire</Text>
 			<Gender>Female</Gender>
@@ -2971,6 +3977,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_WILLEMSTAD</Tag>
 		<English>Willemstad</English>
+		
+		<PortugueseBR>
+			<Text>Willemstad</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Willemstad</Text>
 			<Gender>Female</Gender>
@@ -2991,6 +4003,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ARUBA</Tag>
 		<English>Aruba</English>
+		
+		<PortugueseBR>
+			<Text>Aruba</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Aruba</Text>
 			<Gender>Female</Gender>
@@ -3011,6 +4029,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SANTA_CATHARINA</Tag>
 		<English>Santa Catharina</English>
+		
+		<PortugueseBR>
+			<Text>Santa Catarina</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Santa Catarina</Text>
 			<Gender>Female</Gender>
@@ -3031,6 +4055,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SABA</Tag>
 		<English>Saba</English>
+		
+		<PortugueseBR>
+			<Text>Saba</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Saba</Text>
 			<Gender>Female</Gender>
@@ -3051,6 +4081,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_UTRECHT</Tag>
 		<English>Utrecht</English>
+		
+		<PortugueseBR>
+			<Text>Utrecht</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Utrecht</Text>
 			<Gender>Female</Gender>
@@ -3071,6 +4107,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_HAARLEM</Tag>
 		<English>Haarlem</English>
+		
+		<PortugueseBR>
+			<Text>Haarlem</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Haarlem</Text>
 			<Gender>Female</Gender>
@@ -3091,6 +4133,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TAPPANS</Tag>
 		<English>Tappans</English>
+		
+		<PortugueseBR>
+			<Text>Tappans</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tappans</Text>
 			<Gender>Female</Gender>
@@ -3111,6 +4159,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_HOBOKEN</Tag>
 		<English>Hoboken</English>
+		
+		<PortugueseBR>
+			<Text>Hoboken</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Hoboken</Text>
 			<Gender>Female</Gender>
@@ -3131,6 +4185,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_RENSSELAERSWYCK</Tag>
 		<English>Rensselaerswyck</English>
+		
+		<PortugueseBR>
+			<Text>Rensselaerswyck</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Rensselaerswyck</Text>
 			<Gender>Female</Gender>
@@ -3151,6 +4211,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NEDERHORST</Tag>
 		<English>Nederhorst</English>
+		
+		<PortugueseBR>
+			<Text>Nederhorst</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nederhorst</Text>
 			<Gender>Female</Gender>
@@ -3171,6 +4237,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_CRISTINA</Tag>
 		<English>Fort Cristina</English>
+		
+		<PortugueseBR>
+			<Text>Fort Cristina</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Cristina</Text>
 			<Gender>Male</Gender>
@@ -3191,6 +4263,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_GOTTENBURGH</Tag>
 		<English>Gottenburgh</English>
+		
+		<PortugueseBR>
+			<Text>Gottenburgh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Gottenburgh</Text>
 			<Gender>Female</Gender>
@@ -3211,6 +4289,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_KASIMIRIS</Tag>
 		<English>Fort Kasimiris</English>
+		
+		<PortugueseBR>
+			<Text>Fort Kasimiris</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Kasimiris</Text>
 			<Gender>Male</Gender>
@@ -3231,6 +4315,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_FORT_ELSENBURGH</Tag>
 		<English>Fort Elsenburgh</English>
+		
+		<PortugueseBR>
+			<Text>Fort Elsenburgh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Fort Elsenburgh</Text>
 			<Gender>Male</Gender>
@@ -3251,6 +4341,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NAIACK</Tag>
 		<English>Naiack</English>
+		
+		<PortugueseBR>
+			<Text>Naiack</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Naiack</Text>
 			<Gender>Female</Gender>
@@ -3271,6 +4367,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SY_ARA</Tag>
 		<English>Sy Ara</English>
+		
+		<PortugueseBR>
+			<Text>Ceará</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sy Ara</Text>
 			<Gender>Female</Gender>
@@ -3291,6 +4393,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PARA</Tag>
 		<English>Para</English>
+		
+		<PortugueseBR>
+			<Text>Pará</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Para</Text>
 			<Gender>Female</Gender>
@@ -3311,6 +4419,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TAUBATE</Tag>
 		<English>Taubate</English>
+		
+		<PortugueseBR>
+			<Text>Taubaté</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Taubaté</Text>
 			<Gender>Female</Gender>
@@ -3331,6 +4445,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PARANA</Tag>
 		<English>Parana</English>
+		
+		<PortugueseBR>
+			<Text>Paraná</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Paraná</Text>
 			<Gender>Female</Gender>
@@ -3351,6 +4471,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TOCANTINS</Tag>
 		<English>Tocantins</English>
+		
+		<PortugueseBR>
+			<Text>Tocantins</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tocantins</Text>
 			<Gender>Female</Gender>
@@ -3371,6 +4497,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_GUAPORE</Tag>
 		<English>Guapore</English>
+		
+		<PortugueseBR>
+			<Text>Guaporé</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Guaporé</Text>
 			<Gender>Female</Gender>
@@ -3391,6 +4523,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PIAUY</Tag>
 		<English>Piauy</English>
+		
+		<PortugueseBR>
+			<Text>Piauí</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Piauy</Text>
 			<Gender>Female</Gender>
@@ -3411,6 +4549,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SIRI_JIBE</Tag>
 		<English>Siri Jibe</English>
+		
+		<PortugueseBR>
+			<Text>Siri Jibe</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Siri Jibe</Text>
 			<Gender>Female</Gender>
@@ -3431,6 +4575,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BORIKEN</Tag>
 		<English>Boriken</English>
+		
+		<PortugueseBR>
+			<Text>Boriken</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Boriken</Text>
 			<Gender>Female</Gender>
@@ -3451,6 +4601,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CUBANACAN</Tag>
 		<English>Cubanacan</English>
+		
+		<PortugueseBR>
+			<Text>Cubanacan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Cubanacan</Text>
 			<Gender>Female</Gender>
@@ -3471,6 +4627,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_HAITI</Tag>
 		<English>Haiti</English>
+		
+		<PortugueseBR>
+			<Text>Haiti</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Haïti</Text>
 			<Gender>Female</Gender>
@@ -3491,6 +4653,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KISKEYA</Tag>
 		<English>Kiskeya</English>
+		
+		<PortugueseBR>
+			<Text>Kiskeya</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Kiskeya</Text>
 			<Gender>Female</Gender>
@@ -3511,6 +4679,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_JAMAICA</Tag>
 		<English>Jamaica</English>
+		
+		<PortugueseBR>
+			<Text>Jamaica</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>La Jamaïque</Text>
 			<Gender>Female</Gender>
@@ -3531,6 +4705,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ARAKAKA</Tag>
 		<English>Arakaka</English>
+		
+		<PortugueseBR>
+			<Text>Arakaka</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Arakaka</Text>
 			<Gender>Female</Gender>
@@ -3551,6 +4731,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_IMATAKA</Tag>
 		<English>Imataka</English>
+		
+		<PortugueseBR>
+			<Text>Imataka</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Imataka</Text>
 			<Gender>Female</Gender>
@@ -3571,6 +4757,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_GUANABA</Tag>
 		<English>Guanaba</English>
+		
+		<PortugueseBR>
+			<Text>Guanaba</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Guanaba</Text>
 			<Gender>Female</Gender>
@@ -3591,6 +4783,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_LIGUANEA</Tag>
 		<English>Liguanea</English>
+		
+		<PortugueseBR>
+			<Text>Liguanea</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Liguanea</Text>
 			<Gender>Female</Gender>
@@ -3611,6 +4809,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_AMAKURA</Tag>
 		<English>Amakura</English>
+		
+		<PortugueseBR>
+			<Text>Amakura</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Amakura</Text>
 			<Gender>Female</Gender>
@@ -3631,6 +4835,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TEEHACH</Tag>
 		<English>Teehach</English>
+		
+		<PortugueseBR>
+			<Text>Teehach</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Teehach</Text>
 			<Gender>Female</Gender>
@@ -3651,6 +4861,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TICHIOG</Tag>
 		<English>Tichiog</English>
+		
+		<PortugueseBR>
+			<Text>Tichiog</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tichiog</Text>
 			<Gender>Female</Gender>
@@ -3671,6 +4887,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KIIS_CHIINTIIDN</Tag>
 		<English>Kiis Chiintiidn</English>
+		
+		<PortugueseBR>
+			<Text>Kiis Chiintiidn</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Kiis Chiintiidn</Text>
 			<Gender>Female</Gender>
@@ -3691,6 +4913,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TS_TSSKIDN</Tag>
 		<English>Ts Tsskidn</English>
+		
+		<PortugueseBR>
+			<Text>Ts Tsskidn</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ts Tsskidn</Text>
 			<Gender>Female</Gender>
@@ -3711,6 +4939,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_DZI_LIKESILAN</Tag>
 		<English>Dzi Likesilan</English>
+		
+		<PortugueseBR>
+			<Text>Dzi Likesilan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Dzi Likesilan</Text>
 			<Gender>Female</Gender>
@@ -3731,6 +4965,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TSEBAINASTI</Tag>
 		<English>Tsebainasti</English>
+		
+		<PortugueseBR>
+			<Text>Tsebainasti</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tsebainasti</Text>
 			<Gender>Female</Gender>
@@ -3751,6 +4991,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_HAKIY</Tag>
 		<English>Hakiy</English>
+		
+		<PortugueseBR>
+			<Text>Hakiy</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Hakiy</Text>
 			<Gender>Female</Gender>
@@ -3771,6 +5017,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NALEEI_DANAKAIY</Tag>
 		<English>Naleei Danakaiy</English>
+		
+		<PortugueseBR>
+			<Text>Naleei Danakaiy</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Naleei Danakaiy</Text>
 			<Gender>Female</Gender>
@@ -3791,6 +5043,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ISANTI</Tag>
 		<English>Isanti</English>
+		
+		<PortugueseBR>
+			<Text>Isanti</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Isanti</Text>
 			<Gender>Female</Gender>
@@ -3811,6 +5069,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_IHANKTOWAN</Tag>
 		<English>Ihanktowan</English>
+		
+		<PortugueseBR>
+			<Text>Ihanktowan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ihanktowan</Text>
 			<Gender>Female</Gender>
@@ -3831,6 +5095,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TETON</Tag>
 		<English>Teton</English>
+		
+		<PortugueseBR>
+			<Text>Teton</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Teton</Text>
 			<Gender>Female</Gender>
@@ -3851,6 +5121,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MDEWAKANTONWAN</Tag>
 		<English>Mdewakantonwan</English>
+		
+		<PortugueseBR>
+			<Text>Mdewakantonwan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Mdewakantonwan</Text>
 			<Gender>Female</Gender>
@@ -3871,6 +5147,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_OGLALA</Tag>
 		<English>Oglala</English>
+		
+		<PortugueseBR>
+			<Text>Oglala</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Oglala</Text>
 			<Gender>Female</Gender>
@@ -3891,6 +5173,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SISITOWAN</Tag>
 		<English>Sisitowan</English>
+		
+		<PortugueseBR>
+			<Text>Sisitowan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sisitowan</Text>
 			<Gender>Female</Gender>
@@ -3911,6 +5199,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ITAZIPACOLA</Tag>
 		<English>Itazipacola</English>
+		
+		<PortugueseBR>
+			<Text>Itazipacola</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Itazipacola</Text>
 			<Gender>Female</Gender>
@@ -3931,6 +5225,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_WAHPEKUTE</Tag>
 		<English>Wahpekute</English>
+		
+		<PortugueseBR>
+			<Text>Wahpekute</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Wahpekute</Text>
 			<Gender>Female</Gender>
@@ -3951,6 +5251,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_WAHPETOWAN</Tag>
 		<English>Wahpetowan</English>
+		
+		<PortugueseBR>
+			<Text>Wahpetowan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Wahpetowan</Text>
 			<Gender>Female</Gender>
@@ -3971,6 +5277,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ASSINIBOINE</Tag>
 		<English>Assiniboine</English>
+		
+		<PortugueseBR>
+			<Text>Assiniboine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Assiniboine</Text>
 			<Gender>Female</Gender>
@@ -3991,6 +5303,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_STONEY</Tag>
 		<English>Stoney</English>
+		
+		<PortugueseBR>
+			<Text>Stoney</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Stoney</Text>
 			<Gender>Female</Gender>
@@ -4011,6 +5329,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_HUNKPAPA</Tag>
 		<English>Hunkpapa</English>
+		
+		<PortugueseBR>
+			<Text>Hunkpapa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Hunkapa</Text>
 			<Gender>Female</Gender>
@@ -4031,6 +5355,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SIHASAPA</Tag>
 		<English>Sihasapa</English>
+		
+		<PortugueseBR>
+			<Text>Sihasapa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sihasapa</Text>
 			<Gender>Female</Gender>
@@ -4051,6 +5381,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MINNICONJOU</Tag>
 		<English>Minniconjou</English>
+		
+		<PortugueseBR>
+			<Text>Minniconjou</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Minniconjou</Text>
 			<Gender>Female</Gender>
@@ -4071,6 +5407,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SICANGU</Tag>
 		<English>Sicangu</English>
+		
+		<PortugueseBR>
+			<Text>Sicangu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Sicangu</Text>
 			<Gender>Female</Gender>
@@ -4091,6 +5433,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_OOHENONPA</Tag>
 		<English>Oohenonpa</English>
+		
+		<PortugueseBR>
+			<Text>Oohenonpa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Oohenonpa</Text>
 			<Gender>Female</Gender>
@@ -4111,6 +5459,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KITUWAH</Tag>
 		<English>Kituwah</English>
+		
+		<PortugueseBR>
+			<Text>Kituwah</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Kituwah</Text>
 			<Gender>Female</Gender>
@@ -4131,6 +5485,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_GREAT_HIWASSEE</Tag>
 		<English>Great Hiwassee</English>
+		
+		<PortugueseBR>
+			<Text>Great Hiwassee</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Grand Hiwassee</Text>
 			<Gender>Female</Gender>
@@ -4151,6 +5511,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TUSKEGEE</Tag>
 		<English>Tuskegee</English>
+		
+		<PortugueseBR>
+			<Text>Tuskegee</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tuskegee</Text>
 			<Gender>Female</Gender>
@@ -4171,6 +5537,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TELLICO</Tag>
 		<English>Tellico</English>
+		
+		<PortugueseBR>
+			<Text>Tellico</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tellico</Text>
 			<Gender>Female</Gender>
@@ -4191,6 +5563,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KEOWEE</Tag>
 		<English>Keowee</English>
+		
+		<PortugueseBR>
+			<Text>Keowee</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Keowee</Text>
 			<Gender>Female</Gender>
@@ -4211,6 +5589,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TAHLEQUAH</Tag>
 		<English>Tahlequah</English>
+		
+		<PortugueseBR>
+			<Text>Tahlequah</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tahlequah</Text>
 			<Gender>Female</Gender>
@@ -4231,6 +5615,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NEQUASSEE</Tag>
 		<English>Nequassee</English>
+		
+		<PortugueseBR>
+			<Text>Nequassee</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nequassee</Text>
 			<Gender>Female</Gender>
@@ -4251,6 +5641,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TOMOTLEY</Tag>
 		<English>Tomotley</English>
+		
+		<PortugueseBR>
+			<Text>Tomotley</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tomotley</Text>
 			<Gender>Female</Gender>
@@ -4271,6 +5667,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KULSETSIYI</Tag>
 		<English>Kulsetsiyi</English>
+		
+		<PortugueseBR>
+			<Text>Kulsetsiyi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Kulsetsiyi</Text>
 			<Gender>Female</Gender>
@@ -4291,6 +5693,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TANASI</Tag>
 		<English>Tanasi</English>
+		
+		<PortugueseBR>
+			<Text>Tanasi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tanasi</Text>
 			<Gender>Female</Gender>
@@ -4311,6 +5719,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TOQUA</Tag>
 		<English>Toqua</English>
+		
+		<PortugueseBR>
+			<Text>Toqua</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Toqua</Text>
 			<Gender>Female</Gender>
@@ -4331,6 +5745,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_DUGILUYI</Tag>
 		<English>Dugiluyi</English>
+		
+		<PortugueseBR>
+			<Text>Dugiluyi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Dugiluyi</Text>
 			<Gender>Female</Gender>
@@ -4351,6 +5771,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ONODOWAHAGH</Tag>
 		<English>Onodowahagh</English>
+		
+		<PortugueseBR>
+			<Text>Onodowahagh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Onodowahagh</Text>
 			<Gender>Female</Gender>
@@ -4371,6 +5797,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_GUYOHKOHNYOH</Tag>
 		<English>Guyohkohnyon</English>
+		
+		<PortugueseBR>
+			<Text>Guyohkohnyon</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Guyohkohnyon</Text>
 			<Gender>Female</Gender>
@@ -4391,6 +5823,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ONODAGEGA</Tag>
 		<English>Onondagega</English>
+		
+		<PortugueseBR>
+			<Text>Onondagega</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Onondagega</Text>
 			<Gender>Female</Gender>
@@ -4411,6 +5849,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ONEYOTEKAONO</Tag>
 		<English>Oneyotekaono</English>
+		
+		<PortugueseBR>
+			<Text>Oneyotekaono</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Oneyotekaono</Text>
 			<Gender>Female</Gender>
@@ -4431,6 +5875,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KANIENKEHAKA</Tag>
 		<English>Kanienkehaka</English>
+		
+		<PortugueseBR>
+			<Text>Kanienkehaka</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Kanienkehaka</Text>
 			<Gender>Female</Gender>
@@ -4451,6 +5901,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SKA_RHU_REH</Tag>
 		<English>Ska-Ruh-Reh</English>
+		
+		<PortugueseBR>
+			<Text>Ska-Ruh-Reh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ska-Ruh-Reh</Text>
 			<Gender>Female</Gender>
@@ -4471,6 +5927,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TYENDINAGA</Tag>
 		<English>Tyendinaga</English>
+		
+		<PortugueseBR>
+			<Text>Tyendinaga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tyendinaga</Text>
 			<Gender>Female</Gender>
@@ -4491,6 +5953,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_HOCHELAGA</Tag>
 		<English>Hochelaga</English>
+		
+		<PortugueseBR>
+			<Text>Hochelaga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Hochelaga</Text>
 			<Gender>Female</Gender>
@@ -4511,6 +5979,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_WAHTA</Tag>
 		<English>Wahta</English>
+		
+		<PortugueseBR>
+			<Text>Wahta</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Wahta</Text>
 			<Gender>Female</Gender>
@@ -4531,6 +6005,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SCHENECTADY</Tag>
 		<English>Schenectady</English>
+		
+		<PortugueseBR>
+			<Text>Schenectady</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Schenectady</Text>
 			<Gender>Female</Gender>
@@ -4551,6 +6031,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_GANIENKEH</Tag>
 		<English>Ganienkeh</English>
+		
+		<PortugueseBR>
+			<Text>Ganienkeh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ganienkeh</Text>
 			<Gender>Female</Gender>
@@ -4571,6 +6057,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KANATSIOHAREKE</Tag>
 		<English>Kanatsiohareke</English>
+		
+		<PortugueseBR>
+			<Text>Kanatsiohareke</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Kanatsiohareke</Text>
 			<Gender>Female</Gender>
@@ -4594,6 +6086,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_GOODY_HUT</Tag>
 		<English>Ancient Ruins</English>
+		
+		<PortugueseBR>
+			<Text>Ruínas Antigas</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ruines antiques</Text>
 			<Gender>Female</Gender>
@@ -4611,10 +6109,17 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Древние руины</Russian>
+		<Hungarian>Ősi Romváros</Hungarian>
 	</TEXT> -->
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_CITIES</Tag>
 		<English>Settlements</English>
+		
+		<PortugueseBR>
+			<Text>Colônias</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Colonies</Text>
 			<Gender>Female</Gender>
@@ -4632,11 +6137,22 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Города</Russian>
-        <PortuguesePT>Colónias</PortuguesePT>
+		<Hungarian>Települések</Hungarian>
+		<PortuguesePT>
+			<Text>Colónias</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_LANGLADE</Tag>
 		<English>Charles Michel de Langlade</English>
+		
+		<PortugueseBR>
+			<Text>Charles Michel de Langlade</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Charles Michel de Langlade</Text>
 			<Gender>Male</Gender>
@@ -4658,6 +6174,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_BRADDOCK</Tag>
 		<English>Edward Braddock</English>
+		
+		<PortugueseBR>
+			<Text>Edward Braddock</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Edward Braddock</Text>
 			<Gender>Male</Gender>
@@ -4679,6 +6201,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_MALGUE</Tag>
 		<English>Paul Marin de la Malgue</English>
+		
+		<PortugueseBR>
+			<Text>Paul Marín de la Malgue</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Paul Marin de la Malgue</Text>
 			<Gender>Male</Gender>
@@ -4700,6 +6228,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_TANACHARISON</Tag>
 		<English>Tanacharison</English>
+		
+		<PortugueseBR>
+			<Text>Tanacharison</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tanacharison</Text>
 			<Gender>Male</Gender>
@@ -4721,6 +6255,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_PHILIP</Tag>
 		<English>King Philip</English>
+		
+		<PortugueseBR>
+			<Text>Rei Filipe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Roi Philippe</Text>
 			<Gender>Male</Gender>
@@ -4738,11 +6278,22 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Король Филипп</Russian>
-        <PortuguesePT>Rei Filipe</PortuguesePT>
+		<Hungarian>Fülöp Király</Hungarian>
+		<PortuguesePT>
+			<Text>Rei Filipe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_BELLECOMBE</Tag>
 		<English>Guillaume de Bellecombe</English>
+		
+		<PortugueseBR>
+			<Text>Guillaume de Bellecombe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Guillaume de Bellecombe</Text>
 			<Gender>Male</Gender>
@@ -4764,6 +6315,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_PUTNAM</Tag>
 		<English>Israel Putnam</English>
+		
+		<PortugueseBR>
+			<Text>Israel Putnam</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Israël Putnam</Text>
 			<Gender>Male</Gender>
@@ -4785,6 +6342,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_ROCHAMBEAU</Tag>
 		<English>Comte de Rochambeau</English>
+		
+		<PortugueseBR>
+			<Text>Conde de Rochambeau</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Comte de Rochambeau</Text>
 			<Gender>Male</Gender>
@@ -4806,6 +6369,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_GREENE</Tag>
 		<English>Nathaniel Greene</English>
+		
+		<PortugueseBR>
+			<Text>Nathaniel Greene</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nathaniel Greene</Text>
 			<Gender>Male</Gender>
@@ -4827,6 +6396,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_GATES</Tag>
 		<English>Horatio Gates</English>
+		
+		<PortugueseBR>
+			<Text>Horatio Gates</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Horatio Gates</Text>
 			<Gender>Male</Gender>
@@ -4848,6 +6423,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_GALVEZ</Tag>
 		<English>Bernardo de Gálvez</English>
+		
+		<PortugueseBR>
+			<Text>Bernardo de Gálvez</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Bernardo de Gálvez</Text>
 			<Gender>Male</Gender>
@@ -4869,6 +6450,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_HIGGINS</Tag>
 		<English>Bernardo O' Higgins</English>
+		
+		<PortugueseBR>
+			<Text>Bernardo O’Higgins</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Bernardo O' Higgins</Text>
 			<Gender>Male</Gender>
@@ -4890,6 +6477,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_CARRERA</Tag>
 		<English>José Miguel Carrera</English>
+		
+		<PortugueseBR>
+			<Text>José Miguel Carrera</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>José Miguel Carrera</Text>
 			<Gender>Male</Gender>
@@ -4911,6 +6504,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_AUITZOTL</Tag>
 		<English>Auitzotl</English>
+		
+		<PortugueseBR>
+			<Text>Auitzotl</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Auitzotl</Text>
 			<Gender>Male</Gender>
@@ -4932,6 +6531,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_DE_WITT</Tag>
 		<English>Cornelis de Witt</English>
+		
+		<PortugueseBR>
+			<Text>Cornelis de Witt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Cornelius de Wit</Text>
 			<Gender>Male</Gender>
@@ -4953,6 +6558,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_KNOX</Tag>
 		<English>Henry Knox</English>
+		
+		<PortugueseBR>
+			<Text>Henry Knox</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Henry Knox</Text>
 			<Gender>Male</Gender>
@@ -4974,6 +6585,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_BELGRANO</Tag>
 		<English>Manuel Belgrano</English>
+		
+		<PortugueseBR>
+			<Text>Manuel Belgrano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Manuel Belgrano</Text>
 			<Gender>Male</Gender>
@@ -4995,6 +6612,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_MENDOZA</Tag>
 		<English>Cristóbal Mendoza</English>
+		
+		<PortugueseBR>
+			<Text>Cristobal Mendoza</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Cristóbal Mendoza</Text>
 			<Gender>Male</Gender>
@@ -5016,6 +6639,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_LOUVERTURE</Tag>
 		<English>Toussaint L'ouverture</English>
+		
+		<PortugueseBR>
+			<Text>Toussaint L’ouverture</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Toussaint L'ouverture</Text>
 			<Gender>Male</Gender>
@@ -5037,6 +6666,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_SANTA_ANNA</Tag>
 		<English>Antonio López de Santa Anna</English>
+		
+		<PortugueseBR>
+			<Text>Antonio López de Santa Anna</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Antonio López de Santa Anna</Text>
 			<Gender>Male</Gender>
@@ -5058,6 +6693,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_HIDALGO</Tag>
 		<English>Miguel Hidalgo</English>
+		
+		<PortugueseBR>
+			<Text>Miguel Hidalgo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Miguel Hidalgo</Text>
 			<Gender>Male</Gender>
@@ -5079,6 +6720,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_MACKENZIE</Tag>
 		<English>William Lyon Mackenzie</English>
+		
+		<PortugueseBR>
+			<Text>William Lyon Mackenzie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>William Lyon Mackenzie</Text>
 			<Gender>Male</Gender>
@@ -5100,6 +6747,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_COCHRANE</Tag>
 		<English>Thomas Cochrane</English>
+		
+		<PortugueseBR>
+			<Text>Thomas Cochrane</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Thomas Cochrane</Text>
 			<Gender>Male</Gender>
@@ -5121,6 +6774,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_ARNOLD</Tag>
 		<English>Benedict Arnold</English>
+		
+		<PortugueseBR>
+			<Text>Benedict Arnold</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Benedict Arnold</Text>
 			<Gender>Male</Gender>
@@ -5142,6 +6801,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PIABUYU</Tag>
 		<English>Piabuyu</English>
+		
+		<PortugueseBR>
+			<Text>Piabuyu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Piabuyu</Text>
 			<Gender>Female</Gender>
@@ -5162,6 +6827,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TUPINAMBA</Tag>
 		<English>Tupinamba</English>
+		
+		<PortugueseBR>
+			<Text>Tupinamba</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tupinamba</Text>
 			<Gender>Female</Gender>
@@ -5182,6 +6853,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TAMOYO</Tag>
 		<English>Tamoyo</English>
+		
+		<PortugueseBR>
+			<Text>Tamoyo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tamoyo</Text>
 			<Gender>Female</Gender>
@@ -5202,6 +6879,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PEABIRU</Tag>
 		<English>Peabiru</English>
+		
+		<PortugueseBR>
+			<Text>Peabiru</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Peabiru</Text>
 			<Gender>Female</Gender>
@@ -5222,6 +6905,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TUPINIQUIM</Tag>
 		<English>Tupiniquim</English>
+		
+		<PortugueseBR>
+			<Text>Tupiniquim</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tupiniquim</Text>
 			<Gender>Female</Gender>
@@ -5242,6 +6931,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TAPE_AVIRU</Tag>
 		<English>Tape Aviru</English>
+		
+		<PortugueseBR>
+			<Text>Tape Aviru</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tape Aviru</Text>
 			<Gender>Female</Gender>
@@ -5262,6 +6957,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_OMAGUA</Tag>
 		<English>Omagua</English>
+		
+		<PortugueseBR>
+			<Text>Omagua</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Omagua</Text>
 			<Gender>Female</Gender>
@@ -5282,6 +6983,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_COCAMA</Tag>
 		<English>Cocama</English>
+		
+		<PortugueseBR>
+			<Text>Cocama</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Cocama</Text>
 			<Gender>Female</Gender>
@@ -5302,6 +7009,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NHEHGATU</Tag>
 		<English>Nhehgatu</English>
+		
+		<PortugueseBR>
+			<Text>Nhehgatu</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nhehgatu</Text>
 			<Gender>Female</Gender>
@@ -5322,6 +7035,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_POTIGUARA</Tag>
 		<English>Potiguara</English>
+		
+		<PortugueseBR>
+			<Text>Potiguara</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Potiguara</Text>
 			<Gender>Female</Gender>
@@ -5342,6 +7061,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_IERE</Tag>
 		<English>Iere</English>
+		
+		<PortugueseBR>
+			<Text>Iere</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Iere</Text>
 			<Gender>Female</Gender>
@@ -5362,6 +7087,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MALLIOUHANA</Tag>
 		<English>Malliouhana</English>
+		
+		<PortugueseBR>
+			<Text>Malliouhana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Malliouhana</Text>
 			<Gender>Female</Gender>
@@ -5382,6 +7113,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ALOI</Tag>
 		<English>Aloi</English>
+		
+		<PortugueseBR>
+			<Text>Aloi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Aloi</Text>
 			<Gender>Female</Gender>
@@ -5402,6 +7139,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_OCANMANRU</Tag>
 		<English>Ocanmanru</English>
+		
+		<PortugueseBR>
+			<Text>Ocanmanru</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ocanmanru</Text>
 			<Gender>Female</Gender>
@@ -5422,6 +7165,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_LIAMUGUA</Tag>
 		<English>Liamugua</English>
+		
+		<PortugueseBR>
+			<Text>Liamugua</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Liamugua</Text>
 			<Gender>Female</Gender>
@@ -5442,6 +7191,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ATABEI</Tag>
 		<English>Atabei</English>
+		
+		<PortugueseBR>
+			<Text>Atabei</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Atabei</Text>
 			<Gender>Female</Gender>
@@ -5462,6 +7217,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_WAITUKUBULI</Tag>
 		<English>Waitukubuli</English>
+		
+		<PortugueseBR>
+			<Text>Waitukubuli</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Waitukubuli</Text>
 			<Gender>Female</Gender>
@@ -5482,6 +7243,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ICHIROUGANAIM</Tag>
 		<English>Ichirouganaim</English>
+		
+		<PortugueseBR>
+			<Text>Ichirouganaim</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ichirouganaim</Text>
 			<Gender>Female</Gender>
@@ -5502,6 +7269,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KALAOUCERA</Tag>
 		<English>Kalaoucera</English>
+		
+		<PortugueseBR>
+			<Text>Kalaoucera</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Kalaoucera</Text>
 			<Gender>Female</Gender>
@@ -5522,6 +7295,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_OUALICHE</Tag>
 		<English>Oualiche</English>
+		
+		<PortugueseBR>
+			<Text>Oualiche</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Oualiche</Text>
 			<Gender>Female</Gender>
@@ -5542,6 +7321,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TOULOUKAERA</Tag>
 		<English>Touloukaera</English>
+		
+		<PortugueseBR>
+			<Text>Touloukaera</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Touloukaera</Text>
 			<Gender>Female</Gender>
@@ -5562,6 +7347,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_IYANOLA</Tag>
 		<English>Iyanola</English>
+		
+		<PortugueseBR>
+			<Text>Iyanola</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Iyanola</Text>
 			<Gender>Female</Gender>
@@ -5582,6 +7373,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_OUALIE</Tag>
 		<English>Oualie</English>
+		
+		<PortugueseBR>
+			<Text>Oualie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Oualie</Text>
 			<Gender>Female</Gender>
@@ -5602,6 +7399,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_HAIROUN</Tag>
 		<English>Hairoun</English>
+		
+		<PortugueseBR>
+			<Text>Hairoun</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Hairoun</Text>
 			<Gender>Female</Gender>
@@ -5622,6 +7425,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_WADADLI</Tag>
 		<English>Wadadli</English>
+		
+		<PortugueseBR>
+			<Text>Wadadli</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Wadadli</Text>
 			<Gender>Female</Gender>
@@ -5642,6 +7451,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BIGAGOTEEL</Tag>
 		<English>Chichiil Bidagoteel</English>
+		
+		<PortugueseBR>
+			<Text>Chichiil Bidagoteel</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Chichiil Bidagoteel</Text>
 			<Gender>Female</Gender>
@@ -5662,6 +7477,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TIIS_TSEBA</Tag>
 		<English>Tiis Tseba</English>
+		
+		<PortugueseBR>
+			<Text>Tiis Tseba</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tiis Tseba</Text>
 			<Gender>Female</Gender>
@@ -5682,6 +7503,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NAGONLTIN</Tag>
 		<English>Nagonltin</English>
+		
+		<PortugueseBR>
+			<Text>Nagonltin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nagonltin</Text>
 			<Gender>Female</Gender>
@@ -5702,6 +7529,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CHICHIIL_DA_KIZH</Tag>
 		<English>Chichiil da'kizh</English>
+		
+		<PortugueseBR>
+			<Text>Chichiil da'kizh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Chichiil da'kizh</Text>
 			<Gender>Female</Gender>
@@ -5722,6 +7555,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_IZEE_DIGHIN</Tag>
 		<English>Izee Dighin</English>
+		
+		<PortugueseBR>
+			<Text>Izee Dighin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Izee Dighin</Text>
 			<Gender>Female</Gender>
@@ -5742,6 +7581,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TS_DADLIT_AS</Tag>
 		<English>Ts Dadlit'as</English>
+		
+		<PortugueseBR>
+			<Text>Ts Dadlit'as</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ts Dadlit'as</Text>
 			<Gender>Female</Gender>
@@ -5762,6 +7607,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_T_EDN</Tag>
 		<English>T' Edn</English>
+		
+		<PortugueseBR>
+			<Text>T' Edn</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>T' Edn</Text>
 			<Gender>Female</Gender>
@@ -5782,6 +7633,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TSE_NANESNASDZ</Tag>
 		<English>Tse Nanesnasdz</English>
+		
+		<PortugueseBR>
+			<Text>Tse Nanesnasdz</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tse Nanesnasdz</Text>
 			<Gender>Female</Gender>
@@ -5802,6 +7659,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TS_YA_KIH_NASTL</Tag>
 		<English>Ts Ya Kih Nastl</English>
+		
+		<PortugueseBR>
+			<Text>Ts Ya Kih Nastl</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ts Ya Kih Nastl</Text>
 			<Gender>Female</Gender>
@@ -5822,6 +7685,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_IYAH_HAJIN</Tag>
 		<English>Iyah Hajin</English>
+		
+		<PortugueseBR>
+			<Text>Iyah Hajin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Iyah Hajin</Text>
 			<Gender>Female</Gender>
@@ -5842,6 +7711,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_T_NADIDOH</Tag>
 		<English>T' Nadidoh</English>
+		
+		<PortugueseBR>
+			<Text>T' Nadidoh</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>T' Nadidoh</Text>
 			<Gender>Female</Gender>
@@ -5862,6 +7737,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MA_BIJAA_DASLAA</Tag>
 		<English>Ma' Bijaa Daslaa</English>
+		
+		<PortugueseBR>
+			<Text>Ma' Bijaa Daslaa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ma' Bijaa Daslaa</Text>
 			<Gender>Female</Gender>
@@ -5882,6 +7763,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TSE_DASN</Tag>
 		<English>Tse Das'n</English>
+		
+		<PortugueseBR>
+			<Text>Tse Das'n</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tse Das'n</Text>
 			<Gender>Female</Gender>
@@ -5902,6 +7789,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_DIB_TUD</Tag>
 		<English>Dib Tud</English>
+		
+		<PortugueseBR>
+			<Text>Dib Tud</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Dib Tud</Text>
 			<Gender>Female</Gender>
@@ -5922,6 +7815,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TSE_YE_GOCHA</Tag>
 		<English>Tse Ye Gocha</English>
+		
+		<PortugueseBR>
+			<Text>Tse Ye Gocha</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tse Ye Gocha</Text>
 			<Gender>Female</Gender>
@@ -5942,6 +7841,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_YOO_GOLIN</Tag>
 		<English>Yoo Golin</English>
+		
+		<PortugueseBR>
+			<Text>Yoo Golin</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Yoo Golin</Text>
 			<Gender>Female</Gender>
@@ -5962,6 +7867,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_WASHBIDI_BIT</Tag>
 		<English>Washbidi Bit</English>
+		
+		<PortugueseBR>
+			<Text>Washbidi Bit</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Washbidi Bit</Text>
 			<Gender>Female</Gender>
@@ -5982,6 +7893,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TS_SHID</Tag>
 		<English>Ts Shid</English>
+		
+		<PortugueseBR>
+			<Text>Ts Shid</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ts Shid</Text>
 			<Gender>Female</Gender>
@@ -6002,6 +7919,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CH_DISCHAG</Tag>
 		<English>Ch' Disch'ag</English>
+		
+		<PortugueseBR>
+			<Text>Ch' Disch'ag</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ch' Disch'ag</Text>
 			<Gender>Female</Gender>
@@ -6022,6 +7945,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TII_CHOGI</Tag>
 		<English>Tii Ch'ogi</English>
+		
+		<PortugueseBR>
+			<Text>Tii Ch'ogi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Tii Ch'ogi</Text>
 			<Gender>Female</Gender>
@@ -6042,6 +7971,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BIGHAN_DAISLN</Tag>
 		<English>Bighan Da'isln</English>
+		
+		<PortugueseBR>
+			<Text>Bighan Da'isln</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Bighan Da'isln</Text>
 			<Gender>Female</Gender>
@@ -6062,6 +7997,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_BIS_BIT</Tag>
 		<English>Bis Bit</English>
+		
+		<PortugueseBR>
+			<Text>Bis Bit</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Bis Bit</Text>
 			<Gender>Female</Gender>
@@ -6082,6 +8023,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MAKA_SICA</Tag>
 		<English>Maka Sica</English>
+		
+		<PortugueseBR>
+			<Text>Maka Sica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Maka Sica</Text>
 			<Gender>Female</Gender>
@@ -6102,6 +8049,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PAHA_MATO</Tag>
 		<English>Paha Mato</English>
+		
+		<PortugueseBR>
+			<Text>Paha Mato</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Paha Mato</Text>
 			<Gender>Female</Gender>
@@ -6122,6 +8075,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MAKATO_OSA_WATAPA</Tag>
 		<English>Makato Osa Watapa</English>
+		
+		<PortugueseBR>
+			<Text>Makato Osa Watapa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Makato Osa Watapa</Text>
 			<Gender>Female</Gender>
@@ -6142,6 +8101,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_WAKPALA_SAPA</Tag>
 		<English>Wakpala Sapa</English>
+		
+		<PortugueseBR>
+			<Text>Wakpala Sapa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Wakpala Sapa</Text>
 			<Gender>Female</Gender>
@@ -6162,6 +8127,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_MATO_TIPI</Tag>
 		<English>Mato Tipi</English>
+		
+		<PortugueseBR>
+			<Text>Mato Tipi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Mato Tipi</Text>
 			<Gender>Female</Gender>
@@ -6182,6 +8153,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PAHA_SAPA</Tag>
 		<English>Paha Sapa</English>
+		
+		<PortugueseBR>
+			<Text>Paha Sapa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Paha Sapa</Text>
 			<Gender>Female</Gender>
@@ -6202,6 +8179,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_COOSAWATIE</Tag>
 		<English>Coosawatie</English>
+		
+		<PortugueseBR>
+			<Text>Coosawatie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Coosawatie</Text>
 			<Gender>Female</Gender>
@@ -6222,6 +8205,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_QUALATCHEE</Tag>
 		<English>Qualatchee</English>
+		
+		<PortugueseBR>
+			<Text>Qualatchee</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Qualatchee</Text>
 			<Gender>Female</Gender>
@@ -6242,6 +8231,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_WHATAGUA</Tag>
 		<English>Whatauga</English>
+		
+		<PortugueseBR>
+			<Text>Whatauga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Whatauga</Text>
 			<Gender>Female</Gender>
@@ -6262,6 +8257,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CHEEOHEE</Tag>
 		<English>Cheeohee</English>
+		
+		<PortugueseBR>
+			<Text>Cheeohee</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Cheeohee</Text>
 			<Gender>Female</Gender>
@@ -6282,6 +8283,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_OCCONEECHEE</Tag>
 		<English>Occoneechee</English>
+		
+		<PortugueseBR>
+			<Text>Occoneechee</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Occoneechee</Text>
 			<Gender>Female</Gender>
@@ -6302,6 +8309,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KAWIYI</Tag>
 		<English>Kawiyi</English>
+		
+		<PortugueseBR>
+			<Text>Kawiyi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Kawiyi</Text>
 			<Gender>Female</Gender>
@@ -6322,6 +8335,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_NIKWASI</Tag>
 		<English>Nikwasi</English>
+		
+		<PortugueseBR>
+			<Text>Nikwasi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Nikwasi</Text>
 			<Gender>Female</Gender>
@@ -6342,6 +8361,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ITSEYI</Tag>
 		<English>Itseyi</English>
+		
+		<PortugueseBR>
+			<Text>Itseyi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Itseyi</Text>
 			<Gender>Female</Gender>
@@ -6362,6 +8387,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_DISTAYOHI</Tag>
 		<English>Distayohi</English>
+		
+		<PortugueseBR>
+			<Text>Distayohi</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Distayohi</Text>
 			<Gender>Female</Gender>
@@ -6382,6 +8413,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SKAHNEHTATI</Tag>
 		<English>Skahnehtati</English>
+		
+		<PortugueseBR>
+			<Text>Skahnehtati</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Skahnehtati</Text>
 			<Gender>Female</Gender>
@@ -6402,6 +8439,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KANIENKE</Tag>
 		<English>Kanien'ke</English>
+		
+		<PortugueseBR>
+			<Text>Kanien'ke</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Kanien'ke</Text>
 			<Gender>Female</Gender>
@@ -6422,6 +8465,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ATERONTO</Tag>
 		<English>Ateronto</English>
+		
+		<PortugueseBR>
+			<Text>Ateronto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Ateronto</Text>
 			<Gender>Female</Gender>
@@ -6442,6 +8491,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_AKWESASNE</Tag>
 		<English>Akwesasne</English>
+		
+		<PortugueseBR>
+			<Text>Akwesasne</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Akwesasne</Text>
 			<Gender>Female</Gender>
@@ -6462,6 +8517,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_OSWEGO</Tag>
 		<English>Oswego</English>
+		
+		<PortugueseBR>
+			<Text>Oswego</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Oswego</Text>
 			<Gender>Female</Gender>
@@ -6482,6 +8543,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_ONEONTA</Tag>
 		<English>Oneonta</English>
+		
+		<PortugueseBR>
+			<Text>Oneonta</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Oneonta</Text>
 			<Gender>Female</Gender>
@@ -6502,6 +8569,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KNISTE_STOTA</Tag>
 		<English>Kniste Stota</English>
+		
+		<PortugueseBR>
+			<Text>Kniste Stota</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>Kniste Stota</Text>
 			<Gender>Female</Gender>
@@ -6522,6 +8595,12 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 	<TEXT>
 		<Tag>TXT_KEY_GENERIC_KING</Tag>
 		<English>The King</English>
+		
+		<PortugueseBR>
+			<Text>O Rei</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortugueseBR>
 		<French>
 			<Text>le Roi</Text>
 			<Gender>Male</Gender>
@@ -6539,6 +8618,11 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Королем</Russian>
-        <PortuguesePT>O Rei</PortuguesePT>
+		<Hungarian>A Király</Hungarian>
+		<PortuguesePT>
+			<Text>O Rei</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

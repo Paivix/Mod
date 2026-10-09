@@ -3,28 +3,34 @@
 	<TEXT>
 		<Tag>TXT_KEY_CLIMATE_ROCKY</Tag>
 		<English>Rocky</English>
+		<PortugueseBR>Rochoso</PortugueseBR>
 		<French>Rocheux</French>
 		<German>Felsig</German>
 		<Italian>Continentale</Italian>
 		<Spanish>Rocoso</Spanish>
 		<Russian>Суровый</Russian>
+		<PortuguesePT>Rochoso</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CLIMATE_TEMPERATE</Tag>
 		<English>Temperate</English>
+		<PortugueseBR>Temperado</PortugueseBR>
 		<French>Tempéré</French>
 		<German>Gemäßigt</German>
 		<Italian>Temperato</Italian>
 		<Spanish>Templado</Spanish>
 		<Russian>Умеренный</Russian>
+		<PortuguesePT>Temperado</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CLIMATE_TROPICAL</Tag>
 		<English>Tropical</English>
+		<PortugueseBR>Tropical</PortugueseBR>
 		<French>Tropical</French>
 		<German>Tropisch</German>
 		<Italian>Tropicale</Italian>
 		<Spanish>Tropical</Spanish>
 		<Russian>Тропический</Russian>
+		<PortuguesePT>Tropical</PortuguesePT>
 	</TEXT>
 </Civ4GameText>

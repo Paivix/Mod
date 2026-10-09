@@ -3,858 +3,1073 @@
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_AVOID_GROWTH</Tag>
 		<English>Avoid Growth</English>
+		<PortugueseBR>Evite o crescimento</PortugueseBR>
 		<French>Éviter toute croissance</French>
 		<German>Wachstum vermeiden</German>
 		<Italian>Evita la crescita</Italian>
 		<Spanish>Evitar crecimiento</Spanish>
 		<Russian>Отключить рост поселения</Russian>
+		<PortuguesePT>Evitar crescimento</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_BARLEY</Tag>
 		<English>Emphasize Barley</English>
+		<PortugueseBR>Enfatize a cevada</PortugueseBR>
 		<French>Privilégier l'Orge</French>
 		<German>Schwerpunkt Gerste</German>
 		<Italian>Accentuare orzo</Italian>
 		<Spanish>Favorecer Cebada</Spanish>
+		<PortuguesePT>Priorizar Cevada</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_BEER</Tag>
 		<English>Emphasize Beer</English>
+		<PortugueseBR>Enfatize a cerveja</PortugueseBR>
 		<French>Privilégier la Bière</French>
 		<German>Schwerpunkt Bier</German>
 		<Italian>Accentuare birra</Italian>
 		<Spanish>Favorecer Cerveza</Spanish>
+		<PortuguesePT>Priorizar Cerveja</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_BELLS</Tag>
 		<English>Emphasize Liberty Bells</English>
+		<PortugueseBR>Enfatize Sinos da Liberdade</PortugueseBR>
 		<French>Privilégier les Cloches de la Liberté</French>
 		<German>Schwerpunkt Freiheitsglocken</German>
 		<Italian>Accentuare campane della libertà</Italian>
 		<Spanish>Favorecer Campanas de la libertad</Spanish>
+		<PortuguesePT>Priorizar Sinos da Liberdade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_BLADES</Tag>
 		<English>Emphasize Blades</English>
+		<PortugueseBR>Enfatizar Lâminas</PortugueseBR>
 		<French>Privilégier les Sabres</French>
 		<German>Schwerpunkt Klingenwaffen</German>
 		<Italian>Accentuare spada</Italian>
 		<Spanish>Favorecer Cuchillas</Spanish>
+		<PortuguesePT>Priorizar Espadas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_CANNONS</Tag>
 		<English>Emphasize Cannons</English>
+		<PortugueseBR>Enfatize os canhões</PortugueseBR>
 		<French>Privilégier les Canons</French>
 		<German>Schwerpunkt Kanonen</German>
 		<Italian>Accentuare cannoni</Italian>
 		<Spanish>Favorecer Cañones</Spanish>
+		<PortuguesePT>Priorizar Canhões</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_CATTLE</Tag>
 		<English>Emphasize Cattle</English>
+		<PortugueseBR>Enfatize o gado</PortugueseBR>
 		<French>Privilégier le Bétail</French>
 		<German>Schwerpunkt Rinder</German>
 		<Italian>Accentuare bovini</Italian>
 		<Spanish>Favorecer Bovinos</Spanish>
+		<PortuguesePT>Priorizar Gado</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_CIGARS</Tag>
 		<English>Emphasize Cigars</English>
+		<PortugueseBR>Enfatize charutos</PortugueseBR>
 		<French>Privilégier les Cigares</French>
 		<German>Schwerpunkt Zigarren</German>
 		<Italian>Accentuare sigari</Italian>
 		<Spanish>Favorecer Puros</Spanish>
+		<PortuguesePT>Priorizar Charutos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_CLOTH</Tag>
 		<English>Emphasize Cloth</English>
+		<PortugueseBR>Enfatizar o tecido</PortugueseBR>
 		<French>Privilégier le Tissu</French>
 		<German>Schwerpunkt Stoff</German>
 		<Italian>Accentuare tessuto</Italian>
 		<Spanish>Favorecer Tejido</Spanish>
+		<PortuguesePT>Priorizar tecido</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_COATS</Tag>
 		<English>Emphasize Coats</English>
+		<PortugueseBR>Enfatizar Casacos</PortugueseBR>
 		<French>Privilégier les Manteaux</French>
 		<German>Schwerpunkt Mäntel</German>
 		<Italian>Accentuare mantelli</Italian>
 		<Spanish>Favorecer Abrigos</Spanish>
+		<PortuguesePT>Priorizar Casacos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_COCA_LEAVES</Tag>
 		<English>Emphasize Coca Leaves</English>
+		<PortugueseBR>Enfatize as folhas de coca</PortugueseBR>
 		<French>Privilégier la Coca</French>
 		<German>Schwerpunkt Coca-Blätter</German>
 		<Italian>Accentuare foglie di coca</Italian>
 		<Spanish>Favorecer Hojas de coca</Spanish>
+		<PortuguesePT> Priorizar Folhas de Coca</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_COCOA</Tag>
 		<English>Emphasize Cocoa</English>
+		<PortugueseBR>Enfatize o cacau</PortugueseBR>
 		<French>Privilégier le Cacao torréfié</French>
 		<German>Schwerpunkt Kakao</German>
 		<Italian>Accentuare cacao</Italian>
 		<Spanish>Favorecer Cacao</Spanish>
+		<PortuguesePT>Priorizar Cacau</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_COCOA_FRUITS</Tag>
 		<English>Emphasize Cocoa Pods</English>
+		<PortugueseBR>Enfatize as vagens de cacau</PortugueseBR>
 		<French>Privilégier les Fèves de cacao</French>
 		<German>Schwerpunkt Kakaofrüchte</German>
 		<Italian>Accentuare frutta di cacao</Italian>
 		<Spanish>Favorecer Fruta del cacao</Spanish>
+		<PortuguesePT>Priorizar grãos de cacau</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_COFFEE</Tag>
 		<English>Emphasize Coffee</English>
+		<PortugueseBR>Enfatize o café</PortugueseBR>
 		<French>Privilégier le Café torréfié</French>
 		<German>Schwerpunkt Kaffee</German>
 		<Italian>Accentuare caffè</Italian>
 		<Spanish>Favorecer Café</Spanish>
+		<PortuguesePT>Priorizar Café</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_COFFEE_BERRIES</Tag>
 		<English>Emphasize Coffee Berries</English>
+		<PortugueseBR>Enfatize as frutas de café</PortugueseBR>
 		<French>Privilégier les Cerises de café</French>
 		<German>Schwerpunkt Kaffeebeeren</German>
 		<Italian>Accentuare bacche di caffè</Italian>
 		<Spanish>Favorecer Bayas de café</Spanish>
+		<PortuguesePT>Priorizar grãos de café</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_COLOURED_CLOTH</Tag>
 		<English>Emphasize Coloured Cloth</English>
+		<PortugueseBR>Enfatize o tecido colorido</PortugueseBR>
 		<French>Privilégier le Tissus teintés</French>
 		<German>Schwerpunkt Gefärbte Stoffe</German>
 		<Italian>Accentuare tessuti tinti</Italian>
 		<Spanish>Favorecer Tejidos teñidos</Spanish>
+		<PortuguesePT>Priorizar Tecido Colorido</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_COTTON</Tag>
 		<English>Emphasize Cotton</English>
+		<PortugueseBR>Enfatizar o algodão</PortugueseBR>
 		<French>Privilégier le Coton</French>
 		<German>Schwerpunkt Baumwolle</German>
 		<Italian>Accentuare cotone</Italian>
 		<Spanish>Favorecer Algodón</Spanish>
+		<PortuguesePT>Priorizar Algodão</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_CROSSES</Tag>
 		<English>Emphasize Crosses</English>
+		<PortugueseBR>Enfatize Cruzes</PortugueseBR>
 		<French>Privilégier les Croix</French>
 		<German>Schwerpunkt Kreuze</German>
 		<Italian>Accentuare croci</Italian>
 		<Spanish>Favorecer Cruces</Spanish>
+		<PortuguesePT>Priorizar Cruzes</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_EDUCATION</Tag>
 		<English>Emphasize Education</English>
+		<PortugueseBR>Enfatize a educação</PortugueseBR>
 		<French>Privilégier l'Éducation</French>
 		<German>Schwerpunkt Bildung</German>
 		<Italian>Accentuare educazione</Italian>
 		<Spanish>Favorecer Educación</Spanish>
+		<PortuguesePT>Priorizar Educação</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_FOOD</Tag>
 		<English>Emphasize Food</English>
+		<PortugueseBR>Enfatize a comida</PortugueseBR>
 		<French>Privilégier la Nourriture</French>
 		<German>Schwerpunkt Nahrung</German>
 		<Italian>Privilegia il cibo</Italian>
 		<Spanish>Favorecer Alimentos</Spanish>
+		<PortuguesePT>Priorizar Alimentos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_FUR</Tag>
 		<English>Emphasize Fur</English>
+		<PortugueseBR>Enfatizar a pele</PortugueseBR>
 		<French>Privilégier la Fourrure</French>
 		<German>Schwerpunkt Pelz</German>
 		<Italian>Accentuare pellicce</Italian>
 		<Spanish>Favorecer Pieles</Spanish>
+		<PortuguesePT>Priorizar Peles</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_FURNITURE</Tag>
 		<English>Emphasize Furniture</English>
+		<PortugueseBR>Enfatize Móveis</PortugueseBR>
 		<French>Privilégier les Meubles</French>
 		<German>Schwerpunkt Möbel</German>
 		<Italian>Accentuare mobili</Italian>
 		<Spanish>Favorecer Muebles</Spanish>
+		<PortuguesePT>Priorizar Móveis</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_GEMS</Tag>
 		<English>Emphasize Gems</English>
+		<PortugueseBR>Enfatize as joias</PortugueseBR>
 		<French>Privilégier les Pierres précieuses</French>
 		<German>Schwerpunkt Edelsteine</German>
 		<Italian>Accentuare pietre preziose</Italian>
 		<Spanish>Favorecer Piedras preciosas</Spanish>
+		<PortuguesePT>Priorizar Pedras Preciosas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_GOLD</Tag>
 		<English>Emphasize Gold</English>
+		<PortugueseBR>Enfatize o ouro</PortugueseBR>
 		<French>Privilégier l'Or</French>
 		<German>Schwerpunkt Gold</German>
 		<Italian>Accentuare oro</Italian>
 		<Spanish>Favorecer Oro</Spanish>
+		<PortuguesePT>Priorizar Ouro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_GRAPES</Tag>
 		<English>Emphasize Grapes</English>
+		<PortugueseBR>Enfatize as uvas</PortugueseBR>
 		<French>Privilégier le Raisin</French>
 		<German>Schwerpunkt Weintrauben</German>
 		<Italian>Accentuare uve</Italian>
 		<Spanish>Favorecer Uvas</Spanish>
+		<PortuguesePT>Priorizar Uvas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_HAMMERS</Tag>
 		<English>Emphasize Production</English>
+		<PortugueseBR>Enfatize a produção</PortugueseBR>
 		<French>Privilégier la Production</French>
 		<German>Schwerpunkt Produktion</German>
 		<Italian>Accentuare produzione</Italian>
 		<Spanish>Favorecer Producción</Spanish>
+		<PortuguesePT>Priorizar Produção</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_HEMP</Tag>
 		<English>Emphasize Hemp</English>
+		<PortugueseBR>Enfatize o cânhamo</PortugueseBR>
 		<French>Privilégier le Chanvre</French>
 		<German>Schwerpunkt Hanf</German>
 		<Italian>Accentuare canapa</Italian>
 		<Spanish>Favorecer Cáñamo</Spanish>
+		<PortuguesePT>Priorizar Cânhamo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_HIDES</Tag>
 		<English>Emphasize Cowhides</English>
+		<PortugueseBR>Enfatize couros de vaca</PortugueseBR>
 		<French>Privilégier les Peaux de vache</French>
 		<German>Schwerpunkt Rindshäute</German>
 		<Italian>Accentuare pelli di mucca</Italian>
 		<Spanish>Favorecer Pieles de vaca</Spanish>
+		<PortuguesePT>Priorizar Pele de Vaca</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_HORSES</Tag>
 		<English>Emphasize Horses</English>
+		<PortugueseBR>Enfatize os cavalos</PortugueseBR>
 		<French>Privilégier les Chevaux</French>
 		<German>Schwerpunkt Pferde</German>
 		<Italian>Accentuare cavalli</Italian>
 		<Spanish>Favorecer Caballos</Spanish>
+		<PortuguesePT>Priorizar Cavalos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_INDIGO</Tag>
 		<English>Emphasize Indigo</English>
+		<PortugueseBR>Enfatize o índigo</PortugueseBR>
 		<French>Privilégier l'Indigo</French>
 		<German>Schwerpunkt Indigo</German>
 		<Italian>Accentuare indicado</Italian>
 		<Spanish>Favorecer Indigo</Spanish>
+		<PortuguesePT>Priorizar Índigo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_LEATHER</Tag>
 		<English>Emphasize Leather Goods</English>
+		<PortugueseBR>Enfatize os artigos de couro</PortugueseBR>
 		<French>Privilégier le Cuir tanné</French>
 		<German>Schwerpunkt Lederwaren</German>
 		<Italian>Accentuare pelletteria</Italian>
 		<Spanish>Favorecer Artículos de cuero</Spanish>
+		<PortuguesePT> Priorizar Artigos de couro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_LUMBER</Tag>
 		<English>Emphasize Lumber</English>
+		<PortugueseBR>Enfatize a madeira serrada</PortugueseBR>
 		<French>Privilégier le Bois</French>
 		<German>Schwerpunkt Holz</German>
 		<Italian>Accentuare legname</Italian>
 		<Spanish>Favorecer Madera</Spanish>
+		<PortuguesePT>Priorizar Madeira</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_MUSKETS</Tag>
 		<English>Emphasize Guns</English>
+		<PortugueseBR>Enfatize as armas</PortugueseBR>
 		<French>Privilégier les Armes à feu</French>
 		<German>Schwerpunkt Schusswaffen</German>
 		<Italian>Accentuare armi</Italian>
 		<Spanish>Favorecer Armas</Spanish>
+		<PortuguesePT>Priorizar Armas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_BARLEY</Tag>
 		<English>Deemphasize Barley</English>
+		<PortugueseBR>Diminuir a ênfase na cevada</PortugueseBR>
 		<French>Minimiser l'Orge</French>
 		<German>Schwerpunkt Gerste aufheben</German>
 		<Italian>De-accentuare orzo</Italian>
 		<Spanish>Desfavorecer Cebada</Spanish>
+		<PortuguesePT>Secundarizar Cevada</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_BEER</Tag>
 		<English>Deemphasize Beer</English>
+		<PortugueseBR>Diminuir a ênfase na cerveja</PortugueseBR>
 		<French>Minimiser la Bière</French>
 		<German>Schwerpunkt Bier aufheben</German>
 		<Italian>De-accentuare birra</Italian>
 		<Spanish>Desfavorecer Cerveza</Spanish>
+		<PortuguesePT>Secundarizar Cerveja</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_BELLS</Tag>
 		<English>Deemphasize Liberty Bells</English>
+		<PortugueseBR>Diminuir a ênfase Sinos da Liberdade</PortugueseBR>
 		<French>Minimiser les Cloches de la Liberté</French>
 		<German>Schwerpunkt Freiheitsglocken aufheben</German>
 		<Italian>De-accentuare campane della libertà</Italian>
 		<Spanish>Desfavorecer Campanas de la libertad</Spanish>
+		<PortuguesePT>Secundarizar Sinos da Liberdade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_BLADES</Tag>
 		<English>Deemphasize Blades</English>
+		<PortugueseBR>Diminuir a ênfase nas lâminas</PortugueseBR>
 		<French>Minimiser les Sabres</French>
 		<German>Schwerpunkt Klingenwaffen aufheben</German>
 		<Italian>De-accentuare spade</Italian>
 		<Spanish>Desfavorecer Cuchillas</Spanish>
+		<PortuguesePT> Secundarizar Espadas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_CANNONS</Tag>
 		<English>Deemphasize Cannons</English>
+		<PortugueseBR>Diminuir a ênfase nos canhões</PortugueseBR>
 		<French>Minimiser les Canons</French>
 		<German>Schwerpunkt Kanonen aufheben</German>
 		<Italian>De-accentuare cannoni</Italian>
 		<Spanish>Desfavorecer Cañones</Spanish>
+		<PortuguesePT> Secundarizar canhões</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_CATTLE</Tag>
 		<English>Deemphasize Cattle</English>
+		<PortugueseBR>Diminuir a ênfase no gado</PortugueseBR>
 		<French>Minimiser le Bétail</French>
 		<German>Schwerpunkt Rinder aufheben</German>
 		<Italian>De-accentuare bovini</Italian>
 		<Spanish>Desfavorecer Bovinos</Spanish>
+		<PortuguesePT>Secundarizar gado</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_CIGARS</Tag>
 		<English>Deemphasize Cigars</English>
+		<PortugueseBR>Diminuir a ênfase nos charutos</PortugueseBR>
 		<French>Minimiser les Cigares</French>
 		<German>Schwerpunkt Zigarren aufheben</German>
 		<Italian>De-accentuare sigari</Italian>
 		<Spanish>Desfavorecer Puros</Spanish>
+		<PortuguesePT> Secundarizar charutos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_CLOTH</Tag>
 		<English>Deemphasize Cloth</English>
+		<PortugueseBR>Desenfatizar o pano</PortugueseBR>
 		<French>Minimiser le Tissu</French>
 		<German>Schwerpunkt Stoff aufheben</German>
 		<Italian>De-accentuare tessuto</Italian>
 		<Spanish>Desfavorecer Tejido</Spanish>
+		<PortuguesePT> Secundarizar Tecido</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_COATS</Tag>
 		<English>Deemphasize Coats</English>
+		<PortugueseBR>Desenfatizar casacos</PortugueseBR>
 		<French>Minimiser les Manteaux</French>
 		<German>Schwerpunkt Mäntel aufheben</German>
 		<Italian>De-accentuare mantelli</Italian>
 		<Spanish>Desfavorecer Abrigos</Spanish>
+		<PortuguesePT> Secundarizar casacos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_COCA_LEAVES</Tag>
 		<English>Deemphasize Coca Leaves</English>
+		<PortugueseBR>Diminuir a ênfase nas folhas de coca</PortugueseBR>
 		<French>Minimiser la Coca</French>
 		<German>Schwerpunkt Coca-Blätter aufheben</German>
 		<Italian>De-accentuare foglie di coca</Italian>
 		<Spanish>Desfavorecer Hojas de coca</Spanish>
+		<PortuguesePT> Secundarizar folhas de coca</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_COCOA</Tag>
 		<English>Deemphasize Cocoa</English>
+		<PortugueseBR>Desenfatizar o cacau</PortugueseBR>
 		<French>Minimiser le Cacao torréfié</French>
 		<German>Schwerpunkt Kakao aufheben</German>
 		<Italian>De-accentuare cacao</Italian>
 		<Spanish>Desfavorecer Cacao</Spanish>
+		<PortuguesePT> Secundarizar Cacau</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_COCOA_FRUITS</Tag>
 		<English>Deemphasize Cocoa Pods</English>
+		<PortugueseBR>Diminuir a ênfase nos frutos de cacau</PortugueseBR>
 		<French>Minimiser les Fèves de cacao</French>
 		<German>Schwerpunkt Kakaofrüchte aufheben</German>
 		<Italian>De-accentuare frutta di cacao</Italian>
 		<Spanish>Desfavorecer Fruta del cacao</Spanish>
+		<PortuguesePT>Secundarizar grãos de cacau</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_COFFEE</Tag>
 		<English>Deemphasize Coffee</English>
+		<PortugueseBR>Diminuir a ênfase no café</PortugueseBR>
 		<French>Minimiser le Café torréfié</French>
 		<German>Schwerpunkt Kaffee aufheben</German>
 		<Italian>De-accentuare caffè</Italian>
 		<Spanish>Desfavorecer Café</Spanish>
+		<PortuguesePT>Secundarizar Café</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_COFFEE_BERRIES</Tag>
 		<English>Deemphasize Coffee Berries</English>
+		<PortugueseBR>Diminuir a ênfase nas frutas de café</PortugueseBR>
 		<French>Minimiser les Cerises de café</French>
 		<German>Schwerpunkt Kaffeebeeren aufheben</German>
 		<Italian>De-accentuare bacche di caffè</Italian>
 		<Spanish>Desfavorecer Bayas de café</Spanish>
+		<PortuguesePT>Secundarizar grãos de café</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_COLOURED_CLOTH</Tag>
 		<English>Deemphasize Coloured Cloth</English>
+		<PortugueseBR>Desenfatizar o pano colorido</PortugueseBR>
 		<French>Minimiser les Tissus teintés</French>
 		<German>Schwerpunkt Gefärbte Stoffe aufheben</German>
 		<Italian>De-accentuare tessuti tinti</Italian>
 		<Spanish>Desfavorecer Tejidos teñidos</Spanish>
+		<PortuguesePT> Secundarizar Tecidos coloridos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_COTTON</Tag>
 		<English>Deemphasize Cotton</English>
+		<PortugueseBR>Diminuir a ênfase do algodão</PortugueseBR>
 		<French>Minimiser le Coton</French>
 		<German>Schwerpunkt Baumwolle aufheben</German>
 		<Italian>De-accentuare cotone</Italian>
 		<Spanish>Desfavorecer Algodón</Spanish>
+		<PortuguesePT>Secundarizar Algodão</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_CROSSES</Tag>
 		<English>Deemphasize Crosses</English>
+		<PortugueseBR>Diminuir a ênfase nas cruzes</PortugueseBR>
 		<French>Minimiser les Croix</French>
 		<German>Schwerpunkt Kreuze aufheben</German>
 		<Italian>De-accentuare croci</Italian>
 		<Spanish>Desfavorecer Cruces</Spanish>
+		<PortuguesePT>Secundarizar Cruzes</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_EDUCATION</Tag>
 		<English>Deemphasize Education</English>
+		<PortugueseBR>Diminuir a ênfase na educação</PortugueseBR>
 		<French>Minimiser l'Éducation</French>
 		<German>Schwerpunkt Bildung aufheben</German>
 		<Italian>De-accentuare educazione</Italian>
 		<Spanish>Desfavorecer Educación</Spanish>
+		<PortuguesePT>Secundarizar Educação</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_FOOD</Tag>
 		<English>Deemphasize Food</English>
+		<PortugueseBR>Diminuir a ênfase na comida</PortugueseBR>
 		<French>Minimiser la Nourriture</French>
 		<German>Schwerpunkt Nahrung aufheben</German>
 		<Italian>De-accentuare cibo</Italian>
 		<Spanish>Desfavorecer Alimentos</Spanish>
+		<PortuguesePT>Secundarizar alimentos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_FUR</Tag>
 		<English>Deemphasize Fur</English>
+		<PortugueseBR>Diminuir a ênfase na pele</PortugueseBR>
 		<French>Minimiser la Fourrure</French>
 		<German>Schwerpunkt Pelz aufheben</German>
 		<Italian>De-accentuare pellicce</Italian>
 		<Spanish>Desfavorecer Pieles</Spanish>
+		<PortuguesePT>Secundarizar Peles</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_FURNITURE</Tag>
 		<English>Deemphasize Furniture</English>
+		<PortugueseBR>Diminuir a ênfase nos móveis</PortugueseBR>
 		<French>Minimiser les Meubles</French>
 		<German>Schwerpunkt Möbel aufheben</German>
 		<Italian>De-accentuare mobili</Italian>
 		<Spanish>Desfavorecer Muebles</Spanish>
+		<PortuguesePT>Secundarizar Móveis</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_GEMS</Tag>
 		<English>Deemphasize Gems</English>
+		<PortugueseBR>Diminuir a ênfase nas joias</PortugueseBR>
 		<French>Minimiser les Pierres précieuses</French>
 		<German>Schwerpunkt Edelsteine aufheben</German>
 		<Italian>De-accentuare pietre preziose</Italian>
 		<Spanish>Desfavorecer Piedras preciosas</Spanish>
+		<PortuguesePT> Secundarizar Pedras Preciosas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_GOLD</Tag>
 		<English>Deemphasize Gold</English>
+		<PortugueseBR>Diminuir a ênfase no ouro</PortugueseBR>
 		<French>Minimiser l'Or</French>
 		<German>Schwerpunkt Gold aufheben</German>
 		<Italian>De-accentuare oro</Italian>
 		<Spanish>Desfavorecer Oro</Spanish>
+		<PortuguesePT>Secundarizar Ouro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_GRAPES</Tag>
 		<English>Deemphasize Grapes</English>
+		<PortugueseBR>Diminuir a ênfase nas uvas</PortugueseBR>
 		<French>Minimiser le Raisin</French>
 		<German>Schwerpunkt Weintrauben aufheben</German>
 		<Italian>De-accentuare uve</Italian>
 		<Spanish>Desfavorecer Uvas</Spanish>
+		<PortuguesePT>Secundarizar Uvas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_HAMMERS</Tag>
 		<English>Deemphasize Production</English>
+		<PortugueseBR>Diminuir a ênfase na produção</PortugueseBR>
 		<French>Minimiser la Production</French>
 		<German>Schwerpunkt Produktion aufheben</German>
 		<Italian>De-accentuare produzione</Italian>
 		<Spanish>Desfavorecer Producción</Spanish>
+		<PortuguesePT>Secundarizar Produção</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_HEMP</Tag>
 		<English>Deemphasize Hemp</English>
+		<PortugueseBR>Diminuir a ênfase no cânhamo</PortugueseBR>
 		<French>Minimiser le Chanvre</French>
 		<German>Schwerpunkt Hanf aufheben</German>
 		<Italian>De-accentuare canapa</Italian>
 		<Spanish>Desfavorecer Cáñamo</Spanish>
+		<PortuguesePT> Secundarizar Cânhamo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_HIDES</Tag>
 		<English>Deemphasize Cowhides</English>
+		<PortugueseBR>Diminuir a ênfase em couros bovinos</PortugueseBR>
 		<French>Minimiser les Peaux de vache</French>
 		<German>Schwerpunkt Rindshäute aufheben</German>
 		<Italian>De-accentuare pelli di mucca</Italian>
 		<Spanish>Desfavorecer Pieles de vaca</Spanish>
+		<PortuguesePT> Secundarizar Pele de Vaca</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_HORSES</Tag>
 		<English>Deemphasize Horses</English>
+		<PortugueseBR>Diminuir a ênfase nos cavalos</PortugueseBR>
 		<French>Minimiser les Chevaux</French>
 		<German>Schwerpunkt Pferde aufheben</German>
 		<Italian>De-accentuare cavalli</Italian>
 		<Spanish>Desfavorecer Caballos</Spanish>
+		<PortuguesePT>Secundarizar Cavalos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_INDIGO</Tag>
 		<English>Deemphasize Indigo</English>
+		<PortugueseBR>Diminuir a ênfase no índigo</PortugueseBR>
 		<French>Minimiser l'Indigo</French>
 		<German>Schwerpunkt Indigo aufheben</German>
 		<Italian>De-accentuare indicado</Italian>
 		<Spanish>Desfavorecer Indigo</Spanish>
+		<PortuguesePT>Secundarizar Índigo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_LEATHER</Tag>
 		<English>Deemphasize Leather Goods</English>
+		<PortugueseBR>Diminuir a ênfase em artigos de couro</PortugueseBR>
 		<French>Minimiser le Cuir tanné</French>
 		<German>Schwerpunkt Lederwaren aufheben</German>
 		<Italian>De-accentuare pelletteria</Italian>
 		<Spanish>Desfavorecer Artículos de cuero</Spanish>
+		<PortuguesePT>Secundarizar Artigos de couro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_LUMBER</Tag>
 		<English>Deemphasize Lumber</English>
+		<PortugueseBR>Diminuir a ênfase na madeira serrada</PortugueseBR>
 		<French>Minimiser le Bois</French>
 		<German>Schwerpunkt Holz aufheben</German>
 		<Italian>De-accentuare legname</Italian>
 		<Spanish>Desfavorecer Madera</Spanish>
+		<PortuguesePT>Secundarizar madeira</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_MUSKETS</Tag>
 		<English>Deemphasize Guns</English>
+		<PortugueseBR>Diminuir a ênfase nas armas</PortugueseBR>
 		<French>Minimiser les Armes à feu</French>
 		<German>Schwerpunkt Schusswaffen aufheben</German>
 		<Italian>De-accentuare armi</Italian>
 		<Spanish>Desfavorecer Armas</Spanish>
+		<PortuguesePT> Secundarizar Armas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_ORE</Tag>
 		<English>Deemphasize Ore</English>
+		<PortugueseBR>Diminuir a ênfase do minério</PortugueseBR>
 		<French>Minimiser le Minerai de fer</French>
 		<German>Schwerpunkt Eisenerz aufheben</German>
 		<Italian>De-accentuare minerale</Italian>
 		<Spanish>Desfavorecer Mineral</Spanish>
+		<PortuguesePT>Secundarizar Minério</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_PREMIUM_COATS</Tag>
 		<English>Deemphasize Luxurious Coats</English>
+		<PortugueseBR>Desenfatize casacos luxuosos</PortugueseBR>
 		<French>Minimiser Manteaux de qualité</French>
 		<German>Schwerpunkt Teure Pelzkleidung aufheben</German>
 		<Italian>De-accentuare abbigliamento di pelliccia costoso</Italian>
 		<Spanish>Desfavorecer Ropa de pieles cara</Spanish>
+		<PortuguesePT> Secundarizar Casacos de Luxo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_PREMIUM_FUR</Tag>
 		<English>Deemphasize Luxury Furs</English>
+		<PortugueseBR>Diminuir a ênfase nas peles luxuosas</PortugueseBR>
 		<French>Minimiser Fourrure de qualité</French>
 		<German>Schwerpunkt Hochwertige Pelze aufheben</German>
 		<Italian>De-accentuare pellicce di alta qualità</Italian>
 		<Spanish>Desfavorecer Pieles de alta calidad</Spanish>
+		<PortuguesePT>Secundarizar Peles Premium</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_RAW_SALT</Tag>
 		<English>Deemphasize Rock Salt</English>
+		<PortugueseBR>Diminuir a ênfase no sal-gema</PortugueseBR>
 		<French>Minimiser le Sel brut</French>
 		<German>Schwerpunkt Steinsalz aufheben</German>
 		<Italian>De-accentuare salgemma</Italian>
 		<Spanish>Desfavorecer Sal gema</Spanish>
+		<PortuguesePT>Secundarizar Sal-gema</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_RED_PEPPER</Tag>
 		<English>Deemphasize Red Pepper</English>
+		<PortugueseBR>Diminuir a ênfase na pimenta vermelha</PortugueseBR>
 		<French>Minimiser le Piment rouge</French>
 		<German>Schwerpunkt Roter Pfeffer aufheben</German>
 		<Italian>De-accentuare pepe rosso</Italian>
 		<Spanish>Desfavorecer Pimiento rojo</Spanish>
+		<PortuguesePT>Secundarizar Pimento vermelho</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_ROPE</Tag>
 		<English>Deemphasize Ropes</English>
+		<PortugueseBR>Diminuir a ênfase nas cordas</PortugueseBR>
 		<French>Minimiser le Cordage</French>
 		<German>Schwerpunkt Seile aufheben</German>
 		<Italian>De-accentuare corde</Italian>
 		<Spanish>Desfavorecer Cuerdas</Spanish>
+		<PortuguesePT> Secundarizar Cordas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_RUM</Tag>
 		<English>Deemphasize Rum</English>
+		<PortugueseBR>Diminuir a ênfase no rum</PortugueseBR>
 		<French>Minimiser le Rhum</French>
 		<German>Schwerpunkt Rum aufheben</German>
 		<Italian>De-accentuare rum</Italian>
 		<Spanish>Desfavorecer Ron</Spanish>
+		<PortuguesePT>Secundarizar Rum</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_SAILCLOTH</Tag>
 		<English>Deemphasize Sailcloth</English>
+		<PortugueseBR>Desenfatizar a vela</PortugueseBR>
 		<French>Minimiser la Voile</French>
 		<German>Schwerpunkt Segeltuch aufheben</German>
 		<Italian>De-accentuare tela da vele</Italian>
 		<Spanish>Desfavorecer Lona</Spanish>
+		<PortuguesePT>Secundarizar Lona</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_SALT</Tag>
 		<English>Deemphasize Salt</English>
+		<PortugueseBR>Diminuir a ênfase no sal</PortugueseBR>
 		<French>Minimiser le Sel alimentaire</French>
 		<German>Schwerpunkt Salz aufheben</German>
 		<Italian>De-accentuare sale</Italian>
 		<Spanish>Desfavorecer Sal</Spanish>
+		<PortuguesePT>Secundarizar Sal</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_SHEEP</Tag>
 		<English>Deemphasize Sheep</English>
+		<PortugueseBR>Diminuir a ênfase nas ovelhas</PortugueseBR>
 		<French>Minimiser le Mouton</French>
 		<German>Schwerpunkt Schafe aufheben</German>
 		<Italian>De-accentuare pecore</Italian>
 		<Spanish>Desfavorecer Ovejas</Spanish>
+		<PortuguesePT>Secundarizar Ovelhas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_SILVER</Tag>
 		<English>Deemphasize Silver</English>
+		<PortugueseBR>Diminuir a ênfase na prata</PortugueseBR>
 		<French>Minimiser l'Argent</French>
 		<German>Schwerpunkt Silber aufheben</German>
 		<Italian>De-accentuare argento</Italian>
 		<Spanish>Desfavorecer Plata</Spanish>
+		<PortuguesePT>Secundarizar Prata</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_SPICES</Tag>
 		<English>Deemphasize Spices</English>
+		<PortugueseBR>Diminuir a ênfase nas especiarias</PortugueseBR>
 		<French>Minimiser les Épices</French>
 		<German>Schwerpunkt Gewürze aufheben</German>
 		<Italian>De-accentuare spezie</Italian>
 		<Spanish>Desfavorecer Especias</Spanish>
+		<PortuguesePT>Secundarizar Especiarias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_STONE</Tag>
 		<English>Deemphasize Stone</English>
+		<PortugueseBR>Desenfatizar Pedra</PortugueseBR>
 		<French>Minimiser la Pierre</French>
 		<German>Schwerpunkt Steine aufheben</German>
 		<Italian>De-accentuare pietre</Italian>
 		<Spanish>Desfavorecer Piedra</Spanish>
+		<PortuguesePT>Secundarizar Pedra</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_SUGAR</Tag>
 		<English>Deemphasize Sugar</English>
+		<PortugueseBR>Diminuir a ênfase no açúcar</PortugueseBR>
 		<French>Minimiser le Sucre</French>
 		<German>Schwerpunkt Zucker aufheben</German>
 		<Italian>De-accentuare zucchero</Italian>
 		<Spanish>Desfavorecer Azúcar</Spanish>
+		<PortuguesePT>Secundarizar Açúcar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_TOBACCO</Tag>
 		<English>Deemphasize Tobacco</English>
+		<PortugueseBR>Diminuir a ênfase no tabaco</PortugueseBR>
 		<French>Minimiser le Tabac</French>
 		<German>Schwerpunkt Tabak aufheben</German>
 		<Italian>De-accentuare tabacco</Italian>
 		<Spanish>Desfavorecer Tabaco</Spanish>
+		<PortuguesePT>Secundarizar Tabaco</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_TOOLS</Tag>
 		<English>Deemphasize Tools</English>
+		<PortugueseBR>Desenfatizar ferramentas</PortugueseBR>
 		<French>Minimiser les Outils</French>
 		<German>Schwerpunkt Werkzeuge aufheben</German>
 		<Italian>De-accentuare attrezzi</Italian>
 		<Spanish>Desfavorecer Herramientas</Spanish>
+		<PortuguesePT>Secundarizar Ferramentas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_VALUABLE_WOOD</Tag>
 		<English>Deemphasize Exotic Wood</English>
+		<PortugueseBR>Diminuir a ênfase na madeira exótica</PortugueseBR>
 		<French>Minimiser le Bois précieux</French>
 		<German>Schwerpunkt Edelholz aufheben</German>
 		<Italian>De-accentuare legno pregiato</Italian>
 		<Spanish>Desfavorecer Madera fina</Spanish>
+		<PortuguesePT>Secundarizar Madeira exótica</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_WHALE_OIL</Tag>
 		<English>Deemphasize Train Oil</English>
+		<PortugueseBR>Diminuir a ênfase no óleo de baleia</PortugueseBR>
 		<French>Minimiser l'Huile de baleine</French>
 		<German>Schwerpunkt Tran aufheben</German>
 		<Italian>De-accentuare olio di balena</Italian>
 		<Spanish>Desfavorecer Aceite de ballena</Spanish>
+		<PortuguesePT>Secundarizar Óleo de Baleia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_WINE</Tag>
 		<English>Deemphasize Wine</English>
+		<PortugueseBR>Diminuir a ênfase no vinho</PortugueseBR>
 		<French>Minimiser le Vin</French>
 		<German>Schwerpunkt Wein aufheben</German>
 		<Italian>De-accentuare vino</Italian>
 		<Spanish>Desfavorecer Vino</Spanish>
+		<PortuguesePT>Secundarizar Vinho</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_WOOL</Tag>
 		<English>Deemphasize Wool</English>
+		<PortugueseBR>Diminuir a ênfase na lã</PortugueseBR>
 		<French>Minimiser la Laine</French>
 		<German>Schwerpunkt Schafswolle aufheben</German>
 		<Italian>De-accentuare lana di pecora</Italian>
 		<Spanish>Desfavorecer Lana de oveja</Spanish>
+		<PortuguesePT>Secundarizar Lã</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_NO_WOOL_CLOTH</Tag>
 		<English>Deemphasize Wool Cloth</English>
+		<PortugueseBR>Desenfatizar o pano de lã</PortugueseBR>
 		<French>Minimiser les Draps de laine</French>
 		<German>Schwerpunkt Wollstoffe aufheben</German>
 		<Italian>De-accentuare vestiti di lana</Italian>
 		<Spanish>Desfavorecer Ropa de lana</Spanish>
+		<PortuguesePT>Secundarizar Roupa de lã</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_ORE</Tag>
 		<English>Emphasize Ore</English>
+		<PortugueseBR>Enfatizar minério</PortugueseBR>
 		<French>Privilégier le Minerai de fer</French>
 		<German>Schwerpunkt Eisenerz</German>
 		<Italian>Accentuare minerale</Italian>
 		<Spanish>Favorecer Mineral</Spanish>
+		<PortuguesePT>Priorizar Minério</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_PREMIUM_COATS</Tag>
 		<English>Emphasize Luxurious Coats</English>
+		<PortugueseBR>Enfatize casacos luxuosos</PortugueseBR>
 		<French>Privilégier Manteaux de qualité</French>
 		<German>Schwerpunkt Teure Pelzkleidung</German>
 		<Italian>Accentuare abbigliamento di pelliccia costoso</Italian>
 		<Spanish>Favorecer Ropa de pieles cara</Spanish>
+		<PortuguesePT>Priorizar Casacos de Luxo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_PREMIUM_FUR</Tag>
 		<English>Emphasize Luxury Furs</English>
+		<PortugueseBR>Enfatize peles luxuosas</PortugueseBR>
 		<French>Privilégier la Fourrure de qualité</French>
 		<German>Schwerpunkt Hochwertige Pelze</German>
 		<Italian>Accentuare pellicce di alta qualità</Italian>
 		<Spanish>Favorecer Pieles de alta calidad</Spanish>
+		<PortuguesePT>Priorizar Peles Premium</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_RAW_SALT</Tag>
 		<English>Emphasize Rock Salt</English>
+		<PortugueseBR>Enfatize o sal-gema</PortugueseBR>
 		<French>Privilégier le Sel brut</French>
 		<German>Schwerpunkt Steinsalz</German>
 		<Italian>Accentuare salgemma</Italian>
 		<Spanish>Favorecer Sal gema</Spanish>
+		<PortuguesePT>Priorizar Sal-gema</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_RED_PEPPER</Tag>
 		<English>Emphasize Red Pepper</English>
+		<PortugueseBR>Enfatize a pimenta vermelha</PortugueseBR>
 		<French>Privilégier le Piment rouge</French>
 		<German>Schwerpunkt Roter Pfeffer</German>
 		<Italian>Accentuare pepe rosso</Italian>
 		<Spanish>Favorecer Pimiento rojo</Spanish>
+		<PortuguesePT>Priorizar Pimento vermelho</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_ROPE</Tag>
 		<English>Emphasize Ropes</English>
+		<PortugueseBR>Enfatize as cordas</PortugueseBR>
 		<French>Privilégier le Cordage</French>
 		<German>Schwerpunkt Seile</German>
 		<Italian>Accentuare corde</Italian>
 		<Spanish>Favorecer Cuerdas</Spanish>
+		<PortuguesePT>Priorizar Cordas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_RUM</Tag>
 		<English>Emphasize Rum</English>
+		<PortugueseBR>Enfatize o rum</PortugueseBR>
 		<French>Privilégier le Rhum</French>
 		<German>Schwerpunkt Rum</German>
 		<Italian>Accentuare rum</Italian>
 		<Spanish>Favorecer Ron</Spanish>
+		<PortuguesePT>Priorizar Rum</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_SAILCLOTH</Tag>
 		<English>Emphasize Sailcloth</English>
+		<PortugueseBR>Enfatizar a vela</PortugueseBR>
 		<French>Privilégier la Voile</French>
 		<German>Schwerpunkt Segeltuch</German>
 		<Italian>Accentuare tela da vele</Italian>
 		<Spanish>Favorecer Lona</Spanish>
+		<PortuguesePT>Priorizar Lona </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_SALT</Tag>
 		<English>Emphasize Salt</English>
+		<PortugueseBR>Enfatize o sal</PortugueseBR>
 		<French>Privilégier le Sel alimentaire</French>
 		<German>Schwerpunkt Salz</German>
 		<Italian>Accentuare sale</Italian>
 		<Spanish>Favorecer Sal</Spanish>
+		<PortuguesePT>Priorizar Sal</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_SHEEP</Tag>
 		<English>Emphasize Sheep</English>
+		<PortugueseBR>Enfatize ovelhas</PortugueseBR>
 		<French>Privilégier le Mouton</French>
 		<German>Schwerpunkt Schafe</German>
 		<Italian>Accentuare pecore</Italian>
 		<Spanish>Favorecer Ovejas</Spanish>
+		<PortuguesePT>Priorizar Ovelhas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_SILVER</Tag>
 		<English>Emphasize Silver</English>
+		<PortugueseBR>Enfatizar Prata</PortugueseBR>
 		<French>Privilégier l'Argent</French>
 		<German>Schwerpunkt Silber</German>
 		<Italian>Accentuare argento</Italian>
 		<Spanish>Favorecer Plata</Spanish>
+		<PortuguesePT>Priorizar Prata</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_SPICES</Tag>
 		<English>Emphasize Spices</English>
+		<PortugueseBR>Enfatize as especiarias</PortugueseBR>
 		<French>Privilégier les Épices</French>
 		<German>Schwerpunkt Gewürze</German>
 		<Italian>Accentuare spezie</Italian>
 		<Spanish>Favorecer Especias</Spanish>
+		<PortuguesePT>Priorizar Especiarias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_STONE</Tag>
 		<English>Emphasize Stone</English>
+		<PortugueseBR>Enfatizar Pedra</PortugueseBR>
 		<French>Privilégier la Pierre</French>
 		<German>Schwerpunkt Steine</German>
 		<Italian>Accentuare pietre</Italian>
 		<Spanish>Favorecer Piedra</Spanish>
+		<PortuguesePT>Priorizar Pedra</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_SUGAR</Tag>
 		<English>Emphasize Sugar</English>
+		<PortugueseBR>Enfatize o açúcar</PortugueseBR>
 		<French>Privilégier le Sucre</French>
 		<German>Schwerpunkt Zucker</German>
 		<Italian>Accentuare zucchero</Italian>
 		<Spanish>Favorecer Azúcar</Spanish>
+		<PortuguesePT>Priorizar Açúcar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_TOBACCO</Tag>
 		<English>Emphasize Tobacco</English>
+		<PortugueseBR>Enfatize o tabaco</PortugueseBR>
 		<French>Privilégier le Tabac</French>
 		<German>Schwerpunkt Tabak</German>
 		<Italian>Accentuare tabacco</Italian>
 		<Spanish>Favorecer Tabaco</Spanish>
+		<PortuguesePT>Priorizar Tabaco</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_TOOLS</Tag>
 		<English>Emphasize Tools</English>
+		<PortugueseBR>Enfatizar ferramentas</PortugueseBR>
 		<French>Privilégier les Outils</French>
 		<German>Schwerpunkt Werkzeuge</German>
 		<Italian>Accentuare strumenti</Italian>
 		<Spanish>Favorecer Herramientas</Spanish>
+		<PortuguesePT>Priorizar Ferramentas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_VALUABLE_WOOD</Tag>
 		<English>Emphasize Exotic Wood</English>
+		<PortugueseBR>Enfatize a madeira exótica</PortugueseBR>
 		<French>Privilégier le Bois précieux</French>
 		<German>Schwerpunkt Edelholz</German>
 		<Italian>Accentuare legno pregiato</Italian>
 		<Spanish>Favorecer Madera fina</Spanish>
+		<PortuguesePT>Priorizar Madeira Exótica</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_WHALE_OIL</Tag>
 		<English>Emphasize Train Oil</English>
+		<PortugueseBR>Enfatize o óleo de baleia</PortugueseBR>
 		<French>Privilégier l'Huile de baleine</French>
 		<German>Schwerpunkt Tran</German>
 		<Italian>Accentuare olio di balena</Italian>
 		<Spanish>Favorecer Aceite de ballena</Spanish>
+		<PortuguesePT>Priorizar Óleo de Baleia</PortuguesePT>
+
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_WINE</Tag>
 		<English>Emphasize Wine</English>
+		<PortugueseBR>Enfatize o Vinho</PortugueseBR>
 		<French>Privilégier le Vin</French>
 		<German>Schwerpunkt Wein</German>
 		<Italian>Accentuare vino</Italian>
 		<Spanish>Favorecer Vino</Spanish>
+		<PortuguesePT>Priorizar Vinho</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_WOOL</Tag>
 		<English>Emphasize Wool</English>
+		<PortugueseBR>Enfatizar Lã</PortugueseBR>
 		<French>Privilégier la Laine</French>
 		<German>Schwerpunkt Schafswolle</German>
 		<Italian>Accentuare lana di pecora</Italian>
 		<Spanish>Favorecer Lana de oveja</Spanish>
+		<PortuguesePT>Priorizar Lã</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPHASIZE_WOOL_CLOTH</Tag>
 		<English>Emphasize Wool Cloth</English>
+		<PortugueseBR>Enfatize o pano de lã</PortugueseBR>
 		<French>Privilégier les Draps de laine</French>
 		<German>Schwerpunkt Wollstoffe</German>
 		<Italian>Accentuare vestiti di lana</Italian>
 		<Spanish>Favorecer Ropa de lana</Spanish>
+		<PortuguesePT>Priorizar Roupa de lã</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
